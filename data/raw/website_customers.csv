@@ -1,0 +1,1021 @@
+CustomerEmail,First Name,Last Name,Phone,Region,Registration Date,OptOut
+customer92@company.com,Maria,Smith,+1 (555) 123-4567,North America,2020-01-01,0
+customer620@company.com,José,Johnson,+44 20 7946 0958,us,2020-01-01,0
+customer752@company.com,André,Williams,+44 20 7946 0958,N/A,2020-01-01,0
+customer423@gmail.com,Léa,Brown,5551234567,europe,2020-01-01,0
+customer141@gmail.com,François,Jones,+44 20 7946 0958,eu,2020-01-01,0
+customer290@company.com,Müller,Garcia,020 7946 0958,APAC,2020-01-01,0
+customer431@company.com,O'Brien,Martínez,5551234567,eu,2020-01-02,0
+customer748@yahoo.com,John,Díaz,5551234567,US,2020-01-02,0
+customer688@yahoo.com,Jane,López,invalid-phone,apac,2020-01-02,0
+customer652@yahoo.com,Mike,González,555.123.4567,APAC,2020-01-02,0
+customer700@yahoo.com,Sarah,Wang,5551234567,North America,2020-01-02,0
+customer48@gmail.com,Alex,Kim,+1 (555) 123-4567,Asia Pacific,2020-01-02,0
+customer301@yahoo.com,Chris,Mensah,020 7946 0958,Europe,2020-01-03,0
+customer189@gmail.com,Ama,Asante,invalid-phone,Europe,2020-01-03,0
+customer135@gmail.com,Kofi,Boateng,+81-3-1234-5678,eu,2020-01-03,1
+customer554@company.com,Evans,Smith,+1 (555) 123-4567,EU,2020-01-03,0
+customer403@yahoo.com,Abena,Johnson,020 7946 0958,EMEA,2020-01-03,0
+customer601@yahoo.com,Kwame,Williams,+81-3-1234-5678,Asia,2020-01-03,0
+customer340@yahoo.com,Akosua,Brown,+1 (555) 123-4567,North America,2020-01-04,0
+customer756@gmail.com,Yaw,Jones,+44 20 7946 0958,eu,2020-01-04,0
+customer703@yahoo.com,Maria,Garcia,+44 20 7946 0958,AP,2020-01-04,0
+customer317@company.com,José,Martínez,020 7946 0958,united states,2020-01-04,1
+customer617@company.com,André,Díaz,555.123.4567,US,2020-01-04,0
+customer362@company.com,Léa,López,+1 (555) 123-4567,USA,2020-01-04,0
+customer381@gmail.com,François,González,invalid-phone,europe,2020-01-05,0
+customer232@yahoo.com,Müller,Wang,020 7946 0958,EMEA,2020-01-05,0
+customer776@company.com,O'Brien,Kim,+44 20 7946 0958,eu,2020-01-05,0
+customer343@yahoo.com,John,Mensah,5551234567,Europe,2020-01-05,0
+customer548@company.com,Jane,Asante,+1 (555) 123-4567,eu,2020-01-05,0
+customer552@gmail.com,Mike,Boateng,invalid-phone,EU,2020-01-05,1
+customer528@gmail.com,Sarah,Smith,020 7946 0958,europe,2020-01-06,0
+customer788@company.com,Alex,Johnson,+44 20 7946 0958,North America,2020-01-06,0
+customer570@gmail.com,Chris,Williams,+81-3-1234-5678,,2020-01-06,0
+customer182@company.com,Ama,Brown,+44 20 7946 0958,eu,2020-01-06,0
+customer40@yahoo.com,Kofi,Jones,5551234567,North America,2020-01-06,0
+customer550@yahoo.com,Evans,Garcia,5551234567,US,2020-01-06,0
+customer396@gmail.com,Abena,Martínez,+44 20 7946 0958,apac,2020-01-07,0
+customer703@yahoo.com,Kwame,Díaz,+44 20 7946 0958,Europe,2020-01-07,0
+customer778@yahoo.com,Akosua,López,+44 20 7946 0958,EU,2020-01-07,0
+customer493@yahoo.com,Yaw,González,020 7946 0958,us,2020-01-07,0
+customer658@yahoo.com,Maria,Wang,555.123.4567,europe,2020-01-07,0
+customer332@company.com,José,Kim,,APAC,2020-01-07,0
+customer126@gmail.com,André,Mensah,invalid-phone,N/A,2020-01-08,0
+customer557@company.com,Léa,Asante,020 7946 0958,united states,2020-01-08,0
+customer556@yahoo.com,François,Boateng,invalid-phone,eu,2020-01-08,0
+customer0@gmail.com,Müller,Smith,020 7946 0958,,2020-01-08,0
+customer167@company.com,O'Brien,Johnson,+1 (555) 123-4567,Europe,2020-01-08,1
+customer619@yahoo.com,John,Williams,invalid-phone,us,2020-01-08,0
+customer18@gmail.com,Jane,Brown,+81-3-1234-5678,N/A,2020-01-09,0
+customer331@yahoo.com,Mike,Jones,555.123.4567,EU,2020-01-09,0
+customer583@yahoo.com,Sarah,Garcia,,eu,2020-01-09,0
+customer455@company.com,Alex,Martínez,020 7946 0958,USA,2020-01-09,0
+customer108@gmail.com,Chris,Díaz,+81-3-1234-5678,APAC,2020-01-09,0
+customer267@gmail.com,Ama,López,+44 20 7946 0958,EU,2020-01-09,0
+customer444@gmail.com,Kofi,González,020 7946 0958,europe,2020-01-10,0
+customer239@company.com,Evans,Wang,020 7946 0958,Asia Pacific,2020-01-10,0
+customer300@gmail.com,Abena,Kim,invalid-phone,EMEA,2020-01-10,0
+customer601@yahoo.com,Kwame,Mensah,5551234567,us,2020-01-10,0
+customer102@gmail.com,Akosua,Asante,020 7946 0958,AP,2020-01-10,0
+customer249@gmail.com,Yaw,Boateng,555.123.4567,EU,2020-01-10,0
+customer452@company.com,Maria,Smith,020 7946 0958,,2020-01-11,0
+customer519@gmail.com,José,Johnson,555.123.4567,us,2020-01-11,0
+customer152@company.com,André,Williams,invalid-phone,USA,2020-01-11,0
+customer173@company.com,Léa,Brown,555.123.4567,apac,2020-01-11,1
+customer342@gmail.com,François,Jones,+1 (555) 123-4567,AP,2020-01-11,0
+customer669@gmail.com,Müller,Garcia,+81-3-1234-5678,us,2020-01-11,1
+customer430@yahoo.com,O'Brien,Martínez,555.123.4567,Asia,2020-01-12,0
+customer726@gmail.com,John,Díaz,5551234567,europe,2020-01-12,1
+customer688@yahoo.com,Jane,López,invalid-phone,N/A,2020-01-12,0
+customer686@company.com,Mike,González,020 7946 0958,Europe,2020-01-12,0
+customer657@gmail.com,Sarah,Wang,,US,2020-01-12,0
+customer323@company.com,Alex,Kim,555.123.4567,EU,2020-01-12,0
+customer672@gmail.com,Chris,Mensah,+81-3-1234-5678,EU,2020-01-13,0
+customer638@company.com,Ama,Asante,+81-3-1234-5678,Asia Pacific,2020-01-13,0
+customer419@company.com,Kofi,Boateng,,N/A,2020-01-13,0
+customer593@company.com,Evans,Smith,invalid-phone,us,2020-01-13,0
+customer484@yahoo.com,Abena,Johnson,+81-3-1234-5678,Europe,2020-01-13,1
+customer658@yahoo.com,Kwame,Williams,+1 (555) 123-4567,europe,2020-01-13,1
+customer750@gmail.com,Akosua,Brown,+44 20 7946 0958,eu,2020-01-14,1
+customer411@gmail.com,Yaw,Jones,,europe,2020-01-14,0
+customer83@company.com,Maria,Garcia,+44 20 7946 0958,EMEA,2020-01-14,0
+customer112@yahoo.com,José,Martínez,invalid-phone,united states,2020-01-14,0
+customer736@yahoo.com,André,Díaz,5551234567,US,2020-01-14,0
+customer331@yahoo.com,Léa,López,,us,2020-01-14,0
+customer377@company.com,François,González,5551234567,eu,2020-01-15,0
+customer754@yahoo.com,Müller,Wang,+1 (555) 123-4567,USA,2020-01-15,0
+customer654@gmail.com,O'Brien,Kim,+44 20 7946 0958,europe,2020-01-15,0
+customer40@yahoo.com,John,Mensah,+81-3-1234-5678,AP,2020-01-15,1
+customer769@yahoo.com,Jane,Asante,,USA,2020-01-15,0
+customer796@yahoo.com,Mike,Boateng,+44 20 7946 0958,N/A,2020-01-15,1
+customer104@company.com,Sarah,Smith,+44 20 7946 0958,Asia,2020-01-16,0
+customer201@gmail.com,Alex,Johnson,020 7946 0958,apac,2020-01-16,0
+customer449@company.com,Chris,Williams,+44 20 7946 0958,Europe,2020-01-16,0
+customer265@yahoo.com,Ama,Brown,invalid-phone,apac,2020-01-16,0
+customer209@company.com,Kofi,Jones,555.123.4567,EMEA,2020-01-16,0
+customer562@yahoo.com,Evans,Garcia,020 7946 0958,eu,2020-01-16,0
+customer117@gmail.com,Abena,Martínez,+81-3-1234-5678,North America,2020-01-17,0
+customer712@yahoo.com,Kwame,Díaz,invalid-phone,N/A,2020-01-17,0
+customer376@yahoo.com,Akosua,López,invalid-phone,Europe,2020-01-17,0
+customer550@yahoo.com,Yaw,González,5551234567,N/A,2020-01-17,1
+customer539@company.com,Maria,Wang,5551234567,Asia,2020-01-17,0
+customer770@company.com,José,Kim,555.123.4567,USA,2020-01-17,0
+customer83@company.com,André,Mensah,020 7946 0958,AP,2020-01-18,0
+customer453@gmail.com,Léa,Asante,,europe,2020-01-18,0
+customer666@gmail.com,François,Boateng,020 7946 0958,united states,2020-01-18,0
+customer628@yahoo.com,Müller,Smith,,united states,2020-01-18,0
+customer513@gmail.com,O'Brien,Johnson,020 7946 0958,Europe,2020-01-18,1
+customer604@yahoo.com,John,Williams,020 7946 0958,united states,2020-01-18,0
+customer677@company.com,Jane,Brown,,eu,2020-01-19,1
+customer386@company.com,Mike,Jones,555.123.4567,,2020-01-19,1
+customer349@yahoo.com,Sarah,Garcia,+44 20 7946 0958,USA,2020-01-19,0
+customer295@yahoo.com,Alex,Martínez,5551234567,Europe,2020-01-19,0
+customer257@company.com,Chris,Díaz,020 7946 0958,USA,2020-01-19,1
+customer80@company.com,Ama,López,555.123.4567,united states,2020-01-19,0
+customer267@gmail.com,Kofi,González,,Asia Pacific,2020-01-20,0
+customer418@yahoo.com,Evans,Wang,020 7946 0958,APAC,2020-01-20,1
+customer234@gmail.com,Abena,Kim,555.123.4567,AP,2020-01-20,0
+customer310@yahoo.com,Kwame,Mensah,+44 20 7946 0958,US,2020-01-20,0
+customer356@company.com,Akosua,Asante,555.123.4567,North America,2020-01-20,0
+customer212@company.com,Yaw,Boateng,020 7946 0958,APAC,2020-01-20,0
+customer573@gmail.com,Maria,Smith,+1 (555) 123-4567,Europe,2020-01-21,0
+customer48@gmail.com,José,Johnson,invalid-phone,North America,2020-01-21,0
+customer126@gmail.com,André,Williams,+81-3-1234-5678,APAC,2020-01-21,0
+customer222@gmail.com,Léa,Brown,+1 (555) 123-4567,EMEA,2020-01-21,0
+customer278@company.com,François,Jones,+1 (555) 123-4567,us,2020-01-21,0
+customer407@company.com,Müller,Garcia,5551234567,us,2020-01-21,0
+customer504@gmail.com,O'Brien,Martínez,5551234567,,2020-01-22,0
+customer293@company.com,John,Díaz,5551234567,APAC,2020-01-22,0
+customer795@gmail.com,Jane,López,555.123.4567,apac,2020-01-22,0
+customer276@gmail.com,Mike,González,,US,2020-01-22,0
+customer437@company.com,Sarah,Wang,,USA,2020-01-22,0
+customer106@yahoo.com,Alex,Kim,020 7946 0958,North America,2020-01-22,1
+customer657@gmail.com,Chris,Mensah,+81-3-1234-5678,,2020-01-23,0
+customer419@company.com,Ama,Asante,+1 (555) 123-4567,North America,2020-01-23,0
+customer610@yahoo.com,Kofi,Boateng,,,2020-01-23,0
+customer428@company.com,Evans,Smith,555.123.4567,europe,2020-01-23,0
+customer374@company.com,Abena,Johnson,555.123.4567,US,2020-01-23,0
+customer72@gmail.com,Kwame,Williams,+1 (555) 123-4567,,2020-01-23,0
+customer633@gmail.com,Akosua,Brown,5551234567,us,2020-01-24,0
+customer29@company.com,Yaw,Jones,020 7946 0958,North America,2020-01-24,0
+customer187@yahoo.com,Maria,Garcia,,US,2020-01-24,0
+customer363@gmail.com,José,Martínez,,eu,2020-01-24,0
+customer799@yahoo.com,André,Díaz,+1 (555) 123-4567,Asia,2020-01-24,0
+customer450@gmail.com,Léa,López,+44 20 7946 0958,apac,2020-01-24,0
+customer194@company.com,François,González,invalid-phone,EU,2020-01-25,0
+customer155@company.com,Müller,Wang,020 7946 0958,Europe,2020-01-25,0
+customer171@gmail.com,O'Brien,Kim,5551234567,North America,2020-01-25,0
+customer40@yahoo.com,John,Mensah,+81-3-1234-5678,united states,2020-01-25,0
+customer62@company.com,Jane,Asante,5551234567,North America,2020-01-25,0
+customer22@yahoo.com,Mike,Boateng,+81-3-1234-5678,Europe,2020-01-25,0
+customer359@company.com,Sarah,Smith,020 7946 0958,Asia Pacific,2020-01-26,0
+customer74@company.com,Alex,Johnson,+1 (555) 123-4567,us,2020-01-26,0
+customer559@yahoo.com,Chris,Williams,+1 (555) 123-4567,eu,2020-01-26,0
+customer671@company.com,Ama,Brown,020 7946 0958,united states,2020-01-26,1
+customer117@gmail.com,Kofi,Jones,invalid-phone,US,2020-01-26,0
+customer611@company.com,Evans,Garcia,+1 (555) 123-4567,N/A,2020-01-26,0
+customer379@yahoo.com,Abena,Martínez,+81-3-1234-5678,North America,2020-01-27,0
+customer678@gmail.com,Kwame,Díaz,+81-3-1234-5678,europe,2020-01-27,0
+customer289@yahoo.com,Akosua,López,5551234567,AP,2020-01-27,0
+customer439@yahoo.com,Yaw,González,+1 (555) 123-4567,united states,2020-01-27,0
+customer667@yahoo.com,Maria,Wang,555.123.4567,,2020-01-27,0
+customer6@gmail.com,José,Kim,,USA,2020-01-27,1
+customer195@gmail.com,André,Mensah,+1 (555) 123-4567,EMEA,2020-01-28,0
+customer420@gmail.com,Léa,Asante,,US,2020-01-28,1
+customer567@gmail.com,François,Boateng,+1 (555) 123-4567,USA,2020-01-28,0
+customer192@gmail.com,Müller,Smith,,North America,2020-01-28,0
+customer558@gmail.com,O'Brien,Johnson,5551234567,US,2020-01-28,0
+customer147@gmail.com,John,Williams,invalid-phone,Europe,2020-01-28,0
+customer786@gmail.com,Jane,Brown,+81-3-1234-5678,europe,2020-01-29,0
+customer668@company.com,Mike,Jones,invalid-phone,,2020-01-29,0
+customer201@gmail.com,Sarah,Garcia,+1 (555) 123-4567,,2020-01-29,0
+customer443@company.com,Alex,Martínez,5551234567,EMEA,2020-01-29,0
+customer418@yahoo.com,Chris,Díaz,+44 20 7946 0958,united states,2020-01-29,0
+customer426@gmail.com,Ama,López,+81-3-1234-5678,EU,2020-01-29,1
+customer478@yahoo.com,Kofi,González,+1 (555) 123-4567,europe,2020-01-30,0
+customer474@gmail.com,Evans,Wang,+1 (555) 123-4567,Asia,2020-01-30,0
+customer125@company.com,Abena,Kim,+1 (555) 123-4567,US,2020-01-30,1
+customer394@yahoo.com,Kwame,Mensah,+44 20 7946 0958,Europe,2020-01-30,0
+customer575@company.com,Akosua,Asante,020 7946 0958,USA,2020-01-30,0
+customer324@gmail.com,Yaw,Boateng,555.123.4567,EMEA,2020-01-30,0
+customer391@yahoo.com,Maria,Smith,5551234567,united states,2020-01-31,1
+customer687@gmail.com,José,Johnson,555.123.4567,,2020-01-31,0
+customer627@gmail.com,André,Williams,+1 (555) 123-4567,Asia,2020-01-31,0
+customer439@yahoo.com,Léa,Brown,555.123.4567,,2020-01-31,0
+customer203@company.com,François,Jones,+81-3-1234-5678,Asia Pacific,2020-01-31,0
+customer485@company.com,Müller,Garcia,,united states,2020-01-31,0
+customer30@gmail.com,O'Brien,Martínez,+81-3-1234-5678,,2020-02-01,0
+customer387@gmail.com,John,Díaz,+44 20 7946 0958,apac,2020-02-01,0
+customer624@gmail.com,Jane,López,invalid-phone,EMEA,2020-02-01,0
+customer433@yahoo.com,Mike,González,555.123.4567,APAC,2020-02-01,1
+customer375@gmail.com,Sarah,Wang,invalid-phone,USA,2020-02-01,0
+customer343@yahoo.com,Alex,Kim,555.123.4567,USA,2020-02-01,0
+customer442@yahoo.com,Chris,Mensah,+44 20 7946 0958,europe,2020-02-02,0
+customer578@company.com,Ama,Asante,+81-3-1234-5678,,2020-02-02,0
+customer74@company.com,Kofi,Boateng,invalid-phone,,2020-02-02,1
+customer556@yahoo.com,Evans,Smith,555.123.4567,Asia Pacific,2020-02-02,0
+customer771@gmail.com,Abena,Johnson,+1 (555) 123-4567,Asia Pacific,2020-02-02,0
+customer665@company.com,Kwame,Williams,+1 (555) 123-4567,North America,2020-02-02,0
+customer154@yahoo.com,Akosua,Brown,+81-3-1234-5678,AP,2020-02-03,0
+customer429@gmail.com,Yaw,Jones,5551234567,Europe,2020-02-03,0
+customer362@company.com,Maria,Garcia,555.123.4567,AP,2020-02-03,0
+customer447@gmail.com,José,Martínez,,Europe,2020-02-03,0
+customer233@company.com,André,Díaz,+81-3-1234-5678,europe,2020-02-03,1
+customer562@yahoo.com,Léa,López,+1 (555) 123-4567,us,2020-02-03,0
+customer261@gmail.com,François,González,020 7946 0958,Europe,2020-02-04,0
+customer124@yahoo.com,Müller,Wang,020 7946 0958,eu,2020-02-04,0
+customer244@yahoo.com,O'Brien,Kim,020 7946 0958,North America,2020-02-04,0
+customer541@yahoo.com,John,Mensah,,US,2020-02-04,0
+customer484@yahoo.com,Jane,Asante,+81-3-1234-5678,US,2020-02-04,0
+customer121@yahoo.com,Mike,Boateng,5551234567,united states,2020-02-04,0
+customer124@yahoo.com,Sarah,Smith,invalid-phone,EMEA,2020-02-05,1
+customer548@company.com,Alex,Johnson,555.123.4567,Asia Pacific,2020-02-05,0
+customer169@yahoo.com,Chris,Williams,+44 20 7946 0958,Europe,2020-02-05,0
+customer123@gmail.com,Ama,Brown,,APAC,2020-02-05,0
+customer34@yahoo.com,Kofi,Jones,555.123.4567,AP,2020-02-05,0
+customer86@company.com,Evans,Garcia,+44 20 7946 0958,apac,2020-02-05,0
+customer645@gmail.com,Abena,Martínez,5551234567,US,2020-02-06,0
+customer707@company.com,Kwame,Díaz,+44 20 7946 0958,USA,2020-02-06,1
+customer785@company.com,Akosua,López,555.123.4567,EU,2020-02-06,1
+customer200@company.com,Yaw,González,+81-3-1234-5678,EU,2020-02-06,1
+customer368@company.com,Maria,Wang,invalid-phone,EU,2020-02-06,0
+customer796@yahoo.com,José,Kim,+1 (555) 123-4567,EMEA,2020-02-06,0
+customer76@yahoo.com,André,Mensah,,united states,2020-02-07,0
+customer58@yahoo.com,Léa,Asante,invalid-phone,Asia,2020-02-07,1
+customer430@yahoo.com,François,Boateng,,North America,2020-02-07,0
+customer637@yahoo.com,Müller,Smith,5551234567,USA,2020-02-07,0
+customer499@yahoo.com,O'Brien,Johnson,020 7946 0958,united states,2020-02-07,0
+customer108@gmail.com,John,Williams,5551234567,eu,2020-02-07,0
+customer735@gmail.com,Jane,Brown,555.123.4567,us,2020-02-08,0
+customer277@yahoo.com,Mike,Jones,5551234567,EU,2020-02-08,0
+customer67@yahoo.com,Sarah,Garcia,,Asia Pacific,2020-02-08,0
+customer68@company.com,Alex,Martínez,+1 (555) 123-4567,,2020-02-08,0
+customer164@company.com,Chris,Díaz,+81-3-1234-5678,eu,2020-02-08,0
+customer488@company.com,Ama,López,5551234567,us,2020-02-08,0
+customer304@yahoo.com,Kofi,González,020 7946 0958,North America,2020-02-09,0
+customer673@yahoo.com,Evans,Wang,+81-3-1234-5678,N/A,2020-02-09,0
+customer364@yahoo.com,Abena,Kim,+44 20 7946 0958,EU,2020-02-09,0
+customer378@gmail.com,Kwame,Mensah,5551234567,Asia Pacific,2020-02-09,0
+customer342@gmail.com,Akosua,Asante,555.123.4567,us,2020-02-09,0
+customer553@yahoo.com,Yaw,Boateng,555.123.4567,Europe,2020-02-09,0
+customer353@company.com,Maria,Smith,555.123.4567,europe,2020-02-10,0
+customer415@yahoo.com,José,Johnson,invalid-phone,EMEA,2020-02-10,0
+customer108@gmail.com,André,Williams,+1 (555) 123-4567,europe,2020-02-10,0
+customer562@yahoo.com,Léa,Brown,,united states,2020-02-10,0
+customer761@company.com,François,Jones,,Europe,2020-02-10,1
+customer496@yahoo.com,Müller,Garcia,020 7946 0958,europe,2020-02-10,0
+customer340@yahoo.com,O'Brien,Martínez,+81-3-1234-5678,US,2020-02-11,0
+customer382@yahoo.com,John,Díaz,,united states,2020-02-11,0
+customer532@yahoo.com,Jane,López,invalid-phone,North America,2020-02-11,1
+customer299@company.com,Mike,González,invalid-phone,APAC,2020-02-11,0
+customer138@gmail.com,Sarah,Wang,+1 (555) 123-4567,apac,2020-02-11,0
+customer358@yahoo.com,Alex,Kim,invalid-phone,,2020-02-11,0
+customer498@gmail.com,Chris,Mensah,+44 20 7946 0958,,2020-02-12,0
+customer384@gmail.com,Ama,Asante,020 7946 0958,EU,2020-02-12,0
+customer603@gmail.com,Kofi,Boateng,,EU,2020-02-12,0
+customer279@gmail.com,Evans,Smith,+1 (555) 123-4567,apac,2020-02-12,1
+customer636@gmail.com,Abena,Johnson,,Asia,2020-02-12,0
+customer482@company.com,Kwame,Williams,5551234567,Asia,2020-02-12,0
+customer110@company.com,Akosua,Brown,555.123.4567,USA,2020-02-13,0
+customer138@gmail.com,Yaw,Jones,+1 (555) 123-4567,apac,2020-02-13,0
+customer434@company.com,Maria,Garcia,+1 (555) 123-4567,APAC,2020-02-13,0
+customer508@yahoo.com,José,Martínez,,Asia Pacific,2020-02-13,1
+customer272@company.com,André,Díaz,invalid-phone,US,2020-02-13,0
+customer98@company.com,Léa,López,,AP,2020-02-13,0
+customer763@yahoo.com,François,González,020 7946 0958,EU,2020-02-14,0
+customer103@yahoo.com,Müller,Wang,020 7946 0958,eu,2020-02-14,0
+customer213@gmail.com,O'Brien,Kim,020 7946 0958,united states,2020-02-14,0
+customer760@yahoo.com,John,Mensah,+81-3-1234-5678,united states,2020-02-14,0
+customer663@gmail.com,Jane,Asante,+44 20 7946 0958,APAC,2020-02-14,0
+customer761@company.com,Mike,Boateng,5551234567,USA,2020-02-14,0
+customer786@gmail.com,Sarah,Smith,020 7946 0958,Europe,2020-02-15,0
+customer164@company.com,Alex,Johnson,5551234567,EU,2020-02-15,1
+customer519@gmail.com,Chris,Williams,+1 (555) 123-4567,europe,2020-02-15,0
+customer283@yahoo.com,Ama,Brown,+81-3-1234-5678,eu,2020-02-15,0
+customer516@gmail.com,Kofi,Jones,invalid-phone,Asia Pacific,2020-02-15,0
+customer656@company.com,Evans,Garcia,,Asia,2020-02-15,0
+customer612@gmail.com,Abena,Martínez,5551234567,APAC,2020-02-16,0
+customer163@yahoo.com,Kwame,Díaz,5551234567,,2020-02-16,1
+customer658@yahoo.com,Akosua,López,+81-3-1234-5678,APAC,2020-02-16,0
+customer63@gmail.com,Yaw,González,invalid-phone,North America,2020-02-16,0
+customer90@gmail.com,Maria,Wang,020 7946 0958,us,2020-02-16,0
+customer116@company.com,José,Kim,+44 20 7946 0958,US,2020-02-16,0
+customer266@company.com,André,Mensah,555.123.4567,North America,2020-02-17,0
+customer684@gmail.com,Léa,Asante,invalid-phone,apac,2020-02-17,0
+customer558@gmail.com,François,Boateng,invalid-phone,EU,2020-02-17,0
+customer139@yahoo.com,Müller,Smith,,us,2020-02-17,0
+customer245@company.com,O'Brien,Johnson,5551234567,US,2020-02-17,0
+customer660@gmail.com,John,Williams,+1 (555) 123-4567,AP,2020-02-17,0
+customer757@yahoo.com,Jane,Brown,+44 20 7946 0958,europe,2020-02-18,0
+customer394@yahoo.com,Mike,Jones,,Asia Pacific,2020-02-18,0
+customer486@gmail.com,Sarah,Garcia,020 7946 0958,US,2020-02-18,1
+customer475@yahoo.com,Alex,Martínez,020 7946 0958,US,2020-02-18,0
+customer516@gmail.com,Chris,Díaz,invalid-phone,US,2020-02-18,0
+customer183@gmail.com,Ama,López,+44 20 7946 0958,,2020-02-18,0
+customer19@yahoo.com,Kofi,González,+81-3-1234-5678,,2020-02-19,0
+customer557@company.com,Evans,Wang,+44 20 7946 0958,europe,2020-02-19,0
+customer523@yahoo.com,Abena,Kim,invalid-phone,,2020-02-19,0
+customer581@company.com,Kwame,Mensah,5551234567,united states,2020-02-19,0
+customer528@gmail.com,Akosua,Asante,+1 (555) 123-4567,Asia,2020-02-19,1
+customer146@company.com,Yaw,Boateng,,eu,2020-02-19,0
+customer665@company.com,Maria,Smith,+1 (555) 123-4567,Asia Pacific,2020-02-20,0
+customer303@gmail.com,José,Johnson,5551234567,europe,2020-02-20,0
+customer619@yahoo.com,André,Williams,invalid-phone,APAC,2020-02-20,0
+customer747@gmail.com,Léa,Brown,+1 (555) 123-4567,eu,2020-02-20,0
+customer581@company.com,François,Jones,020 7946 0958,USA,2020-02-20,0
+customer694@yahoo.com,Müller,Garcia,5551234567,eu,2020-02-20,0
+customer761@company.com,O'Brien,Martínez,+81-3-1234-5678,eu,2020-02-21,0
+customer227@company.com,John,Díaz,invalid-phone,US,2020-02-21,0
+customer101@company.com,Jane,López,invalid-phone,us,2020-02-21,0
+customer586@yahoo.com,Mike,González,invalid-phone,Asia,2020-02-21,0
+customer416@company.com,Sarah,Wang,020 7946 0958,North America,2020-02-21,0
+customer215@company.com,Alex,Kim,,EMEA,2020-02-21,1
+customer406@yahoo.com,Chris,Mensah,+44 20 7946 0958,North America,2020-02-22,0
+customer398@company.com,Ama,Asante,5551234567,united states,2020-02-22,0
+customer714@gmail.com,Kofi,Boateng,555.123.4567,USA,2020-02-22,1
+customer703@yahoo.com,Evans,Smith,5551234567,North America,2020-02-22,0
+customer760@yahoo.com,Abena,Johnson,+81-3-1234-5678,North America,2020-02-22,0
+customer498@gmail.com,Kwame,Williams,555.123.4567,North America,2020-02-22,0
+customer753@gmail.com,Akosua,Brown,020 7946 0958,Asia,2020-02-23,0
+customer464@company.com,Yaw,Jones,invalid-phone,us,2020-02-23,0
+customer690@gmail.com,Maria,Garcia,5551234567,united states,2020-02-23,0
+customer730@yahoo.com,José,Martínez,,united states,2020-02-23,0
+customer81@gmail.com,André,Díaz,555.123.4567,Asia Pacific,2020-02-23,0
+customer603@gmail.com,Léa,López,5551234567,EU,2020-02-23,1
+customer686@company.com,François,González,+1 (555) 123-4567,europe,2020-02-24,0
+customer750@gmail.com,Müller,Wang,invalid-phone,EMEA,2020-02-24,0
+customer771@gmail.com,O'Brien,Kim,+1 (555) 123-4567,Europe,2020-02-24,1
+customer364@yahoo.com,John,Mensah,+1 (555) 123-4567,North America,2020-02-24,0
+customer162@gmail.com,Jane,Asante,+44 20 7946 0958,AP,2020-02-24,1
+customer47@company.com,Mike,Boateng,5551234567,US,2020-02-24,0
+customer510@gmail.com,Sarah,Smith,+81-3-1234-5678,North America,2020-02-25,0
+customer328@yahoo.com,Alex,Johnson,invalid-phone,us,2020-02-25,0
+customer115@yahoo.com,Chris,Williams,+1 (555) 123-4567,US,2020-02-25,0
+customer336@gmail.com,Ama,Brown,+44 20 7946 0958,US,2020-02-25,0
+customer736@yahoo.com,Kofi,Jones,+81-3-1234-5678,eu,2020-02-25,1
+customer146@company.com,Evans,Garcia,invalid-phone,EU,2020-02-25,0
+customer574@yahoo.com,Abena,Martínez,5551234567,APAC,2020-02-26,0
+customer322@yahoo.com,Kwame,Díaz,invalid-phone,AP,2020-02-26,1
+customer442@yahoo.com,Akosua,López,invalid-phone,Europe,2020-02-26,0
+customer12@gmail.com,Yaw,González,+81-3-1234-5678,Asia Pacific,2020-02-26,0
+customer493@yahoo.com,Maria,Wang,+1 (555) 123-4567,North America,2020-02-26,1
+customer700@yahoo.com,José,Kim,555.123.4567,EMEA,2020-02-26,0
+customer286@yahoo.com,André,Mensah,555.123.4567,EMEA,2020-02-27,0
+customer719@company.com,Léa,Asante,5551234567,North America,2020-02-27,1
+customer113@company.com,François,Boateng,+81-3-1234-5678,eu,2020-02-27,0
+customer479@company.com,Müller,Smith,invalid-phone,US,2020-02-27,0
+customer21@gmail.com,O'Brien,Johnson,020 7946 0958,N/A,2020-02-27,0
+customer348@gmail.com,John,Williams,,eu,2020-02-27,0
+customer725@company.com,Jane,Brown,020 7946 0958,USA,2020-02-28,1
+customer682@yahoo.com,Mike,Jones,,EU,2020-02-28,0
+customer565@yahoo.com,Sarah,Garcia,+81-3-1234-5678,europe,2020-02-28,0
+customer319@yahoo.com,Alex,Martínez,020 7946 0958,,2020-02-28,0
+customer125@company.com,Chris,Díaz,invalid-phone,Europe,2020-02-28,0
+customer276@gmail.com,Ama,López,+44 20 7946 0958,AP,2020-02-28,0
+customer203@company.com,Kofi,González,+44 20 7946 0958,Asia Pacific,2020-02-29,0
+customer193@yahoo.com,Evans,Wang,+44 20 7946 0958,Asia,2020-02-29,0
+customer680@company.com,Abena,Kim,+81-3-1234-5678,EMEA,2020-02-29,0
+customer663@gmail.com,Kwame,Mensah,invalid-phone,N/A,2020-02-29,0
+customer546@gmail.com,Akosua,Asante,invalid-phone,europe,2020-02-29,0
+customer695@company.com,Yaw,Boateng,invalid-phone,us,2020-02-29,0
+customer285@gmail.com,Maria,Smith,invalid-phone,Europe,2020-03-01,0
+customer56@company.com,José,Johnson,555.123.4567,apac,2020-03-01,0
+customer733@yahoo.com,André,Williams,555.123.4567,US,2020-03-01,0
+customer302@company.com,Léa,Brown,555.123.4567,,2020-03-01,0
+customer162@gmail.com,François,Jones,5551234567,North America,2020-03-01,0
+customer18@gmail.com,Müller,Garcia,555.123.4567,us,2020-03-01,0
+customer369@gmail.com,O'Brien,Martínez,,eu,2020-03-02,0
+customer263@company.com,John,Díaz,invalid-phone,europe,2020-03-02,0
+customer793@yahoo.com,Jane,López,555.123.4567,North America,2020-03-02,0
+customer112@yahoo.com,Mike,González,,europe,2020-03-02,1
+customer487@yahoo.com,Sarah,Wang,,US,2020-03-02,0
+customer326@company.com,Alex,Kim,5551234567,Europe,2020-03-02,0
+customer541@yahoo.com,Chris,Mensah,+44 20 7946 0958,us,2020-03-03,1
+customer646@yahoo.com,Ama,Asante,,USA,2020-03-03,0
+customer578@company.com,Kofi,Boateng,5551234567,europe,2020-03-03,1
+customer64@yahoo.com,Evans,Smith,020 7946 0958,us,2020-03-03,0
+customer291@gmail.com,Abena,Johnson,020 7946 0958,EMEA,2020-03-03,0
+customer24@gmail.com,Kwame,Williams,5551234567,apac,2020-03-03,0
+customer548@company.com,Akosua,Brown,+1 (555) 123-4567,apac,2020-03-04,0
+customer0@gmail.com,Yaw,Jones,555.123.4567,eu,2020-03-04,0
+customer548@company.com,Maria,Garcia,5551234567,N/A,2020-03-04,0
+customer140@company.com,José,Martínez,+81-3-1234-5678,APAC,2020-03-04,0
+customer743@company.com,André,Díaz,+81-3-1234-5678,europe,2020-03-04,0
+customer647@company.com,Léa,López,5551234567,united states,2020-03-04,0
+customer187@yahoo.com,François,González,,us,2020-03-05,0
+customer127@yahoo.com,Müller,Wang,5551234567,Asia Pacific,2020-03-05,1
+customer200@company.com,O'Brien,Kim,555.123.4567,us,2020-03-05,0
+customer126@gmail.com,John,Mensah,+44 20 7946 0958,EMEA,2020-03-05,0
+customer256@yahoo.com,Jane,Asante,,eu,2020-03-05,0
+customer675@gmail.com,Mike,Boateng,020 7946 0958,Asia Pacific,2020-03-05,0
+customer546@gmail.com,Sarah,Smith,+44 20 7946 0958,USA,2020-03-06,0
+customer193@yahoo.com,Alex,Johnson,invalid-phone,APAC,2020-03-06,0
+customer702@gmail.com,Chris,Williams,invalid-phone,,2020-03-06,0
+customer103@yahoo.com,Ama,Brown,+44 20 7946 0958,USA,2020-03-06,0
+customer534@gmail.com,Kofi,Jones,+44 20 7946 0958,Europe,2020-03-06,0
+customer264@gmail.com,Evans,Garcia,020 7946 0958,Europe,2020-03-06,0
+missing@,Abena,Martínez,555.123.4567,AP,2020-03-07,0
+customer383@company.com,Kwame,Díaz,+81-3-1234-5678,USA,2020-03-07,0
+customer259@yahoo.com,Akosua,López,+81-3-1234-5678,USA,2020-03-07,0
+customer413@company.com,Yaw,González,+1 (555) 123-4567,EMEA,2020-03-07,0
+customer357@gmail.com,Maria,Wang,+81-3-1234-5678,USA,2020-03-07,0
+customer74@company.com,José,Kim,+44 20 7946 0958,,2020-03-07,0
+customer354@gmail.com,André,Mensah,+1 (555) 123-4567,Asia,2020-03-08,0
+customer583@yahoo.com,Léa,Asante,,apac,2020-03-08,0
+customer770@company.com,François,Boateng,020 7946 0958,USA,2020-03-08,0
+customer187@yahoo.com,Müller,Smith,invalid-phone,united states,2020-03-08,0
+customer684@gmail.com,O'Brien,Johnson,+1 (555) 123-4567,Asia Pacific,2020-03-08,0
+customer289@yahoo.com,John,Williams,+81-3-1234-5678,united states,2020-03-08,0
+customer44@company.com,Jane,Brown,5551234567,APAC,2020-03-09,0
+customer572@company.com,Mike,Jones,+1 (555) 123-4567,APAC,2020-03-09,0
+customer82@yahoo.com,Sarah,Garcia,invalid-phone,eu,2020-03-09,0
+customer122@company.com,Alex,Martínez,+1 (555) 123-4567,us,2020-03-09,0
+customer357@gmail.com,Chris,Díaz,+44 20 7946 0958,Europe,2020-03-09,0
+customer527@company.com,Ama,López,+44 20 7946 0958,europe,2020-03-09,1
+customer65@company.com,Kofi,González,555.123.4567,europe,2020-03-10,0
+customer656@company.com,Evans,Wang,+81-3-1234-5678,,2020-03-10,0
+customer374@company.com,Abena,Kim,+1 (555) 123-4567,N/A,2020-03-10,0
+customer161@company.com,Kwame,Mensah,+1 (555) 123-4567,us,2020-03-10,0
+customer745@yahoo.com,Akosua,Asante,020 7946 0958,US,2020-03-10,0
+customer379@yahoo.com,Yaw,Boateng,020 7946 0958,AP,2020-03-10,0
+customer655@yahoo.com,Maria,Smith,555.123.4567,North America,2020-03-11,0
+customer357@gmail.com,José,Johnson,555.123.4567,US,2020-03-11,0
+customer187@yahoo.com,André,Williams,5551234567,EMEA,2020-03-11,0
+customer321@gmail.com,Léa,Brown,invalid-phone,us,2020-03-11,1
+customer449@company.com,François,Jones,020 7946 0958,united states,2020-03-11,1
+customer473@company.com,Müller,Garcia,5551234567,eu,2020-03-11,0
+customer12@gmail.com,O'Brien,Martínez,020 7946 0958,USA,2020-03-12,0
+customer183@gmail.com,John,Díaz,invalid-phone,Asia Pacific,2020-03-12,0
+customer110@company.com,Jane,López,,N/A,2020-03-12,0
+customer507@gmail.com,Mike,González,555.123.4567,europe,2020-03-12,0
+customer289@yahoo.com,Sarah,Wang,+44 20 7946 0958,,2020-03-12,0
+customer294@gmail.com,Alex,Kim,+1 (555) 123-4567,,2020-03-12,0
+customer450@gmail.com,Chris,Mensah,,US,2020-03-13,1
+customer214@yahoo.com,Ama,Asante,5551234567,us,2020-03-13,0
+customer631@yahoo.com,Kofi,Boateng,+81-3-1234-5678,us,2020-03-13,0
+customer566@company.com,Evans,Smith,555.123.4567,AP,2020-03-13,0
+customer26@company.com,Abena,Johnson,+44 20 7946 0958,apac,2020-03-13,0
+customer629@company.com,Kwame,Williams,020 7946 0958,North America,2020-03-13,0
+customer732@gmail.com,Akosua,Brown,020 7946 0958,Europe,2020-03-14,0
+customer230@company.com,Yaw,Jones,+1 (555) 123-4567,N/A,2020-03-14,0
+customer564@gmail.com,Maria,Garcia,555.123.4567,USA,2020-03-14,0
+customer320@company.com,José,Martínez,+1 (555) 123-4567,,2020-03-14,0
+customer232@yahoo.com,André,Díaz,+1 (555) 123-4567,us,2020-03-14,0
+customer669@gmail.com,Léa,López,5551234567,united states,2020-03-14,0
+customer436@yahoo.com,François,González,555.123.4567,EU,2020-03-15,0
+customer780@gmail.com,Müller,Wang,+81-3-1234-5678,EU,2020-03-15,0
+customer532@yahoo.com,O'Brien,Kim,555.123.4567,,2020-03-15,0
+customer402@gmail.com,John,Mensah,+81-3-1234-5678,united states,2020-03-15,0
+customer52@yahoo.com,Jane,Asante,020 7946 0958,Europe,2020-03-15,0
+customer786@gmail.com,Mike,Boateng,invalid-phone,eu,2020-03-15,1
+customer312@gmail.com,Sarah,Smith,,Asia,2020-03-16,0
+customer280@yahoo.com,Alex,Johnson,5551234567,united states,2020-03-16,0
+customer725@company.com,Chris,Williams,+81-3-1234-5678,APAC,2020-03-16,0
+customer30@gmail.com,Ama,Brown,+81-3-1234-5678,North America,2020-03-16,0
+customer336@gmail.com,Kofi,Jones,+1 (555) 123-4567,apac,2020-03-16,0
+customer182@company.com,Evans,Garcia,5551234567,,2020-03-16,0
+customer22@yahoo.com,Abena,Martínez,020 7946 0958,eu,2020-03-17,0
+customer543@gmail.com,Kwame,Díaz,+81-3-1234-5678,EMEA,2020-03-17,0
+customer445@yahoo.com,Akosua,López,+1 (555) 123-4567,united states,2020-03-17,1
+customer73@yahoo.com,Yaw,González,5551234567,US,2020-03-17,0
+customer9@gmail.com,Maria,Wang,invalid-phone,Asia,2020-03-17,0
+customer483@gmail.com,José,Kim,5551234567,N/A,2020-03-17,1
+customer455@company.com,André,Mensah,5551234567,EMEA,2020-03-18,0
+customer565@yahoo.com,Léa,Asante,+1 (555) 123-4567,eu,2020-03-18,0
+customer563@company.com,François,Boateng,+1 (555) 123-4567,EMEA,2020-03-18,0
+customer659@company.com,Müller,Smith,5551234567,EU,2020-03-18,0
+customer159@gmail.com,O'Brien,Johnson,555.123.4567,EU,2020-03-18,0
+customer13@yahoo.com,John,Williams,+81-3-1234-5678,US,2020-03-18,0
+customer177@gmail.com,Jane,Brown,020 7946 0958,Asia Pacific,2020-03-19,0
+customer411@gmail.com,Mike,Jones,+44 20 7946 0958,North America,2020-03-19,0
+customer52@yahoo.com,Sarah,Garcia,555.123.4567,APAC,2020-03-19,0
+customer407@company.com,Alex,Martínez,+44 20 7946 0958,EMEA,2020-03-19,0
+customer21@gmail.com,Chris,Díaz,+44 20 7946 0958,,2020-03-19,0
+customer29@company.com,Ama,López,,EMEA,2020-03-19,1
+customer702@gmail.com,Kofi,González,555.123.4567,USA,2020-03-20,0
+customer259@yahoo.com,Evans,Wang,020 7946 0958,,2020-03-20,1
+customer204@gmail.com,Abena,Kim,+44 20 7946 0958,us,2020-03-20,1
+customer58@yahoo.com,Kwame,Mensah,invalid-phone,AP,2020-03-20,0
+customer470@company.com,Akosua,Asante,,Asia,2020-03-20,0
+customer775@yahoo.com,Yaw,Boateng,555.123.4567,united states,2020-03-20,0
+customer465@gmail.com,Maria,Smith,invalid-phone,USA,2020-03-21,0
+customer11@company.com,José,Johnson,+44 20 7946 0958,us,2020-03-21,0
+customer630@gmail.com,André,Williams,020 7946 0958,EU,2020-03-21,0
+customer289@yahoo.com,Léa,Brown,,EU,2020-03-21,0
+customer759@gmail.com,François,Jones,020 7946 0958,europe,2020-03-21,1
+customer353@company.com,Müller,Garcia,+1 (555) 123-4567,EU,2020-03-21,1
+customer638@company.com,O'Brien,Martínez,5551234567,Asia,2020-03-22,0
+customer74@company.com,John,Díaz,invalid-phone,APAC,2020-03-22,0
+customer715@yahoo.com,Jane,López,+1 (555) 123-4567,EMEA,2020-03-22,0
+customer560@company.com,Mike,González,+44 20 7946 0958,eu,2020-03-22,0
+customer590@company.com,Sarah,Wang,555.123.4567,,2020-03-22,0
+customer440@company.com,Alex,Kim,555.123.4567,,2020-03-22,0
+customer240@gmail.com,Chris,Mensah,invalid-phone,Europe,2020-03-23,0
+customer153@gmail.com,Ama,Asante,5551234567,apac,2020-03-23,1
+customer785@company.com,Kofi,Boateng,555.123.4567,US,2020-03-23,0
+customer95@company.com,Evans,Smith,+81-3-1234-5678,APAC,2020-03-23,0
+customer725@company.com,Abena,Johnson,555.123.4567,Asia Pacific,2020-03-23,0
+customer293@company.com,Kwame,Williams,,US,2020-03-23,0
+customer208@yahoo.com,Akosua,Brown,,Europe,2020-03-24,0
+customer342@gmail.com,Yaw,Jones,,Asia Pacific,2020-03-24,1
+customer87@gmail.com,Maria,Garcia,+44 20 7946 0958,eu,2020-03-24,0
+customer775@yahoo.com,José,Martínez,+81-3-1234-5678,AP,2020-03-24,0
+customer389@company.com,André,Díaz,,,2020-03-24,0
+customer324@gmail.com,Léa,López,+81-3-1234-5678,apac,2020-03-24,0
+customer156@gmail.com,François,González,,eu,2020-03-25,0
+customer667@yahoo.com,Müller,Wang,5551234567,USA,2020-03-25,0
+customer650@company.com,O'Brien,Kim,020 7946 0958,united states,2020-03-25,0
+customer632@company.com,John,Mensah,5551234567,,2020-03-25,0
+customer576@gmail.com,Jane,Asante,invalid-phone,USA,2020-03-25,0
+customer618@gmail.com,Mike,Boateng,invalid-phone,North America,2020-03-25,0
+customer658@yahoo.com,Sarah,Smith,+44 20 7946 0958,US,2020-03-26,1
+customer136@yahoo.com,Alex,Johnson,invalid-phone,US,2020-03-26,0
+customer673@yahoo.com,Chris,Williams,5551234567,united states,2020-03-26,0
+customer427@yahoo.com,Ama,Brown,invalid-phone,EMEA,2020-03-26,0
+customer451@yahoo.com,Kofi,Jones,+44 20 7946 0958,united states,2020-03-26,0
+customer611@company.com,Evans,Garcia,+1 (555) 123-4567,North America,2020-03-26,0
+customer140@company.com,Abena,Martínez,+44 20 7946 0958,North America,2020-03-27,0
+customer82@yahoo.com,Kwame,Díaz,+81-3-1234-5678,,2020-03-27,0
+customer176@company.com,Akosua,López,555.123.4567,Asia,2020-03-27,1
+customer197@company.com,Yaw,González,5551234567,APAC,2020-03-27,0
+customer623@company.com,Maria,Wang,020 7946 0958,USA,2020-03-27,1
+customer567@gmail.com,José,Kim,555.123.4567,eu,2020-03-27,0
+customer690@gmail.com,André,Mensah,+81-3-1234-5678,us,2020-03-28,1
+customer420@gmail.com,Léa,Asante,5551234567,Europe,2020-03-28,0
+customer400@yahoo.com,François,Boateng,invalid-phone,Asia Pacific,2020-03-28,0
+customer697@yahoo.com,Müller,Smith,020 7946 0958,Asia Pacific,2020-03-28,1
+customer470@company.com,O'Brien,Johnson,+44 20 7946 0958,europe,2020-03-28,0
+customer217@yahoo.com,John,Williams,555.123.4567,EU,2020-03-28,1
+customer728@company.com,Jane,Brown,,US,2020-03-29,0
+customer631@yahoo.com,Mike,Jones,5551234567,europe,2020-03-29,0
+customer174@gmail.com,Sarah,Garcia,+44 20 7946 0958,us,2020-03-29,0
+customer22@yahoo.com,Alex,Martínez,+1 (555) 123-4567,EU,2020-03-29,1
+customer724@yahoo.com,Chris,Díaz,020 7946 0958,us,2020-03-29,0
+customer234@gmail.com,Ama,López,555.123.4567,united states,2020-03-29,0
+customer12@gmail.com,Kofi,González,+81-3-1234-5678,eu,2020-03-30,0
+customer100@yahoo.com,Evans,Wang,+81-3-1234-5678,Asia,2020-03-30,0
+customer535@yahoo.com,Abena,Kim,+1 (555) 123-4567,eu,2020-03-30,0
+customer522@gmail.com,Kwame,Mensah,555.123.4567,US,2020-03-30,0
+customer784@yahoo.com,Akosua,Asante,555.123.4567,Asia,2020-03-30,0
+customer451@yahoo.com,Yaw,Boateng,invalid-phone,AP,2020-03-30,0
+customer430@yahoo.com,Maria,Smith,555.123.4567,EMEA,2020-03-31,0
+customer792@gmail.com,José,Johnson,+81-3-1234-5678,USA,2020-03-31,1
+customer605@company.com,André,Williams,,europe,2020-03-31,0
+customer712@yahoo.com,Léa,Brown,555.123.4567,US,2020-03-31,0
+customer532@yahoo.com,François,Jones,5551234567,North America,2020-03-31,0
+customer722@company.com,Müller,Garcia,5551234567,EU,2020-03-31,0
+customer651@gmail.com,O'Brien,Martínez,+81-3-1234-5678,EU,2020-04-01,0
+customer292@yahoo.com,John,Díaz,555.123.4567,united states,2020-04-01,0
+customer100@yahoo.com,Jane,López,+1 (555) 123-4567,united states,2020-04-01,0
+customer501@gmail.com,Mike,González,5551234567,USA,2020-04-01,1
+customer303@gmail.com,Sarah,Wang,,Europe,2020-04-01,0
+customer539@company.com,Alex,Kim,+44 20 7946 0958,apac,2020-04-01,1
+customer552@gmail.com,Chris,Mensah,555.123.4567,APAC,2020-04-02,1
+customer354@gmail.com,Ama,Asante,,EMEA,2020-04-02,0
+customer302@company.com,Kofi,Boateng,5551234567,,2020-04-02,0
+customer495@gmail.com,Evans,Smith,+1 (555) 123-4567,N/A,2020-04-02,0
+customer657@gmail.com,Abena,Johnson,,APAC,2020-04-02,0
+customer767@company.com,Kwame,Williams,555.123.4567,US,2020-04-02,0
+customer226@yahoo.com,Akosua,Brown,555.123.4567,North America,2020-04-03,0
+customer235@yahoo.com,Yaw,Jones,,apac,2020-04-03,0
+customer454@yahoo.com,Maria,Garcia,invalid-phone,EU,2020-04-03,0
+customer12@gmail.com,José,Martínez,020 7946 0958,,2020-04-03,0
+customer209@company.com,André,Díaz,invalid-phone,europe,2020-04-03,0
+customer740@company.com,Léa,López,+1 (555) 123-4567,EU,2020-04-03,1
+customer396@gmail.com,François,González,invalid-phone,,2020-04-04,0
+customer99@gmail.com,Müller,Wang,+44 20 7946 0958,APAC,2020-04-04,0
+customer30@gmail.com,O'Brien,Kim,+81-3-1234-5678,N/A,2020-04-04,0
+customer527@company.com,John,Mensah,020 7946 0958,N/A,2020-04-04,0
+customer648@gmail.com,Jane,Asante,invalid-phone,united states,2020-04-04,0
+customer328@yahoo.com,Mike,Boateng,5551234567,N/A,2020-04-04,1
+customer165@gmail.com,Sarah,Smith,+1 (555) 123-4567,europe,2020-04-05,0
+customer458@company.com,Alex,Johnson,020 7946 0958,europe,2020-04-05,0
+customer99@gmail.com,Chris,Williams,020 7946 0958,us,2020-04-05,0
+customer620@company.com,Ama,Brown,+81-3-1234-5678,EMEA,2020-04-05,1
+customer172@yahoo.com,Kofi,Jones,020 7946 0958,us,2020-04-05,0
+customer748@yahoo.com,Evans,Garcia,+44 20 7946 0958,us,2020-04-05,0
+customer161@company.com,Abena,Martínez,,Europe,2020-04-06,0
+customer727@yahoo.com,Kwame,Díaz,+44 20 7946 0958,apac,2020-04-06,0
+customer775@yahoo.com,Akosua,López,invalid-phone,EU,2020-04-06,0
+customer262@yahoo.com,Yaw,González,5551234567,eu,2020-04-06,0
+,Maria,Wang,5551234567,Europe,2020-04-06,1
+customer273@gmail.com,José,Kim,+1 (555) 123-4567,apac,2020-04-06,0
+customer2@company.com,André,Mensah,5551234567,eu,2020-04-07,0
+customer27@gmail.com,Léa,Asante,555.123.4567,USA,2020-04-07,0
+customer325@yahoo.com,François,Boateng,020 7946 0958,,2020-04-07,0
+customer148@yahoo.com,Müller,Smith,invalid-phone,N/A,2020-04-07,0
+customer539@company.com,O'Brien,Johnson,+81-3-1234-5678,,2020-04-07,0
+customer487@yahoo.com,John,Williams,5551234567,EMEA,2020-04-07,1
+customer437@company.com,Jane,Brown,5551234567,,2020-04-08,0
+customer64@yahoo.com,Mike,Jones,,US,2020-04-08,0
+customer355@yahoo.com,Sarah,Garcia,5551234567,,2020-04-08,0
+customer532@yahoo.com,Alex,Martínez,+44 20 7946 0958,USA,2020-04-08,0
+customer251@company.com,Chris,Díaz,+81-3-1234-5678,North America,2020-04-08,0
+customer234@gmail.com,Ama,López,020 7946 0958,eu,2020-04-08,0
+customer226@yahoo.com,Kofi,González,+81-3-1234-5678,united states,2020-04-09,0
+customer524@company.com,Evans,Wang,,Asia,2020-04-09,1
+customer312@gmail.com,Abena,Kim,+44 20 7946 0958,US,2020-04-09,0
+customer48@gmail.com,Kwame,Mensah,555.123.4567,EMEA,2020-04-09,0
+customer117@gmail.com,Akosua,Asante,+1 (555) 123-4567,APAC,2020-04-09,0
+customer53@company.com,Yaw,Boateng,5551234567,us,2020-04-09,1
+customer649@yahoo.com,Maria,Smith,invalid-phone,europe,2020-04-10,0
+customer564@gmail.com,José,Johnson,+81-3-1234-5678,united states,2020-04-10,0
+customer43@yahoo.com,André,Williams,,Europe,2020-04-10,0
+customer52@yahoo.com,Léa,Brown,555.123.4567,North America,2020-04-10,0
+customer585@gmail.com,François,Jones,+1 (555) 123-4567,US,2020-04-10,0
+customer557@company.com,Müller,Garcia,+44 20 7946 0958,united states,2020-04-10,0
+customer524@company.com,O'Brien,Martínez,+44 20 7946 0958,EMEA,2020-04-11,0
+customer676@yahoo.com,John,Díaz,+1 (555) 123-4567,EU,2020-04-11,0
+customer101@company.com,Jane,López,+81-3-1234-5678,eu,2020-04-11,0
+customer791@company.com,Mike,González,020 7946 0958,AP,2020-04-11,0
+customer769@yahoo.com,Sarah,Wang,555.123.4567,apac,2020-04-11,0
+customer397@yahoo.com,Alex,Kim,+81-3-1234-5678,EU,2020-04-11,0
+customer137@company.com,Chris,Mensah,555.123.4567,North America,2020-04-12,1
+customer674@company.com,Ama,Asante,+1 (555) 123-4567,us,2020-04-12,0
+customer386@company.com,Kofi,Boateng,555.123.4567,apac,2020-04-12,1
+customer110@company.com,Evans,Smith,5551234567,N/A,2020-04-12,0
+customer613@yahoo.com,Abena,Johnson,555.123.4567,US,2020-04-12,0
+customer16@yahoo.com,Kwame,Williams,5551234567,USA,2020-04-12,1
+customer779@company.com,Akosua,Brown,,us,2020-04-13,0
+customer181@yahoo.com,Yaw,Jones,invalid-phone,EMEA,2020-04-13,0
+customer535@yahoo.com,Maria,Garcia,,AP,2020-04-13,0
+customer540@gmail.com,José,Martínez,+81-3-1234-5678,EU,2020-04-13,0
+customer170@company.com,André,Díaz,,US,2020-04-13,0
+customer408@gmail.com,Léa,López,555.123.4567,us,2020-04-13,0
+customer739@yahoo.com,François,González,555.123.4567,Europe,2020-04-14,0
+customer377@company.com,Müller,Wang,,EMEA,2020-04-14,0
+customer187@yahoo.com,O'Brien,Kim,invalid-phone,Asia Pacific,2020-04-14,0
+customer229@yahoo.com,John,Mensah,555.123.4567,USA,2020-04-14,0
+customer118@yahoo.com,Jane,Asante,+1 (555) 123-4567,united states,2020-04-14,0
+customer155@company.com,Mike,Boateng,+1 (555) 123-4567,,2020-04-14,0
+customer783@gmail.com,Sarah,Smith,+1 (555) 123-4567,apac,2020-04-15,1
+customer686@company.com,Alex,Johnson,+81-3-1234-5678,Europe,2020-04-15,0
+customer464@company.com,Chris,Williams,+1 (555) 123-4567,EMEA,2020-04-15,1
+customer103@yahoo.com,Ama,Brown,+44 20 7946 0958,US,2020-04-15,0
+customer603@gmail.com,Kofi,Jones,555.123.4567,US,2020-04-15,0
+customer697@yahoo.com,Evans,Garcia,invalid-phone,EMEA,2020-04-15,0
+customer794@company.com,Abena,Martínez,,europe,2020-04-16,0
+customer501@gmail.com,Kwame,Díaz,invalid-phone,US,2020-04-16,0
+customer692@company.com,Akosua,López,+1 (555) 123-4567,apac,2020-04-16,0
+customer681@gmail.com,Yaw,González,+44 20 7946 0958,united states,2020-04-16,0
+customer698@company.com,Maria,Wang,,us,2020-04-16,1
+customer174@gmail.com,José,Kim,invalid-phone,US,2020-04-16,0
+customer733@yahoo.com,André,Mensah,,North America,2020-04-17,0
+customer744@gmail.com,Léa,Asante,555.123.4567,Europe,2020-04-17,0
+customer673@yahoo.com,François,Boateng,,Asia Pacific,2020-04-17,0
+customer420@gmail.com,Müller,Smith,,united states,2020-04-17,0
+customer133@yahoo.com,O'Brien,Johnson,,AP,2020-04-17,0
+customer390@gmail.com,John,Williams,+81-3-1234-5678,North America,2020-04-17,1
+customer735@gmail.com,Jane,Brown,020 7946 0958,europe,2020-04-18,0
+customer500@company.com,Mike,Jones,020 7946 0958,europe,2020-04-18,0
+customer664@yahoo.com,Sarah,Garcia,5551234567,North America,2020-04-18,0
+customer32@company.com,Alex,Martínez,5551234567,USA,2020-04-18,0
+customer54@gmail.com,Chris,Díaz,+44 20 7946 0958,united states,2020-04-18,0
+customer518@company.com,Ama,López,5551234567,APAC,2020-04-18,0
+customer755@company.com,Kofi,González,invalid-phone,us,2020-04-19,0
+customer637@yahoo.com,Evans,Wang,5551234567,North America,2020-04-19,0
+customer11@company.com,Abena,Kim,+44 20 7946 0958,,2020-04-19,0
+customer527@company.com,Kwame,Mensah,020 7946 0958,N/A,2020-04-19,0
+customer719@company.com,Akosua,Asante,5551234567,North America,2020-04-19,0
+customer554@company.com,Yaw,Boateng,+44 20 7946 0958,USA,2020-04-19,0
+customer372@gmail.com,Maria,Smith,+81-3-1234-5678,APAC,2020-04-20,0
+customer483@gmail.com,José,Johnson,,us,2020-04-20,1
+customer646@yahoo.com,André,Williams,020 7946 0958,apac,2020-04-20,1
+customer227@company.com,Léa,Brown,+44 20 7946 0958,apac,2020-04-20,0
+customer622@yahoo.com,François,Jones,+44 20 7946 0958,North America,2020-04-20,0
+customer306@gmail.com,Müller,Garcia,555.123.4567,eu,2020-04-20,0
+customer456@gmail.com,O'Brien,Martínez,,Asia,2020-04-21,0
+customer159@gmail.com,John,Díaz,+44 20 7946 0958,,2020-04-21,1
+customer330@gmail.com,Jane,López,,APAC,2020-04-21,0
+customer775@yahoo.com,Mike,González,5551234567,Europe,2020-04-21,1
+customer224@company.com,Sarah,Wang,+81-3-1234-5678,eu,2020-04-21,1
+customer728@company.com,Alex,Kim,+1 (555) 123-4567,EU,2020-04-21,0
+customer503@company.com,Chris,Mensah,020 7946 0958,europe,2020-04-22,0
+customer455@company.com,Ama,Asante,invalid-phone,,2020-04-22,0
+customer44@company.com,Kofi,Boateng,+1 (555) 123-4567,eu,2020-04-22,1
+customer213@gmail.com,Evans,Smith,+81-3-1234-5678,USA,2020-04-22,0
+customer58@yahoo.com,Abena,Johnson,,Asia Pacific,2020-04-22,1
+customer643@yahoo.com,Kwame,Williams,+44 20 7946 0958,Asia,2020-04-22,0
+customer615@gmail.com,Akosua,Brown,invalid-phone,EMEA,2020-04-23,0
+customer194@company.com,Yaw,Jones,+1 (555) 123-4567,EMEA,2020-04-23,1
+customer488@company.com,Maria,Garcia,,N/A,2020-04-23,0
+customer156@gmail.com,José,Martínez,020 7946 0958,,2020-04-23,0
+customer609@gmail.com,André,Díaz,020 7946 0958,eu,2020-04-23,0
+customer225@gmail.com,Léa,López,555.123.4567,APAC,2020-04-23,0
+customer411@gmail.com,François,González,+44 20 7946 0958,europe,2020-04-24,0
+customer204@gmail.com,Müller,Wang,,APAC,2020-04-24,0
+customer78@gmail.com,O'Brien,Kim,+44 20 7946 0958,EMEA,2020-04-24,1
+customer123@gmail.com,John,Mensah,,Europe,2020-04-24,1
+customer470@company.com,Jane,Asante,+44 20 7946 0958,US,2020-04-24,0
+customer217@yahoo.com,Mike,Boateng,555.123.4567,apac,2020-04-24,0
+customer515@company.com,Sarah,Smith,+1 (555) 123-4567,EMEA,2020-04-25,0
+customer601@yahoo.com,Alex,Johnson,020 7946 0958,europe,2020-04-25,0
+customer103@yahoo.com,Chris,Williams,,AP,2020-04-25,1
+customer392@company.com,Ama,Brown,+44 20 7946 0958,,2020-04-25,0
+customer630@gmail.com,Kofi,Jones,invalid-phone,united states,2020-04-25,0
+customer644@company.com,Evans,Garcia,+1 (555) 123-4567,Asia Pacific,2020-04-25,0
+customer607@yahoo.com,Abena,Martínez,555.123.4567,N/A,2020-04-26,0
+customer433@yahoo.com,Kwame,Díaz,+1 (555) 123-4567,EMEA,2020-04-26,0
+customer330@gmail.com,Akosua,López,,EMEA,2020-04-26,0
+customer142@yahoo.com,Yaw,González,+1 (555) 123-4567,,2020-04-26,0
+customer799@yahoo.com,Maria,Wang,,APAC,2020-04-26,0
+customer539@company.com,José,Kim,+1 (555) 123-4567,EMEA,2020-04-26,0
+customer277@yahoo.com,André,Mensah,+1 (555) 123-4567,Asia Pacific,2020-04-27,0
+customer232@yahoo.com,Léa,Asante,020 7946 0958,united states,2020-04-27,0
+customer528@gmail.com,François,Boateng,5551234567,EU,2020-04-27,0
+customer570@gmail.com,Müller,Smith,020 7946 0958,N/A,2020-04-27,0
+customer89@company.com,O'Brien,Johnson,555.123.4567,Europe,2020-04-27,0
+customer491@company.com,John,Williams,+81-3-1234-5678,EU,2020-04-27,0
+customer198@gmail.com,Jane,Brown,+81-3-1234-5678,europe,2020-04-28,0
+customer361@yahoo.com,Mike,Jones,5551234567,united states,2020-04-28,1
+customer440@company.com,Sarah,Garcia,+1 (555) 123-4567,united states,2020-04-28,1
+customer25@yahoo.com,Alex,Martínez,,North America,2020-04-28,0
+customer24@gmail.com,Chris,Díaz,+44 20 7946 0958,APAC,2020-04-28,1
+customer393@gmail.com,Ama,López,555.123.4567,Asia Pacific,2020-04-28,0
+customer506@company.com,Kofi,González,+1 (555) 123-4567,eu,2020-04-29,0
+customer300@gmail.com,Evans,Wang,5551234567,USA,2020-04-29,0
+customer338@company.com,Abena,Kim,020 7946 0958,eu,2020-04-29,0
+customer266@company.com,Kwame,Mensah,555.123.4567,EMEA,2020-04-29,0
+customer460@yahoo.com,Akosua,Asante,+44 20 7946 0958,EU,2020-04-29,0
+customer692@company.com,Yaw,Boateng,+81-3-1234-5678,,2020-04-29,0
+customer455@company.com,Maria,Smith,5551234567,us,2020-04-30,0
+customer359@company.com,José,Johnson,+44 20 7946 0958,EMEA,2020-04-30,0
+customer67@yahoo.com,André,Williams,+1 (555) 123-4567,USA,2020-04-30,1
+customer411@gmail.com,Léa,Brown,+1 (555) 123-4567,Europe,2020-04-30,0
+customer490@yahoo.com,François,Jones,020 7946 0958,us,2020-04-30,0
+customer48@gmail.com,Müller,Garcia,+81-3-1234-5678,EMEA,2020-04-30,0
+customer686@company.com,O'Brien,Martínez,555.123.4567,North America,2020-05-01,0
+customer563@company.com,John,Díaz,555.123.4567,Asia,2020-05-01,0
+customer101@company.com,Jane,López,020 7946 0958,US,2020-05-01,0
+customer215@company.com,Mike,González,020 7946 0958,us,2020-05-01,0
+customer437@company.com,Sarah,Wang,020 7946 0958,europe,2020-05-01,0
+customer699@gmail.com,Alex,Kim,555.123.4567,North America,2020-05-01,0
+customer568@yahoo.com,Chris,Mensah,020 7946 0958,us,2020-05-02,0
+customer558@gmail.com,Ama,Asante,020 7946 0958,apac,2020-05-02,0
+customer158@company.com,Kofi,Boateng,+1 (555) 123-4567,North America,2020-05-02,0
+customer488@company.com,Evans,Smith,invalid-phone,EMEA,2020-05-02,0
+customer685@yahoo.com,Abena,Johnson,5551234567,APAC,2020-05-02,0
+customer241@yahoo.com,Kwame,Williams,555.123.4567,EMEA,2020-05-02,1
+customer793@yahoo.com,Akosua,Brown,020 7946 0958,EU,2020-05-03,1
+customer752@company.com,Yaw,Jones,invalid-phone,Europe,2020-05-03,1
+customer4@yahoo.com,Maria,Garcia,+81-3-1234-5678,USA,2020-05-03,0
+customer595@yahoo.com,José,Martínez,5551234567,US,2020-05-03,0
+customer360@gmail.com,André,Díaz,5551234567,united states,2020-05-03,0
+customer458@company.com,Léa,López,020 7946 0958,Asia,2020-05-03,0
+customer247@yahoo.com,François,González,555.123.4567,US,2020-05-04,0
+customer565@yahoo.com,Müller,Wang,invalid-phone,united states,2020-05-04,0
+customer672@gmail.com,O'Brien,Kim,+81-3-1234-5678,Europe,2020-05-04,1
+customer421@yahoo.com,John,Mensah,020 7946 0958,apac,2020-05-04,0
+customer737@company.com,Jane,Asante,+81-3-1234-5678,eu,2020-05-04,1
+customer14@company.com,Mike,Boateng,5551234567,US,2020-05-04,0
+customer735@gmail.com,Sarah,Smith,invalid-phone,europe,2020-05-05,0
+customer572@company.com,Alex,Johnson,+81-3-1234-5678,europe,2020-05-05,0
+customer121@yahoo.com,Chris,Williams,020 7946 0958,US,2020-05-05,0
+customer276@gmail.com,Ama,Brown,5551234567,,2020-05-05,0
+customer557@company.com,Kofi,Jones,invalid-phone,N/A,2020-05-05,0
+customer452@company.com,Evans,Garcia,5551234567,apac,2020-05-05,0
+customer389@company.com,Abena,Martínez,+81-3-1234-5678,us,2020-05-06,0
+customer293@company.com,Kwame,Díaz,invalid-phone,AP,2020-05-06,1
+customer573@gmail.com,Akosua,López,+44 20 7946 0958,united states,2020-05-06,0
+customer597@gmail.com,Yaw,González,020 7946 0958,Europe,2020-05-06,1
+customer445@yahoo.com,Maria,Wang,invalid-phone,Asia Pacific,2020-05-06,0
+customer209@company.com,José,Kim,invalid-phone,us,2020-05-06,0
+customer589@yahoo.com,André,Mensah,invalid-phone,EU,2020-05-07,0
+customer713@company.com,Léa,Asante,+81-3-1234-5678,EMEA,2020-05-07,0
+customer301@yahoo.com,François,Boateng,+44 20 7946 0958,USA,2020-05-07,0
+customer222@gmail.com,Müller,Smith,+44 20 7946 0958,US,2020-05-07,0
+customer733@yahoo.com,O'Brien,Johnson,020 7946 0958,EMEA,2020-05-07,0
+customer2@company.com,John,Williams,+44 20 7946 0958,AP,2020-05-07,0
+customer517@yahoo.com,Jane,Brown,invalid-phone,USA,2020-05-08,0
+customer92@company.com,Mike,Jones,+1 (555) 123-4567,North America,2020-05-08,0
+customer519@gmail.com,Sarah,Garcia,,,2020-05-08,0
+customer427@yahoo.com,Alex,Martínez,invalid-phone,united states,2020-05-08,0
+customer492@gmail.com,Chris,Díaz,+44 20 7946 0958,Europe,2020-05-08,0
+customer234@gmail.com,Ama,López,+44 20 7946 0958,USA,2020-05-08,0
+customer619@yahoo.com,Kofi,González,+1 (555) 123-4567,North America,2020-05-09,0
+customer160@yahoo.com,Evans,Wang,+44 20 7946 0958,APAC,2020-05-09,0
+customer720@gmail.com,Abena,Kim,+44 20 7946 0958,europe,2020-05-09,0
+customer751@yahoo.com,Kwame,Mensah,,EU,2020-05-09,0
+customer330@gmail.com,Akosua,Asante,invalid-phone,us,2020-05-09,0
+customer332@company.com,Yaw,Boateng,+81-3-1234-5678,USA,2020-05-09,0
+customer49@yahoo.com,Maria,Smith,+81-3-1234-5678,united states,2020-05-10,1
+customer522@gmail.com,José,Johnson,+44 20 7946 0958,Asia Pacific,2020-05-10,0
+customer667@yahoo.com,André,Williams,+1 (555) 123-4567,europe,2020-05-10,0
+customer491@company.com,Léa,Brown,+1 (555) 123-4567,Europe,2020-05-10,0
+customer581@company.com,François,Jones,5551234567,,2020-05-10,0
+customer680@company.com,Müller,Garcia,5551234567,us,2020-05-10,0
+customer271@yahoo.com,O'Brien,Martínez,+1 (555) 123-4567,united states,2020-05-11,0
+customer579@gmail.com,John,Díaz,invalid-phone,europe,2020-05-11,0
+customer251@company.com,Jane,López,,North America,2020-05-11,0
+customer559@yahoo.com,Mike,González,,eu,2020-05-11,0
+customer695@company.com,Sarah,Wang,555.123.4567,AP,2020-05-11,0
+customer698@company.com,Alex,Kim,5551234567,Europe,2020-05-11,0
+customer89@company.com,Chris,Mensah,+81-3-1234-5678,Asia,2020-05-12,0
+customer445@yahoo.com,Ama,Asante,020 7946 0958,EMEA,2020-05-12,1
+customer331@yahoo.com,Kofi,Boateng,+1 (555) 123-4567,US,2020-05-12,0
+customer138@gmail.com,Evans,Smith,555.123.4567,US,2020-05-12,1
+customer356@company.com,Abena,Johnson,,Europe,2020-05-12,1
+customer600@gmail.com,Kwame,Williams,,apac,2020-05-12,0
+customer273@gmail.com,Akosua,Brown,,,2020-05-13,0
+customer18@gmail.com,Yaw,Jones,5551234567,Asia,2020-05-13,0
+customer310@yahoo.com,Maria,Garcia,+1 (555) 123-4567,N/A,2020-05-13,0
+customer153@gmail.com,José,Martínez,+44 20 7946 0958,US,2020-05-13,0
+customer389@company.com,André,Díaz,,North America,2020-05-13,0
+customer259@yahoo.com,Léa,López,+81-3-1234-5678,Europe,2020-05-13,0
+customer619@yahoo.com,François,González,5551234567,Asia,2020-05-14,0
+customer796@yahoo.com,Müller,Wang,,US,2020-05-14,1
+customer570@gmail.com,O'Brien,Kim,+81-3-1234-5678,EU,2020-05-14,0
+customer124@yahoo.com,John,Mensah,invalid-phone,North America,2020-05-14,0
+customer353@company.com,Jane,Asante,555.123.4567,EU,2020-05-14,0
+customer272@company.com,Mike,Boateng,+44 20 7946 0958,eu,2020-05-14,1
+customer618@gmail.com,Sarah,Smith,invalid-phone,AP,2020-05-15,0
+customer244@yahoo.com,Alex,Johnson,+1 (555) 123-4567,Asia Pacific,2020-05-15,0
+customer449@company.com,Chris,Williams,+44 20 7946 0958,AP,2020-05-15,0
+customer246@gmail.com,Ama,Brown,,Asia Pacific,2020-05-15,0
+customer519@gmail.com,Kofi,Jones,,APAC,2020-05-15,0
+customer140@company.com,Evans,Garcia,5551234567,apac,2020-05-15,1
+customer361@yahoo.com,Abena,Martínez,+81-3-1234-5678,eu,2020-05-16,0
+customer7@yahoo.com,Kwame,Díaz,020 7946 0958,us,2020-05-16,0
+customer477@gmail.com,Akosua,López,+44 20 7946 0958,N/A,2020-05-16,1
+customer351@gmail.com,Yaw,González,invalid-phone,apac,2020-05-16,0
+customer494@company.com,Maria,Wang,555.123.4567,EU,2020-05-16,0
+customer605@company.com,José,Kim,,Asia Pacific,2020-05-16,1
+customer426@gmail.com,André,Mensah,555.123.4567,Europe,2020-05-17,0
+customer38@company.com,Léa,Asante,020 7946 0958,Asia,2020-05-17,0
+customer592@yahoo.com,François,Boateng,020 7946 0958,EU,2020-05-17,0
+customer186@gmail.com,Müller,Smith,+1 (555) 123-4567,eu,2020-05-17,0
+customer595@yahoo.com,O'Brien,Johnson,5551234567,eu,2020-05-17,0
+customer599@company.com,John,Williams,+44 20 7946 0958,united states,2020-05-17,0
+customer753@gmail.com,Jane,Brown,,Europe,2020-05-18,0
+customer92@company.com,Mike,Jones,+81-3-1234-5678,North America,2020-05-18,1
+customer85@yahoo.com,Sarah,Garcia,invalid-phone,EU,2020-05-18,0
+customer43@yahoo.com,Alex,Martínez,,us,2020-05-18,1
+customer136@yahoo.com,Chris,Díaz,+81-3-1234-5678,europe,2020-05-18,0
+customer420@gmail.com,Ama,López,+1 (555) 123-4567,,2020-05-18,0
+customer73@yahoo.com,Kofi,González,+81-3-1234-5678,eu,2020-05-19,0
+customer547@yahoo.com,Evans,Wang,invalid-phone,USA,2020-05-19,0
+customer612@gmail.com,Abena,Kim,+44 20 7946 0958,EU,2020-05-19,0
+customer511@yahoo.com,Kwame,Mensah,+1 (555) 123-4567,USA,2020-05-19,1
+customer155@company.com,Akosua,Asante,+81-3-1234-5678,,2020-05-19,0
+customer254@company.com,Yaw,Boateng,020 7946 0958,Europe,2020-05-19,0
+customer170@company.com,Maria,Smith,+1 (555) 123-4567,Asia Pacific,2020-05-20,0
+customer727@yahoo.com,José,Johnson,+1 (555) 123-4567,EMEA,2020-05-20,0
+customer169@yahoo.com,André,Williams,555.123.4567,Asia,2020-05-20,0
+customer763@yahoo.com,Léa,Brown,,,2020-05-20,0
+customer321@gmail.com,François,Jones,+44 20 7946 0958,EU,2020-05-20,0
+customer566@company.com,Müller,Garcia,+81-3-1234-5678,AP,2020-05-20,0
+customer455@company.com,O'Brien,Martínez,+1 (555) 123-4567,N/A,2020-05-21,0
+customer602@company.com,John,Díaz,5551234567,EU,2020-05-21,0
+customer789@gmail.com,Jane,López,+81-3-1234-5678,Asia Pacific,2020-05-21,0
+customer612@gmail.com,Mike,González,5551234567,USA,2020-05-21,1
+customer154@yahoo.com,Sarah,Wang,020 7946 0958,USA,2020-05-21,0
+customer348@gmail.com,Alex,Kim,invalid-phone,US,2020-05-21,0
+customer450@gmail.com,Chris,Mensah,invalid-phone,eu,2020-05-22,0
+customer652@yahoo.com,Ama,Asante,+81-3-1234-5678,EMEA,2020-05-22,0
+customer172@yahoo.com,Kofi,Boateng,invalid-phone,,2020-05-22,1
+customer9@gmail.com,Evans,Smith,,us,2020-05-22,0
+customer739@yahoo.com,Abena,Johnson,555.123.4567,Asia,2020-05-22,0
+customer264@gmail.com,Kwame,Williams,+81-3-1234-5678,us,2020-05-22,0
+customer437@company.com,Akosua,Brown,+81-3-1234-5678,EMEA,2020-05-23,0
+customer759@gmail.com,Yaw,Jones,555.123.4567,EMEA,2020-05-23,0
+customer246@gmail.com,Maria,Garcia,,eu,2020-05-23,0
+customer666@gmail.com,José,Martínez,+81-3-1234-5678,europe,2020-05-23,0
+customer545@company.com,André,Díaz,020 7946 0958,N/A,2020-05-23,0
+customer498@gmail.com,Léa,López,020 7946 0958,AP,2020-05-23,0
+customer128@company.com,François,González,555.123.4567,Asia,2020-05-24,1
+customer671@company.com,Müller,Wang,+81-3-1234-5678,Europe,2020-05-24,0
+customer600@gmail.com,O'Brien,Kim,555.123.4567,AP,2020-05-24,0
+customer604@yahoo.com,John,Mensah,invalid-phone,Asia Pacific,2020-05-24,0
+customer326@company.com,Jane,Asante,invalid-phone,us,2020-05-24,1
+customer752@company.com,Mike,Boateng,+81-3-1234-5678,,2020-05-24,0
+customer403@yahoo.com,Sarah,Smith,555.123.4567,US,2020-05-25,1
+customer628@yahoo.com,Alex,Johnson,+44 20 7946 0958,AP,2020-05-25,0
+customer605@company.com,Chris,Williams,020 7946 0958,EMEA,2020-05-25,0
+customer674@company.com,Ama,Brown,+44 20 7946 0958,Europe,2020-05-25,0
+customer610@yahoo.com,Kofi,Jones,020 7946 0958,europe,2020-05-25,0
+customer624@gmail.com,Evans,Garcia,invalid-phone,APAC,2020-05-25,0
+customer358@yahoo.com,Abena,Martínez,invalid-phone,North America,2020-05-26,0
+customer602@company.com,Kwame,Díaz,5551234567,us,2020-05-26,0
+customer717@gmail.com,Akosua,López,+81-3-1234-5678,united states,2020-05-26,0
+customer16@yahoo.com,Yaw,González,+81-3-1234-5678,eu,2020-05-26,0
+customer273@gmail.com,Maria,Wang,555.123.4567,,2020-05-26,0
+customer684@gmail.com,José,Kim,+44 20 7946 0958,EU,2020-05-26,0
+customer115@yahoo.com,André,Mensah,555.123.4567,apac,2020-05-27,0
+customer692@company.com,Léa,Asante,invalid-phone,AP,2020-05-27,0
+customer90@gmail.com,François,Boateng,+81-3-1234-5678,europe,2020-05-27,0
+customer81@gmail.com,Müller,Smith,+44 20 7946 0958,APAC,2020-05-27,1
+customer323@company.com,O'Brien,Johnson,5551234567,Europe,2020-05-27,0
+customer113@company.com,John,Williams,5551234567,united states,2020-05-27,0
+customer768@gmail.com,Jane,Brown,+1 (555) 123-4567,EMEA,2020-05-28,0
+customer57@gmail.com,Mike,Jones,+1 (555) 123-4567,N/A,2020-05-28,1
+customer153@gmail.com,Sarah,Garcia,,EU,2020-05-28,0
+customer403@yahoo.com,Alex,Martínez,020 7946 0958,us,2020-05-28,0
+customer627@gmail.com,Chris,Díaz,+1 (555) 123-4567,USA,2020-05-28,1
+customer265@yahoo.com,Ama,López,555.123.4567,EMEA,2020-05-28,0
+customer314@company.com,Kofi,González,020 7946 0958,North America,2020-05-29,0
+customer714@gmail.com,Evans,Wang,555.123.4567,apac,2020-05-29,0
+customer40@yahoo.com,Abena,Kim,invalid-phone,,2020-05-29,0
+customer104@company.com,Kwame,Mensah,+1 (555) 123-4567,apac,2020-05-29,0
+customer192@gmail.com,Akosua,Asante,+44 20 7946 0958,US,2020-05-29,0
+customer400@yahoo.com,Yaw,Boateng,+81-3-1234-5678,USA,2020-05-29,0
+customer277@yahoo.com,Maria,Smith,020 7946 0958,,2020-05-30,1
+customer353@company.com,José,Johnson,555.123.4567,us,2020-05-30,0
+customer748@yahoo.com,André,Williams,+44 20 7946 0958,europe,2020-05-30,0
+customer732@gmail.com,Léa,Brown,+81-3-1234-5678,Asia Pacific,2020-05-30,0
+customer579@gmail.com,François,Jones,+44 20 7946 0958,Europe,2020-05-30,0
+customer708@gmail.com,Müller,Garcia,,AP,2020-05-30,0
+customer255@gmail.com,O'Brien,Martínez,+1 (555) 123-4567,apac,2020-05-31,0
+customer650@company.com,John,Díaz,,united states,2020-05-31,0
+customer660@gmail.com,Jane,López,invalid-phone,eu,2020-05-31,0
+customer98@company.com,Mike,González,,apac,2020-05-31,0
+customer587@company.com,Sarah,Wang,+81-3-1234-5678,USA,2020-05-31,0
+customer281@company.com,Alex,Kim,+44 20 7946 0958,US,2020-05-31,0
+customer402@gmail.com,Chris,Mensah,invalid-phone,Europe,2020-06-01,0
+customer108@gmail.com,Ama,Asante,+81-3-1234-5678,us,2020-06-01,0
+customer699@gmail.com,Kofi,Boateng,+1 (555) 123-4567,EMEA,2020-06-01,1
+customer198@gmail.com,Evans,Smith,+1 (555) 123-4567,APAC,2020-06-01,0
+customer302@company.com,Abena,Johnson,+44 20 7946 0958,Europe,2020-06-01,0
+customer326@company.com,Kwame,Williams,,EMEA,2020-06-01,0
+customer153@gmail.com,Akosua,Brown,,united states,2020-06-02,0
+customer551@company.com,Yaw,Jones,5551234567,united states,2020-06-02,0
+customer644@company.com,Maria,Garcia,+81-3-1234-5678,Asia Pacific,2020-06-02,1
+customer404@company.com,José,Martínez,,USA,2020-06-02,0
+customer461@company.com,André,Díaz,5551234567,N/A,2020-06-02,0
+customer131@company.com,Léa,López,+44 20 7946 0958,eu,2020-06-02,0
+customer790@yahoo.com,François,González,invalid-phone,apac,2020-06-03,0
+customer83@company.com,Müller,Wang,020 7946 0958,,2020-06-03,0
+customer398@company.com,O'Brien,Kim,+81-3-1234-5678,,2020-06-03,0
+customer753@gmail.com,John,Mensah,,eu,2020-06-03,0
+customer627@gmail.com,Jane,Asante,5551234567,us,2020-06-03,0
+customer108@gmail.com,Mike,Boateng,+81-3-1234-5678,,2020-06-03,0
+customer220@yahoo.com,Sarah,Smith,+44 20 7946 0958,,2020-06-04,0
+customer552@gmail.com,Alex,Johnson,,europe,2020-06-04,1
+customer367@yahoo.com,Chris,Williams,+1 (555) 123-4567,AP,2020-06-04,0
+customer146@company.com,Ama,Brown,+44 20 7946 0958,europe,2020-06-04,0
+customer111@gmail.com,Kofi,Jones,,EMEA,2020-06-04,0
+customer614@company.com,Evans,Garcia,invalid-phone,Asia,2020-06-04,1
+customer557@company.com,Abena,Martínez,+1 (555) 123-4567,North America,2020-06-05,1
+customer493@yahoo.com,Kwame,Díaz,+81-3-1234-5678,Asia,2020-06-05,0
+customer504@gmail.com,Akosua,López,+81-3-1234-5678,AP,2020-06-05,0
+customer474@gmail.com,Yaw,González,555.123.4567,Asia Pacific,2020-06-05,0
+customer270@gmail.com,Maria,Wang,,eu,2020-06-05,0
+customer420@gmail.com,José,Kim,invalid-phone,EMEA,2020-06-05,0
+customer706@yahoo.com,André,Mensah,invalid-phone,united states,2020-06-06,0
+customer366@gmail.com,Léa,Asante,invalid-phone,APAC,2020-06-06,0
+customer279@gmail.com,François,Boateng,020 7946 0958,USA,2020-06-06,0
+customer282@gmail.com,Müller,Smith,020 7946 0958,Europe,2020-06-06,0
+customer39@gmail.com,O'Brien,Johnson,020 7946 0958,N/A,2020-06-06,1
+customer188@company.com,John,Williams,+44 20 7946 0958,united states,2020-06-06,0
+customer163@yahoo.com,Jane,Brown,555.123.4567,eu,2020-06-07,0
+customer535@yahoo.com,Mike,Jones,+1 (555) 123-4567,us,2020-06-07,0
+customer535@yahoo.com,Sarah,Garcia,+81-3-1234-5678,us,2020-06-07,0
+customer3@gmail.com,Alex,Martínez,,US,2020-06-07,0
+customer289@yahoo.com,Chris,Díaz,+44 20 7946 0958,europe,2020-06-07,0
+customer432@gmail.com,Ama,López,+81-3-1234-5678,united states,2020-06-07,1
+customer470@company.com,Kofi,González,invalid-phone,AP,2020-06-08,0
+customer180@gmail.com,Evans,Wang,555.123.4567,eu,2020-06-08,0
+customer247@yahoo.com,Abena,Kim,5551234567,US,2020-06-08,0
+customer627@gmail.com,Kwame,Mensah,+1 (555) 123-4567,Asia Pacific,2020-06-08,0
+customer278@company.com,Akosua,Asante,+81-3-1234-5678,Asia Pacific,2020-06-08,0
+customer580@yahoo.com,Yaw,Boateng,555.123.4567,Asia,2020-06-08,0
+customer253@yahoo.com,Maria,Smith,+44 20 7946 0958,united states,2020-06-09,0
+customer180@gmail.com,José,Johnson,invalid-phone,us,2020-06-09,0
+customer680@company.com,André,Williams,555.123.4567,N/A,2020-06-09,0
+customer508@yahoo.com,Léa,Brown,+81-3-1234-5678,,2020-06-09,0
+customer760@yahoo.com,François,Jones,+81-3-1234-5678,USA,2020-06-09,0
+customer699@gmail.com,Müller,Garcia,5551234567,AP,2020-06-09,0
+customer565@yahoo.com,O'Brien,Martínez,555.123.4567,united states,2020-06-10,0
+customer325@yahoo.com,John,Díaz,020 7946 0958,,2020-06-10,0
+customer356@company.com,Jane,López,+44 20 7946 0958,US,2020-06-10,1
+customer649@yahoo.com,Mike,González,5551234567,Europe,2020-06-10,0
+customer679@yahoo.com,Sarah,Wang,555.123.4567,apac,2020-06-10,0
+customer390@gmail.com,Alex,Kim,,europe,2020-06-10,1
+customer614@company.com,Chris,Mensah,+81-3-1234-5678,APAC,2020-06-11,0
+customer84@gmail.com,Ama,Asante,,AP,2020-06-11,0
+customer316@yahoo.com,Kofi,Boateng,020 7946 0958,europe,2020-06-11,0
+customer211@yahoo.com,Evans,Smith,,united states,2020-06-11,0
+customer514@yahoo.com,Abena,Johnson,5551234567,EMEA,2020-06-11,0
+customer383@company.com,Kwame,Williams,+44 20 7946 0958,Asia Pacific,2020-06-11,0
+customer690@gmail.com,Akosua,Brown,020 7946 0958,,2020-06-12,0
+customer341@company.com,Yaw,Jones,+44 20 7946 0958,apac,2020-06-12,0
+customer37@yahoo.com,Maria,Garcia,555.123.4567,eu,2020-06-12,1
+customer510@gmail.com,José,Martínez,+44 20 7946 0958,EU,2020-06-12,0
+customer419@company.com,André,Díaz,+1 (555) 123-4567,united states,2020-06-12,1
+customer750@gmail.com,Léa,López,020 7946 0958,apac,2020-06-12,0
+customer168@gmail.com,François,González,+44 20 7946 0958,us,2020-06-13,0
+customer342@gmail.com,Müller,Wang,+1 (555) 123-4567,N/A,2020-06-13,0
+customer305@company.com,O'Brien,Kim,+81-3-1234-5678,US,2020-06-13,0
+customer541@yahoo.com,John,Mensah,5551234567,USA,2020-06-13,0
+customer701@company.com,Jane,Asante,555.123.4567,EU,2020-06-13,0
+customer536@company.com,Mike,Boateng,,APAC,2020-06-13,0
+customer111@gmail.com,Sarah,Smith,+1 (555) 123-4567,EU,2020-06-14,1
+customer410@company.com,Alex,Johnson,5551234567,apac,2020-06-14,0
+customer205@yahoo.com,Chris,Williams,+44 20 7946 0958,united states,2020-06-14,0
+customer184@yahoo.com,Ama,Brown,+1 (555) 123-4567,us,2020-06-14,0
+customer381@gmail.com,Kofi,Jones,020 7946 0958,Asia Pacific,2020-06-14,0
+customer495@gmail.com,Evans,Garcia,,europe,2020-06-14,0
+customer378@gmail.com,Abena,Martínez,+44 20 7946 0958,Europe,2020-06-15,0
+customer46@yahoo.com,Kwame,Díaz,020 7946 0958,europe,2020-06-15,0
+customer739@yahoo.com,Akosua,López,invalid-phone,US,2020-06-15,1
+customer550@yahoo.com,Yaw,González,,eu,2020-06-15,0
+test0@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test1@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test2@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test3@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test4@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test5@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test6@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test7@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test8@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test9@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test10@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test11@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test12@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test13@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test14@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test15@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test16@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test17@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test18@test.shopstream.com,Test,Account,,US,2023-01-01,0
+test19@test.shopstream.com,Test,Account,,US,2023-01-01,0
