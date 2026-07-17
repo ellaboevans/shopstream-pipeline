@@ -1,0 +1,8 @@
+check,description,total,passed,failed,pass_rate,status
+NOT NULL: email,Every customer must have an email address,726,726,0,1.0,PASS
+NOT NULL: first_name,Every customer must have a first name,726,726,0,1.0,PASS
+NOT NULL: region,Every customer must have a region for campaign targeting,726,701,25,0.9656,PASS
+UNIQUE: email,No duplicate emails after deduplication,726,726,0,1.0,PASS
+REGEX: email,All emails must be in valid format,726,723,3,0.9959,PASS
+VALUES IN SET: region,"Region must be US, EU or APAC",701,701,0,1.0,PASS
+DATE RANGE: registration_date,Registration dates must be between 2010 and today,726,726,0,1.0,PASS
