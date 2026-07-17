@@ -1,0 +1,727 @@
+﻿email,first_name,last_name,phone,region,registration_date,opt_out,source,email_raw,email_valid,region_raw,source_priority,sources,source_count
+customer77@company.com,O'Brien,Mensah,5551234567,US,2020-06-01,1,crm,customer77@company.com,True,us,1,crm,1.0
+customer170@company.com,Kofi,Williams,+81312345678,EU,2022-12-01,0,crm,customer170@company.com,True,europe,1,"crm,website",2.0
+customer451@yahoo.com,Mike,Jones,5551234567,APAC,2022-03-01,0,crm,customer451@yahoo.com,True,AP,1,"crm,website",2.0
+customer80@company.com,François,Martínez,+15551234567,US,2021-06-01,0,crm,customer80@company.com,True,united states,1,"crm,website",2.0
+customer437@company.com,Sarah,Garcia,5551234567,APAC,2021-06-01,1,crm,customer437@company.com,True,,1,"crm,website",2.0
+customer96@gmail.com,Kofi,Wang,,US,2022-12-01,1,crm,customer96@gmail.com,True,USA,1,crm,1.0
+customer547@yahoo.com,Maria,Kim,+15551234567,EU,2023-11-01,1,crm,customer547@yahoo.com,True,EMEA,1,"crm,website",2.0
+customer566@company.com,John,Asante,+442079460958,US,2021-07-01,0,crm,customer566@company.com,True,US,1,"crm,website",2.0
+customer546@gmail.com,Akosua,López,+15551234567,US,2022-02-01,0,crm,customer546@gmail.com,True,USA,1,"crm,website,erp",3.0
+customer582@gmail.com,Kofi,Johnson,,US,2022-02-01,1,crm,customer582@gmail.com,True,North America,1,crm,1.0
+customer572@company.com,Mike,Díaz,5551234567,US,2022-10-01,0,crm,customer572@company.com,True,US,1,"crm,website",2.0
+customer739@yahoo.com,Abena,Garcia,5551234567,EU,2023-01-01,1,crm,customer739@yahoo.com,True,Europe,1,"crm,website",2.0
+customer681@gmail.com,Evans,Boateng,+81312345678,EU,2020-11-01,1,crm,customer681@gmail.com,True,europe,1,"crm,website,erp",3.0
+customer186@gmail.com,Kwame,González,+15551234567,EU,2022-04-01,0,crm,customer186@gmail.com,True,,1,"crm,website,erp",3.0
+customer600@gmail.com,Léa,Kim,+15551234567,APAC,2021-01-01,1,crm,customer600@gmail.com,True,,1,"crm,website",2.0
+customer175@yahoo.com,O'Brien,Wang,5551234567,EU,2020-08-01,0,crm,customer175@yahoo.com,True,EMEA,1,crm,1.0
+customer656@company.com,John,Brown,+442079460958,US,2020-02-01,0,crm,customer656@company.com,True,united states,1,"crm,website",2.0
+customer648@gmail.com,Evans,Kim,+81312345678,EU,2021-08-01,0,crm,customer648@gmail.com,True,EU,1,"crm,website",2.0
+customer694@yahoo.com,François,Johnson,+15551234567,EU,2021-01-01,0,crm,customer694@yahoo.com,True,europe,1,"crm,website",2.0
+customer100@yahoo.com,Abena,Mensah,+15551234567,APAC,2021-01-01,1,crm,customer100@yahoo.com,True,Asia,1,"crm,website,erp",3.0
+customer403@yahoo.com,Akosua,Johnson,+15551234567,US,2023-09-01,1,crm,customer403@yahoo.com,True,US,1,"crm,website",2.0
+customer246@gmail.com,Sarah,Williams,+442079460958,EU,2023-10-01,0,crm,customer246@gmail.com,True,Europe,1,"crm,website",2.0
+customer91@yahoo.com,Kwame,Boateng,02079460958,US,2020-10-01,0,crm,customer91@yahoo.com,True,USA,1,crm,1.0
+customer587@company.com,Abena,Garcia,5551234567,EU,2022-11-01,0,crm,customer587@company.com,True,EMEA,1,"crm,website",2.0
+customer711@gmail.com,John,Johnson,5551234567,US,2023-08-01,0,crm,customer711@gmail.com,True,united states,1,crm,1.0
+customer560@company.com,José,Asante,5551234567,EU,2023-10-01,0,crm,customer560@company.com,True,,1,"crm,website",2.0
+customer133@yahoo.com,John,Smith,+15551234567,APAC,2021-10-01,0,crm,customer133@yahoo.com,True,Asia,1,"crm,website",2.0
+customer120@gmail.com,Maria,Brown,5551234567,,2022-03-01,1,crm,customer120@gmail.com,True,,1,crm,1.0
+customer491@company.com,Maria,Mensah,+81312345678,US,2023-12-01,0,crm,customer491@company.com,True,North America,1,"crm,website,erp",3.0
+customer458@company.com,Kwame,Jones,+81312345678,APAC,2021-01-01,1,crm,customer458@company.com,True,Asia Pacific,1,"crm,website",2.0
+customer476@company.com,Mike,Garcia,+15551234567,US,2022-01-01,1,crm,customer476@company.com,True,N/A,1,"crm,erp",2.0
+customer542@company.com,José,Martínez,02079460958,US,2021-07-01,1,crm,customer542@company.com,True,united states,1,crm,1.0
+customer327@gmail.com,Akosua,Jones,5551234567,APAC,2020-01-01,1,crm,customer327@gmail.com,True,,1,"crm,erp",2.0
+customer707@company.com,Akosua,Brown,5551234567,APAC,2022-06-01,1,crm,customer707@company.com,True,APAC,1,"crm,website,erp",3.0
+customer0@gmail.com,Léa,Martínez,5551234567,APAC,2023-07-01,0,crm,customer0@gmail.com,True,apac,1,"crm,website",2.0
+customer689@company.com,Kofi,Boateng,,US,2020-11-01,0,crm,customer689@company.com,True,US,1,crm,1.0
+customer388@yahoo.com,Léa,Williams,+15551234567,US,2023-03-01,0,crm,customer388@yahoo.com,True,USA,1,"crm,erp",2.0
+customer252@gmail.com,Kofi,Martínez,02079460958,US,2023-04-01,1,crm,customer252@gmail.com,True,North America,1,"crm,erp",2.0
+customer717@gmail.com,André,Smith,+81312345678,US,2021-04-01,1,crm,customer717@gmail.com,True,,1,"crm,website",2.0
+customer701@company.com,Akosua,Mensah,+15551234567,US,2020-02-01,1,crm,customer701@company.com,True,North America,1,"crm,website,erp",3.0
+customer255@gmail.com,Chris,Smith,+15551234567,APAC,2020-02-01,0,crm,customer255@gmail.com,True,,1,"crm,website",2.0
+customer348@gmail.com,José,Martínez,5551234567,EU,2022-07-01,0,crm,customer348@gmail.com,True,europe,1,"crm,website,erp",3.0
+customer549@gmail.com,Ama,Johnson,5551234567,US,2022-06-01,1,crm,customer549@gmail.com,True,US,1,crm,1.0
+customer305@company.com,Ama,González,5551234567,US,2022-01-01,1,crm,customer305@company.com,True,us,1,"crm,website,erp",3.0
+customer131@company.com,Abena,Martínez,02079460958,US,2021-01-01,1,crm,customer131@company.com,True,North America,1,"crm,website",2.0
+customer659@company.com,John,López,+81312345678,US,2020-05-01,0,crm,customer659@company.com,True,US,1,"crm,website",2.0
+customer696@gmail.com,François,Kim,,EU,2021-06-01,0,crm,customer696@gmail.com,True,eu,1,crm,1.0
+customer421@yahoo.com,Sarah,Díaz,+15551234567,APAC,2020-02-01,0,crm,customer421@yahoo.com,True,Asia,1,"crm,website",2.0
+customer512@company.com,Evans,Jones,+442079460958,APAC,2021-11-01,0,crm,customer512@company.com,True,apac,1,crm,1.0
+customer283@yahoo.com,Müller,Williams,+81312345678,EU,2023-06-01,0,crm,customer283@yahoo.com,True,EU,1,"crm,website",2.0
+customer471@gmail.com,Yaw,González,02079460958,EU,2020-08-01,0,crm,customer471@gmail.com,True,Europe,1,crm,1.0
+customer228@gmail.com,Sarah,González,5551234567,US,2020-10-01,1,crm,customer228@gmail.com,True,North America,1,"crm,erp",2.0
+customer181@yahoo.com,Akosua,Kim,+81312345678,US,2021-10-01,0,crm,customer181@yahoo.com,True,united states,1,"crm,website",2.0
+customer145@yahoo.com,José,Jones,5551234567,US,2021-01-01,1,crm,customer145@yahoo.com,True,North America,1,crm,1.0
+customer362@company.com,Abena,López,+81312345678,EU,2021-09-01,0,crm,customer362@company.com,True,Europe,1,"crm,website",2.0
+customer434@company.com,Sarah,Martínez,02079460958,APAC,2023-11-01,1,crm,customer434@company.com,True,Asia Pacific,1,"crm,website,erp",3.0
+customer240@gmail.com,Evans,Díaz,+15551234567,US,2021-09-01,0,crm,customer240@gmail.com,True,us,1,"crm,website",2.0
+customer285@gmail.com,Jane,López,+15551234567,EU,2023-03-01,1,crm,customer285@gmail.com,True,eu,1,"crm,website",2.0
+customer470@company.com,François,Asante,+442079460958,US,2023-02-01,1,crm,customer470@company.com,True,US,1,"crm,website",2.0
+customer780@gmail.com,Ama,González,+81312345678,US,2023-10-01,1,crm,customer780@gmail.com,True,united states,1,"crm,website,erp",3.0
+customer577@yahoo.com,Müller,Kim,+81312345678,,2022-07-01,0,crm,customer577@yahoo.com,True,,1,crm,1.0
+customer129@gmail.com,Evans,Williams,+442079460958,APAC,2022-07-01,1,crm,customer129@gmail.com,True,apac,1,"crm,erp",2.0
+customer220@yahoo.com,Evans,Kim,+15551234567,EU,2020-11-01,0,crm,customer220@yahoo.com,True,EMEA,1,"crm,website",2.0
+customer634@yahoo.com,John,Boateng,+81312345678,US,2020-04-01,0,crm,customer634@yahoo.com,True,united states,1,crm,1.0
+customer408@gmail.com,Yaw,Kim,+442079460958,APAC,2023-01-01,0,crm,customer408@gmail.com,True,Asia,1,"crm,website",2.0
+customer755@company.com,Léa,López,02079460958,US,2020-02-01,1,crm,customer755@company.com,True,North America,1,"crm,website,erp",3.0
+customer617@company.com,John,Boateng,5551234567,US,2021-11-01,1,crm,customer617@company.com,True,USA,1,"crm,website",2.0
+customer544@yahoo.com,Sarah,Williams,02079460958,US,2022-10-01,1,crm,customer544@yahoo.com,True,united states,1,crm,1.0
+customer398@company.com,Maria,Johnson,5551234567,EU,2022-10-01,0,crm,customer398@company.com,True,eu,1,"crm,website",2.0
+customer308@company.com,Kwame,López,5551234567,EU,2022-09-01,1,crm,customer308@company.com,True,EU,1,crm,1.0
+customer771@gmail.com,Jane,Asante,+15551234567,APAC,2022-12-01,1,crm,customer771@gmail.com,True,Asia Pacific,1,"crm,website",2.0
+customer68@company.com,Müller,Wang,+15551234567,,2020-07-01,0,crm,customer68@company.com,True,,1,"crm,website",2.0
+customer250@yahoo.com,Akosua,Smith,+81312345678,EU,2022-10-01,0,crm,customer250@yahoo.com,True,eu,1,crm,1.0
+customer445@yahoo.com,Ama,Brown,5551234567,US,2021-04-01,1,crm,customer445@yahoo.com,True,us,1,"crm,website",2.0
+customer198@gmail.com,Kofi,Mensah,02079460958,US,2020-08-01,0,crm,customer198@gmail.com,True,North America,1,"crm,website",2.0
+customer238@yahoo.com,O'Brien,Jones,+81312345678,US,2022-11-01,1,crm,customer238@yahoo.com,True,N/A,1,"crm,erp",2.0
+customer379@yahoo.com,Ama,Martínez,+442079460958,EU,2022-11-01,1,crm,customer379@yahoo.com,True,EU,1,"crm,website,erp",3.0
+customer419@company.com,O'Brien,Asante,5551234567,APAC,2021-09-01,1,crm,customer419@company.com,True,Asia Pacific,1,"crm,website",2.0
+customer144@gmail.com,Mike,Martínez,5551234567,EU,2020-03-01,0,crm,customer144@gmail.com,True,Europe,1,crm,1.0
+customer61@yahoo.com,Yaw,Mensah,5551234567,EU,2023-04-01,1,crm,customer61@yahoo.com,True,europe,1,crm,1.0
+customer760@yahoo.com,John,González,+442079460958,EU,2022-02-01,0,crm,customer760@yahoo.com,True,EMEA,1,"crm,website",2.0
+customer41@company.com,Sarah,Williams,+15551234567,EU,2021-10-01,0,crm,customer41@company.com,True,europe,1,"crm,erp",2.0
+customer127@yahoo.com,Sarah,Johnson,5551234567,US,2020-12-01,1,crm,customer127@yahoo.com,True,united states,1,"crm,website",2.0
+customer29@company.com,Jane,López,02079460958,EU,2021-09-01,1,crm,customer29@company.com,True,Europe,1,"crm,website,erp",3.0
+customer295@yahoo.com,Kofi,Kim,02079460958,EU,2023-02-01,0,crm,customer295@yahoo.com,True,europe,1,"crm,website",2.0
+customer608@company.com,Müller,Wang,+81312345678,US,2022-01-01,1,crm,customer608@company.com,True,US,1,crm,1.0
+customer94@yahoo.com,José,Kim,5551234567,US,2022-10-01,0,crm,customer94@yahoo.com,True,united states,1,crm,1.0
+customer79@yahoo.com,André,Smith,,US,2021-06-01,1,crm,customer79@yahoo.com,True,North America,1,crm,1.0
+customer709@yahoo.com,Abena,Boateng,02079460958,EU,2022-12-01,0,crm,customer709@yahoo.com,True,EU,1,crm,1.0
+customer759@gmail.com,Akosua,López,+81312345678,EU,2023-03-01,1,crm,customer759@gmail.com,True,EU,1,"crm,website",2.0
+customer782@company.com,Abena,Jones,5551234567,EU,2020-05-01,1,crm,customer782@company.com,True,EU,1,"crm,erp",2.0
+customer281@company.com,Müller,Smith,+442079460958,US,2022-08-01,0,crm,customer281@company.com,True,USA,1,"crm,website",2.0
+customer191@company.com,Kwame,Martínez,5551234567,APAC,2023-04-01,0,crm,customer191@company.com,True,APAC,1,crm,1.0
+customer50@company.com,Kofi,Boateng,02079460958,US,2023-03-01,0,crm,customer50@company.com,True,USA,1,crm,1.0
+customer618@gmail.com,Abena,Garcia,5551234567,US,2022-11-01,0,crm,customer618@gmail.com,True,USA,1,"crm,website",2.0
+customer386@company.com,Kwame,Wang,+442079460958,EU,2022-05-01,1,crm,customer386@company.com,True,europe,1,"crm,website",2.0
+customer92@company.com,Jane,Boateng,+81312345678,EU,2023-05-01,1,crm,customer92@company.com,True,,1,"crm,website,erp",3.0
+customer651@gmail.com,Léa,Asante,5551234567,APAC,2021-02-01,1,crm,customer651@gmail.com,True,Asia Pacific,1,"crm,website,erp",3.0
+customer396@gmail.com,Müller,Smith,+15551234567,US,2020-06-01,1,crm,customer396@gmail.com,True,North America,1,"crm,website",2.0
+customer18@gmail.com,José,Smith,+81312345678,APAC,2020-10-01,0,crm,customer18@gmail.com,True,AP,1,"crm,website",2.0
+customer306@gmail.com,Kofi,Martínez,5551234567,EU,2020-02-01,0,crm,customer306@gmail.com,True,Europe,1,"crm,website,erp",3.0
+customer330@gmail.com,Akosua,López,+15551234567,US,2021-12-01,0,crm,customer330@gmail.com,True,us,1,"crm,website",2.0
+customer19@yahoo.com,Evans,Boateng,+81312345678,EU,2022-09-01,1,crm,customer19@yahoo.com,True,europe,1,"crm,website,erp",3.0
+customer69@gmail.com,Abena,López,02079460958,EU,2023-01-01,1,crm,customer69@gmail.com,True,eu,1,crm,1.0
+customer793@yahoo.com,François,Williams,02079460958,US,2022-02-01,1,crm,customer793@yahoo.com,True,US,1,"crm,website",2.0
+customer342@gmail.com,Abena,Garcia,+81312345678,US,2022-08-01,1,crm,customer342@gmail.com,True,US,1,"crm,website,erp",3.0
+customer686@company.com,Jane,Brown,5551234567,US,2021-04-01,0,crm,customer686@company.com,True,united states,1,"crm,website",2.0
+customer757@yahoo.com,José,Martínez,+442079460958,EU,2021-08-01,0,crm,customer757@yahoo.com,True,EMEA,1,"crm,website",2.0
+customer163@yahoo.com,François,Mensah,+442079460958,EU,2020-08-01,1,crm,customer163@yahoo.com,True,Europe,1,"crm,website,erp",3.0
+customer209@company.com,Maria,Martínez,5551234567,APAC,2022-10-01,0,crm,customer209@company.com,True,APAC,1,"crm,website,erp",3.0
+customer139@yahoo.com,Alex,Garcia,5551234567,APAC,2020-09-01,0,crm,customer139@yahoo.com,True,AP,1,"crm,website",2.0
+customer4@yahoo.com,Abena,Boateng,+442079460958,APAC,2023-11-01,0,crm,customer4@yahoo.com,True,apac,1,"crm,website",2.0
+customer107@company.com,John,López,5551234567,US,2020-05-01,0,crm,customer107@company.com,True,US,1,crm,1.0
+customer245@company.com,Müller,Smith,+15551234567,US,2021-07-01,0,crm,customer245@company.com,True,us,1,"crm,website",2.0
+customer788@company.com,Maria,Brown,+442079460958,APAC,2023-01-01,1,crm,customer788@company.com,True,APAC,1,"crm,website,erp",3.0
+customer517@yahoo.com,Ama,Jones,+15551234567,EU,2021-09-01,0,crm,customer517@yahoo.com,True,EMEA,1,"crm,website",2.0
+customer541@yahoo.com,O'Brien,Jones,5551234567,US,2020-06-01,1,crm,customer541@yahoo.com,True,North America,1,"crm,website",2.0
+customer72@gmail.com,John,Garcia,+442079460958,US,2021-09-01,0,crm,customer72@gmail.com,True,North America,1,"crm,website,erp",3.0
+customer59@company.com,Kwame,Garcia,+81312345678,,2022-12-01,0,crm,customer59@company.com,True,,1,crm,1.0
+customer385@yahoo.com,Jane,Johnson,+442079460958,EU,2023-05-01,0,crm,customer385@yahoo.com,True,eu,1,crm,1.0
+customer279@gmail.com,Abena,Martínez,5551234567,US,2021-05-01,1,crm,customer279@gmail.com,True,North America,1,"crm,website",2.0
+customer21@gmail.com,Müller,López,+442079460958,APAC,2023-04-01,0,crm,customer21@gmail.com,True,apac,1,"crm,website",2.0
+customer698@company.com,François,Smith,+442079460958,EU,2023-03-01,1,crm,customer698@company.com,True,EU,1,"crm,website",2.0
+customer799@yahoo.com,Maria,Boateng,5551234567,EU,2023-02-01,0,crm,customer799@yahoo.com,True,europe,1,"crm,website,erp",3.0
+customer615@gmail.com,John,Wang,+15551234567,APAC,2022-11-01,0,crm,customer615@gmail.com,True,APAC,1,"crm,website",2.0
+customer784@yahoo.com,Evans,Díaz,5551234567,US,2021-06-01,1,crm,customer784@yahoo.com,True,N/A,1,"crm,website",2.0
+customer507@gmail.com,Sarah,Kim,5551234567,EU,2022-01-01,0,crm,customer507@gmail.com,True,eu,1,"crm,website",2.0
+customer586@yahoo.com,Müller,López,02079460958,APAC,2021-03-01,1,crm,customer586@yahoo.com,True,,1,"crm,website,erp",3.0
+customer57@gmail.com,Kofi,López,+15551234567,EU,2020-02-01,1,crm,customer57@gmail.com,True,Europe,1,"crm,website",2.0
+customer28@yahoo.com,Evans,Johnson,,US,2020-03-01,0,crm,customer28@yahoo.com,True,us,1,crm,1.0
+customer363@gmail.com,Alex,Garcia,+81312345678,US,2020-07-01,1,crm,customer363@gmail.com,True,N/A,1,"crm,website",2.0
+customer101@company.com,O'Brien,González,5551234567,EU,2022-12-01,0,crm,customer101@company.com,True,EU,1,"crm,website",2.0
+customer110@company.com,Abena,Smith,+442079460958,EU,2023-04-01,0,crm,customer110@company.com,True,eu,1,"crm,website",2.0
+customer626@company.com,Mike,Asante,02079460958,US,2020-12-01,0,crm,customer626@company.com,True,USA,1,crm,1.0
+customer751@yahoo.com,Kofi,Boateng,+81312345678,APAC,2022-07-01,0,crm,customer751@yahoo.com,True,APAC,1,"crm,website,erp",3.0
+customer410@company.com,Müller,González,+442079460958,EU,2022-03-01,0,crm,customer410@company.com,True,EU,1,"crm,website",2.0
+customer741@gmail.com,John,Martínez,02079460958,EU,2021-08-01,0,crm,customer741@gmail.com,True,europe,1,crm,1.0
+customer323@company.com,Alex,Smith,02079460958,APAC,2020-08-01,1,crm,customer323@company.com,True,Asia Pacific,1,"crm,website",2.0
+customer380@company.com,Kwame,Wang,,EU,2021-04-01,0,crm,customer380@company.com,True,EMEA,1,"crm,erp",2.0
+customer365@company.com,André,López,5551234567,US,2022-02-01,0,crm,customer365@company.com,True,us,1,crm,1.0
+customer282@gmail.com,Evans,Kim,02079460958,EU,2023-10-01,1,crm,customer282@gmail.com,True,europe,1,"crm,website",2.0
+customer537@gmail.com,Maria,González,02079460958,APAC,2023-03-01,1,crm,customer537@gmail.com,True,AP,1,"crm,erp",2.0
+customer553@yahoo.com,André,Smith,+15551234567,EU,2021-06-01,0,crm,customer553@yahoo.com,True,EU,1,"crm,website",2.0
+customer655@yahoo.com,Ama,Boateng,5551234567,EU,2023-06-01,1,crm,customer655@yahoo.com,True,Europe,1,"crm,website",2.0
+customer269@company.com,François,Díaz,+15551234567,US,2022-09-01,1,crm,customer269@company.com,True,North America,1,"crm,erp",2.0
+customer124@yahoo.com,Akosua,Asante,+442079460958,US,2023-07-01,1,crm,customer124@yahoo.com,True,us,1,"crm,website",2.0
+customer236@company.com,John,Boateng,+442079460958,,2020-10-01,1,crm,customer236@company.com,True,N/A,1,crm,1.0
+customer313@yahoo.com,Müller,Boateng,5551234567,EU,2022-09-01,0,crm,customer313@yahoo.com,True,europe,1,crm,1.0
+customer47@company.com,Akosua,Boateng,+442079460958,EU,2021-07-01,0,crm,customer47@company.com,True,eu,1,"crm,website",2.0
+customer575@company.com,Kwame,Brown,02079460958,APAC,2020-10-01,1,crm,customer575@company.com,True,APAC,1,"crm,website",2.0
+customer783@gmail.com,Maria,Williams,5551234567,EU,2020-11-01,1,crm,customer783@gmail.com,True,eu,1,"crm,website",2.0
+customer702@gmail.com,Kofi,González,5551234567,APAC,2023-12-01,0,crm,customer702@gmail.com,True,APAC,1,"crm,website",2.0
+customer62@company.com,Chris,Boateng,5551234567,US,2023-04-01,0,crm,customer62@company.com,True,North America,1,"crm,website",2.0
+customer719@company.com,Léa,Smith,+15551234567,APAC,2021-12-01,1,crm,customer719@company.com,True,Asia Pacific,1,"crm,website",2.0
+customer781@yahoo.com,Mike,Johnson,02079460958,EU,2022-04-01,1,crm,customer781@yahoo.com,True,Europe,1,"crm,erp",2.0
+customer460@yahoo.com,Kwame,González,+442079460958,EU,2023-05-01,0,crm,customer460@yahoo.com,True,Europe,1,"crm,website",2.0
+customer49@yahoo.com,Evans,Díaz,+15551234567,US,2022-05-01,1,crm,customer49@yahoo.com,True,North America,1,"crm,website",2.0
+customer299@company.com,Jane,Brown,+442079460958,EU,2021-07-01,0,crm,customer299@company.com,True,eu,1,"crm,website",2.0
+customer158@company.com,Léa,Mensah,+442079460958,APAC,2020-05-01,1,crm,customer158@company.com,True,AP,1,"crm,website",2.0
+customer180@gmail.com,John,Martínez,02079460958,US,2023-10-01,0,crm,customer180@gmail.com,True,united states,1,"crm,website",2.0
+customer128@company.com,O'Brien,Johnson,+15551234567,US,2020-04-01,1,crm,customer128@company.com,True,USA,1,"crm,website",2.0
+customer606@gmail.com,Alex,Garcia,,EU,2022-12-01,0,crm,customer606@gmail.com,True,europe,1,crm,1.0
+customer492@gmail.com,Alex,Boateng,+442079460958,EU,2021-11-01,0,crm,customer492@gmail.com,True,eu,1,"crm,website",2.0
+customer777@gmail.com,Léa,Mensah,+15551234567,EU,2023-01-01,0,crm,customer777@gmail.com,True,eu,1,"crm,erp",2.0
+customer506@company.com,Evans,Brown,02079460958,EU,2021-06-01,0,crm,customer506@company.com,True,,1,"crm,website",2.0
+customer518@company.com,Jane,Boateng,5551234567,US,2021-09-01,0,crm,customer518@company.com,True,us,1,"crm,website",2.0
+customer126@gmail.com,Alex,Martínez,5551234567,EU,2021-07-01,0,crm,customer126@gmail.com,True,EMEA,1,"crm,website",2.0
+customer539@company.com,Akosua,López,02079460958,EU,2020-08-01,1,crm,customer539@company.com,True,eu,1,"crm,website",2.0
+customer84@gmail.com,Ama,González,+81312345678,US,2020-09-01,0,crm,customer84@gmail.com,True,North America,1,"crm,website",2.0
+customer63@gmail.com,Akosua,Brown,,US,2023-11-01,0,crm,customer63@gmail.com,True,N/A,1,"crm,website",2.0
+customer312@gmail.com,Kofi,Brown,+442079460958,EU,2022-12-01,0,crm,customer312@gmail.com,True,Europe,1,"crm,website",2.0
+customer679@yahoo.com,Kofi,Martínez,5551234567,APAC,2022-02-01,0,crm,customer679@yahoo.com,True,N/A,1,"crm,website",2.0
+customer346@yahoo.com,Jane,Jones,5551234567,APAC,2020-09-01,0,crm,customer346@yahoo.com,True,Asia,1,crm,1.0
+customer111@gmail.com,André,Wang,5551234567,US,2021-05-01,1,crm,customer111@gmail.com,True,USA,1,"crm,website",2.0
+customer536@company.com,Kwame,Kim,02079460958,APAC,2021-11-01,0,crm,customer536@company.com,True,AP,1,"crm,website,erp",3.0
+customer74@company.com,Ama,Garcia,+15551234567,EU,2022-05-01,1,crm,customer74@company.com,True,europe,1,"crm,website,erp",3.0
+customer428@company.com,John,Wang,5551234567,US,2021-09-01,0,crm,customer428@company.com,True,united states,1,"crm,website",2.0
+customer722@company.com,Jane,Williams,02079460958,EU,2021-03-01,0,crm,customer722@company.com,True,Europe,1,"crm,website",2.0
+customer480@gmail.com,Mike,Johnson,02079460958,US,2022-02-01,0,crm,customer480@gmail.com,True,united states,1,crm,1.0
+customer645@gmail.com,Maria,Williams,5551234567,EU,2023-11-01,0,crm,customer645@gmail.com,True,eu,1,"crm,website",2.0
+customer14@company.com,Evans,Wang,+442079460958,US,2023-09-01,0,crm,customer14@company.com,True,USA,1,"crm,website",2.0
+customer208@yahoo.com,Alex,Díaz,5551234567,EU,2022-09-01,1,crm,customer208@yahoo.com,True,Europe,1,"crm,website",2.0
+customer787@yahoo.com,Akosua,Díaz,02079460958,US,2021-04-01,1,crm,customer787@yahoo.com,True,USA,1,crm,1.0
+customer484@yahoo.com,John,Smith,+81312345678,APAC,2020-12-01,1,crm,customer484@yahoo.com,True,Asia Pacific,1,"crm,website",2.0
+customer486@gmail.com,Kofi,Asante,5551234567,APAC,2020-07-01,1,crm,customer486@gmail.com,True,AP,1,"crm,website,erp",3.0
+customer731@company.com,Mike,Díaz,5551234567,US,2022-02-01,1,crm,customer731@company.com,True,North America,1,"crm,erp",2.0
+customer324@gmail.com,Akosua,Wang,02079460958,APAC,2022-08-01,0,crm,customer324@gmail.com,True,APAC,1,"crm,website,erp",3.0
+customer501@gmail.com,Evans,Brown,+442079460958,EU,2023-12-01,1,crm,customer501@gmail.com,True,Europe,1,"crm,website",2.0
+customer556@yahoo.com,Chris,Boateng,02079460958,APAC,2022-11-01,1,crm,customer556@yahoo.com,True,apac,1,"crm,website,erp",3.0
+customer643@yahoo.com,O'Brien,Martínez,5551234567,APAC,2021-04-01,1,crm,customer643@yahoo.com,True,apac,1,"crm,website,erp",3.0
+customer456@gmail.com,Jane,Garcia,+15551234567,APAC,2023-08-01,1,crm,customer456@gmail.com,True,AP,1,"crm,website,erp",3.0
+customer259@yahoo.com,Maria,Brown,5551234567,APAC,2021-10-01,1,crm,customer259@yahoo.com,True,Asia,1,"crm,website",2.0
+customer454@yahoo.com,Chris,Johnson,5551234567,EU,2022-10-01,1,crm,customer454@yahoo.com,True,N/A,1,"crm,website",2.0
+customer389@company.com,José,Mensah,02079460958,EU,2022-05-01,0,crm,customer389@company.com,True,Europe,1,"crm,website",2.0
+customer758@company.com,François,Kim,5551234567,EU,2021-05-01,0,crm,customer758@company.com,True,EU,1,crm,1.0
+customer171@gmail.com,Ama,Brown,+81312345678,EU,2022-11-01,0,crm,customer171@gmail.com,True,EU,1,"crm,website,erp",3.0
+customer185@company.com,Léa,Williams,+81312345678,APAC,2022-04-01,0,crm,customer185@company.com,True,Asia Pacific,1,crm,1.0
+customer97@yahoo.com,François,Martínez,,,2021-12-01,1,crm,customer97@yahoo.com,True,N/A,1,crm,1.0
+customer502@yahoo.com,Jane,López,,US,2022-07-01,0,crm,customer502@yahoo.com,True,us,1,crm,1.0
+customer122@company.com,Kwame,Williams,+442079460958,EU,2020-03-01,0,crm,customer122@company.com,True,eu,1,"crm,website",2.0
+customer588@gmail.com,Sarah,Brown,5551234567,EU,2023-07-01,0,crm,customer588@gmail.com,True,europe,1,"crm,erp",2.0
+customer690@gmail.com,Abena,Smith,+442079460958,EU,2020-08-01,1,crm,customer690@gmail.com,True,EMEA,1,"crm,website",2.0
+customer495@gmail.com,Jane,Brown,5551234567,US,2020-05-01,1,crm,customer495@gmail.com,True,united states,1,"crm,website,erp",3.0
+customer613@yahoo.com,Müller,Díaz,5551234567,US,2020-12-01,0,crm,customer613@yahoo.com,True,US,1,"crm,website",2.0
+customer621@gmail.com,Alex,Garcia,+15551234567,US,2023-09-01,0,crm,customer621@gmail.com,True,us,1,"crm,erp",2.0
+customer367@yahoo.com,Abena,Boateng,5551234567,EU,2020-07-01,1,crm,customer367@yahoo.com,True,eu,1,"crm,website",2.0
+customer426@gmail.com,Jane,Mensah,+15551234567,US,2022-12-01,1,crm,customer426@gmail.com,True,USA,1,"crm,website",2.0
+customer55@yahoo.com,Akosua,Garcia,+442079460958,EU,2020-08-01,0,crm,customer55@yahoo.com,True,europe,1,crm,1.0
+customer67@yahoo.com,Ama,Brown,+81312345678,APAC,2023-03-01,1,crm,customer67@yahoo.com,True,AP,1,"crm,website,erp",3.0
+customer791@company.com,Müller,López,02079460958,US,2020-05-01,0,crm,customer791@company.com,True,USA,1,"crm,website",2.0
+customer366@gmail.com,Mike,Williams,+442079460958,APAC,2021-12-01,0,crm,customer366@gmail.com,True,N/A,1,"crm,website",2.0
+customer630@gmail.com,Chris,González,+81312345678,EU,2021-06-01,0,crm,customer630@gmail.com,True,Europe,1,"crm,website",2.0
+customer276@gmail.com,François,Kim,+15551234567,APAC,2022-09-01,0,crm,customer276@gmail.com,True,apac,1,"crm,website",2.0
+customer611@company.com,Kwame,Brown,+15551234567,EU,2022-02-01,1,crm,customer611@company.com,True,EMEA,1,"crm,website,erp",3.0
+customer197@company.com,Chris,Mensah,+442079460958,APAC,2020-07-01,0,crm,customer197@company.com,True,,1,"crm,website",2.0
+customer260@company.com,Chris,Smith,,EU,2023-07-01,0,crm,customer260@company.com,True,eu,1,crm,1.0
+customer292@yahoo.com,Kwame,Wang,+15551234567,US,2022-08-01,1,crm,customer292@yahoo.com,True,us,1,"crm,website,erp",3.0
+customer475@yahoo.com,Chris,Brown,+442079460958,EU,2021-04-01,0,crm,customer475@yahoo.com,True,Europe,1,"crm,website",2.0
+customer249@gmail.com,Yaw,Johnson,5551234567,EU,2022-07-01,1,crm,customer249@gmail.com,True,europe,1,"crm,website",2.0
+customer233@company.com,Chris,Mensah,+15551234567,EU,2022-07-01,1,crm,customer233@company.com,True,N/A,1,"crm,website",2.0
+customer104@company.com,Mike,Wang,02079460958,APAC,2021-06-01,1,crm,customer104@company.com,True,AP,1,"crm,website,erp",3.0
+customer235@yahoo.com,André,Martínez,5551234567,US,2020-06-01,0,crm,customer235@yahoo.com,True,US,1,"crm,website,erp",3.0
+customer509@company.com,Jane,Jones,,US,2021-08-01,1,crm,customer509@company.com,True,us,1,crm,1.0
+customer375@gmail.com,O'Brien,Johnson,02079460958,US,2021-04-01,0,crm,customer375@gmail.com,True,united states,1,"crm,website",2.0
+customer234@gmail.com,Kofi,Garcia,02079460958,US,2021-06-01,0,crm,customer234@gmail.com,True,USA,1,"crm,website",2.0
+customer347@company.com,André,Mensah,,APAC,2022-01-01,1,crm,customer347@company.com,True,Asia Pacific,1,crm,1.0
+customer373@yahoo.com,Evans,Mensah,,,2020-01-01,1,crm,customer373@yahoo.com,True,N/A,1,crm,1.0
+customer404@company.com,Chris,Mensah,5551234567,EU,2021-08-01,0,crm,customer404@company.com,True,europe,1,"crm,website",2.0
+customer275@company.com,François,Asante,+442079460958,,2021-08-01,0,crm,customer275@company.com,True,,1,crm,1.0
+customer194@company.com,O'Brien,Smith,+15551234567,EU,2021-09-01,1,crm,customer194@company.com,True,,1,"crm,website",2.0
+customer359@company.com,François,Wang,5551234567,US,2021-04-01,1,crm,customer359@company.com,True,us,1,"crm,website",2.0
+customer439@yahoo.com,Abena,Kim,5551234567,APAC,2022-07-01,0,crm,customer439@yahoo.com,True,AP,1,"crm,website",2.0
+customer54@gmail.com,Léa,Brown,+442079460958,US,2021-05-01,0,crm,customer54@gmail.com,True,,1,"crm,website",2.0
+customer465@gmail.com,Yaw,Williams,+15551234567,APAC,2021-05-01,1,crm,customer465@gmail.com,True,APAC,1,"crm,website,erp",3.0
+customer469@yahoo.com,Müller,Boateng,5551234567,APAC,2023-10-01,0,crm,customer469@yahoo.com,True,APAC,1,crm,1.0
+customer555@gmail.com,Léa,Díaz,+81312345678,US,2023-12-01,0,crm,customer555@gmail.com,True,united states,1,crm,1.0
+customer497@company.com,Sarah,Boateng,5551234567,APAC,2020-12-01,0,crm,customer497@company.com,True,apac,1,crm,1.0
+customer540@gmail.com,Abena,Johnson,5551234567,EU,2022-01-01,0,crm,customer540@gmail.com,True,N/A,1,"crm,website",2.0
+customer278@company.com,Abena,Mensah,+81312345678,APAC,2020-10-01,0,crm,customer278@company.com,True,APAC,1,"crm,website",2.0
+customer786@gmail.com,Jane,Smith,+81312345678,EU,2022-01-01,1,crm,customer786@gmail.com,True,europe,1,"crm,website",2.0
+customer700@yahoo.com,Abena,Wang,5551234567,US,2021-03-01,0,crm,customer700@yahoo.com,True,united states,1,"crm,website",2.0
+customer764@company.com,José,Martínez,5551234567,APAC,2022-03-01,0,crm,customer764@company.com,True,Asia Pacific,1,crm,1.0
+customer523@yahoo.com,André,Garcia,5551234567,US,2021-11-01,0,crm,customer523@yahoo.com,True,us,1,"crm,website",2.0
+customer710@company.com,Ama,Johnson,02079460958,APAC,2021-08-01,0,crm,customer710@company.com,True,Asia Pacific,1,crm,1.0
+customer735@gmail.com,Chris,Martínez,+442079460958,US,2023-10-01,0,crm,customer735@gmail.com,True,USA,1,"crm,website",2.0
+customer332@company.com,Akosua,Boateng,02079460958,US,2023-12-01,0,crm,customer332@company.com,True,North America,1,"crm,website",2.0
+customer466@yahoo.com,Müller,Díaz,+442079460958,US,2023-03-01,1,crm,customer466@yahoo.com,True,USA,1,"crm,erp",2.0
+customer432@gmail.com,Akosua,González,+442079460958,EU,2021-07-01,1,crm,customer432@gmail.com,True,Europe,1,"crm,website",2.0
+customer612@gmail.com,Abena,Mensah,02079460958,EU,2020-02-01,1,crm,customer612@gmail.com,True,Europe,1,"crm,website",2.0
+customer83@company.com,Sarah,Brown,5551234567,APAC,2023-06-01,1,crm,customer83@company.com,True,AP,1,"crm,website",2.0
+customer601@yahoo.com,André,Williams,+81312345678,US,2023-08-01,1,crm,customer601@yahoo.com,True,USA,1,"crm,website,erp",3.0
+customer138@gmail.com,Akosua,Johnson,+81312345678,US,2021-06-01,1,crm,customer138@gmail.com,True,USA,1,"crm,website",2.0
+customer394@yahoo.com,Evans,Jones,+15551234567,EU,2021-08-01,0,crm,customer394@yahoo.com,True,EMEA,1,"crm,website",2.0
+customer20@company.com,Kofi,Brown,+81312345678,US,2022-06-01,0,crm,customer20@company.com,True,USA,1,crm,1.0
+customer479@company.com,Kwame,Garcia,+442079460958,US,2023-09-01,0,crm,customer479@company.com,True,,1,"crm,website,erp",3.0
+customer660@gmail.com,John,Williams,+15551234567,APAC,2020-01-01,0,crm,customer660@gmail.com,True,Asia,1,"crm,website",2.0
+customer213@gmail.com,Kwame,Martínez,02079460958,APAC,2023-04-01,0,crm,customer213@gmail.com,True,apac,1,"crm,website",2.0
+customer157@yahoo.com,Abena,Smith,+442079460958,US,2021-03-01,0,crm,customer157@yahoo.com,True,united states,1,"crm,erp",2.0
+customer136@yahoo.com,John,Johnson,+81312345678,EU,2023-08-01,0,crm,customer136@yahoo.com,True,,1,"crm,website",2.0
+customer331@yahoo.com,Abena,Wang,02079460958,EU,2020-08-01,0,crm,customer331@yahoo.com,True,EMEA,1,"crm,website",2.0
+customer664@yahoo.com,Kofi,González,5551234567,US,2020-05-01,1,crm,customer664@yahoo.com,True,USA,1,"crm,website",2.0
+customer499@yahoo.com,Abena,Smith,02079460958,EU,2021-07-01,0,crm,customer499@yahoo.com,True,EMEA,1,"crm,website",2.0
+customer343@yahoo.com,O'Brien,Jones,02079460958,US,2020-02-01,0,crm,customer343@yahoo.com,True,,1,"crm,website",2.0
+customer661@yahoo.com,Kwame,Díaz,+442079460958,US,2022-01-01,0,crm,customer661@yahoo.com,True,us,1,crm,1.0
+customer376@yahoo.com,Evans,Smith,,APAC,2022-01-01,0,crm,customer376@yahoo.com,True,AP,1,"crm,website",2.0
+customer461@company.com,Alex,Kim,+81312345678,APAC,2022-01-01,0,crm,customer461@company.com,True,Asia,1,"crm,website",2.0
+customer447@gmail.com,André,Williams,5551234567,US,2021-10-01,0,crm,customer447@gmail.com,True,united states,1,"crm,website",2.0
+customer215@company.com,Alex,Boateng,02079460958,US,2022-07-01,1,crm,customer215@company.com,True,USA,1,"crm,website",2.0
+customer169@yahoo.com,Mike,Wang,02079460958,EU,2022-11-01,0,crm,customer169@yahoo.com,True,europe,1,"crm,website",2.0
+customer140@company.com,Mike,Asante,+15551234567,EU,2023-08-01,1,crm,customer140@company.com,True,EU,1,"crm,website",2.0
+customer70@yahoo.com,Sarah,López,+15551234567,EU,2023-09-01,0,crm,customer70@yahoo.com,True,EMEA,1,"crm,erp",2.0
+customer42@gmail.com,Akosua,Garcia,+442079460958,EU,2021-05-01,0,crm,customer42@gmail.com,True,eu,1,crm,1.0
+customer768@gmail.com,O'Brien,Garcia,5551234567,EU,2020-08-01,0,crm,customer768@gmail.com,True,,1,"crm,website,erp",3.0
+customer310@yahoo.com,Léa,Williams,+15551234567,EU,2021-02-01,0,crm,customer310@yahoo.com,True,Europe,1,"crm,website",2.0
+customer496@yahoo.com,O'Brien,Johnson,5551234567,APAC,2022-11-01,1,crm,customer496@yahoo.com,True,apac,1,"crm,website,erp",3.0
+customer565@yahoo.com,José,López,5551234567,US,2022-04-01,0,crm,customer565@yahoo.com,True,US,1,"crm,website",2.0
+customer715@yahoo.com,Sarah,Asante,+81312345678,APAC,2021-10-01,0,crm,customer715@yahoo.com,True,APAC,1,"crm,website",2.0
+customer307@yahoo.com,Sarah,Martínez,,US,2021-01-01,0,crm,customer307@yahoo.com,True,US,1,crm,1.0
+customer355@yahoo.com,John,Johnson,5551234567,EU,2023-09-01,1,crm,customer355@yahoo.com,True,Europe,1,"crm,website,erp",3.0
+customer339@gmail.com,Evans,Smith,+442079460958,EU,2020-11-01,0,crm,customer339@gmail.com,True,EMEA,1,crm,1.0
+customer697@yahoo.com,François,Williams,+442079460958,US,2022-09-01,1,crm,customer697@yahoo.com,True,North America,1,"crm,website",2.0
+customer336@gmail.com,Mike,Johnson,5551234567,US,2023-07-01,1,crm,customer336@gmail.com,True,united states,1,"crm,website",2.0
+customer530@company.com,Evans,Smith,+81312345678,EU,2021-05-01,1,crm,customer530@company.com,True,EU,1,"crm,erp",2.0
+customer443@company.com,André,Mensah,5551234567,EU,2022-09-01,0,crm,customer443@company.com,True,,1,"crm,website",2.0
+customer607@yahoo.com,O'Brien,Kim,+81312345678,US,2022-06-01,1,crm,customer607@yahoo.com,True,united states,1,"crm,website",2.0
+customer162@gmail.com,Müller,Jones,02079460958,EU,2023-06-01,1,crm,customer162@gmail.com,True,Europe,1,"crm,website",2.0
+customer695@company.com,Léa,Brown,5551234567,APAC,2021-11-01,1,crm,customer695@company.com,True,Asia,1,"crm,website,erp",3.0
+customer557@company.com,Léa,Wang,+15551234567,APAC,2022-11-01,1,crm,customer557@company.com,True,apac,1,"crm,website,erp",3.0
+customer511@yahoo.com,François,López,02079460958,EU,2022-11-01,1,crm,customer511@yahoo.com,True,eu,1,"crm,website",2.0
+customer671@company.com,O'Brien,Boateng,+81312345678,EU,2021-11-01,1,crm,customer671@company.com,True,EMEA,1,"crm,website",2.0
+customer356@company.com,Alex,López,+15551234567,US,2020-08-01,1,crm,customer356@company.com,True,united states,1,"crm,website",2.0
+customer498@gmail.com,André,Williams,5551234567,US,2021-08-01,0,crm,customer498@gmail.com,True,US,1,"crm,website",2.0
+customer682@yahoo.com,Jane,Garcia,,APAC,2020-10-01,0,crm,customer682@yahoo.com,True,Asia,1,"crm,website",2.0
+customer48@gmail.com,Jane,Díaz,5551234567,APAC,2023-08-01,0,crm,customer48@gmail.com,True,N/A,1,"crm,website",2.0
+customer328@yahoo.com,Evans,Jones,+15551234567,EU,2022-04-01,1,crm,customer328@yahoo.com,True,eu,1,"crm,website",2.0
+customer534@gmail.com,Kofi,Brown,+15551234567,EU,2022-08-01,1,crm,customer534@gmail.com,True,EMEA,1,"crm,website,erp",3.0
+customer545@company.com,Evans,Asante,5551234567,EU,2021-07-01,0,crm,customer545@company.com,True,EU,1,"crm,website",2.0
+customer635@company.com,O'Brien,Brown,+81312345678,US,2021-09-01,1,crm,customer635@company.com,True,US,1,crm,1.0
+customer43@yahoo.com,John,Garcia,5551234567,US,2021-01-01,1,crm,customer43@yahoo.com,True,,1,"crm,website",2.0
+customer414@gmail.com,Jane,Jones,02079460958,US,2023-02-01,0,crm,customer414@gmail.com,True,us,1,crm,1.0
+customer274@yahoo.com,Sarah,López,02079460958,EU,2022-06-01,0,crm,customer274@yahoo.com,True,EU,1,"crm,erp",2.0
+customer641@company.com,Ama,López,+15551234567,US,2020-08-01,0,crm,customer641@company.com,True,us,1,"crm,erp",2.0
+customer789@gmail.com,Chris,López,5551234567,US,2021-06-01,0,crm,customer789@gmail.com,True,US,1,"crm,website",2.0
+customer754@yahoo.com,Akosua,Martínez,+15551234567,APAC,2021-10-01,0,crm,customer754@yahoo.com,True,AP,1,"crm,website",2.0
+customer86@company.com,François,Smith,+442079460958,EU,2021-06-01,0,crm,customer86@company.com,True,europe,1,"crm,website",2.0
+customer349@yahoo.com,Maria,Smith,+442079460958,APAC,2022-04-01,0,crm,customer349@yahoo.com,True,Asia Pacific,1,"crm,website",2.0
+customer559@yahoo.com,Sarah,Brown,+15551234567,US,2021-10-01,1,crm,customer559@yahoo.com,True,US,1,"crm,website,erp",3.0
+customer2@company.com,Evans,Brown,+442079460958,APAC,2020-04-01,1,crm,customer2@company.com,True,,1,"crm,website,erp",3.0
+customer202@yahoo.com,Chris,Garcia,+81312345678,,2022-06-01,1,crm,customer202@yahoo.com,True,,1,crm,1.0
+customer280@yahoo.com,O'Brien,Wang,5551234567,US,2022-03-01,0,crm,customer280@yahoo.com,True,,1,"crm,website",2.0
+customer508@yahoo.com,Yaw,González,5551234567,US,2020-09-01,1,crm,customer508@yahoo.com,True,united states,1,"crm,website,erp",3.0
+customer188@company.com,Mike,Smith,+15551234567,APAC,2021-05-01,0,crm,customer188@company.com,True,Asia,1,"crm,website",2.0
+customer688@yahoo.com,O'Brien,González,,EU,2020-10-01,0,crm,customer688@yahoo.com,True,eu,1,"crm,website",2.0
+customer229@yahoo.com,Kofi,Wang,+15551234567,APAC,2021-08-01,0,crm,customer229@yahoo.com,True,Asia Pacific,1,"crm,website",2.0
+customer628@yahoo.com,Alex,Garcia,+15551234567,EU,2020-08-01,1,crm,customer628@yahoo.com,True,eu,1,"crm,website,erp",3.0
+customer604@yahoo.com,José,Smith,5551234567,EU,2020-06-01,1,crm,customer604@yahoo.com,True,eu,1,"crm,website",2.0
+customer504@gmail.com,Abena,Smith,+81312345678,US,2022-08-01,1,crm,customer504@gmail.com,True,US,1,"crm,website",2.0
+customer219@gmail.com,Yaw,Martínez,,US,2020-05-01,1,crm,customer219@gmail.com,True,us,1,crm,1.0
+customer425@company.com,John,Jones,02079460958,US,2021-03-01,0,crm,customer425@company.com,True,North America,1,crm,1.0
+customer564@gmail.com,Müller,Wang,+81312345678,EU,2021-07-01,0,crm,customer564@gmail.com,True,EMEA,1,"crm,website",2.0
+customer446@company.com,Evans,Martínez,+15551234567,APAC,2020-02-01,1,crm,customer446@company.com,True,apac,1,"crm,erp",2.0
+customer115@yahoo.com,José,Williams,5551234567,US,2022-07-01,0,crm,customer115@yahoo.com,True,North America,1,"crm,website",2.0
+customer119@company.com,Mike,Díaz,02079460958,US,2020-08-01,0,crm,customer119@company.com,True,us,1,crm,1.0
+customer605@company.com,Maria,Martínez,5551234567,EU,2022-06-01,1,crm,customer605@company.com,True,europe,1,"crm,website,erp",3.0
+customer528@gmail.com,Abena,Williams,+15551234567,APAC,2021-05-01,1,crm,customer528@gmail.com,True,apac,1,"crm,website",2.0
+customer550@yahoo.com,Léa,López,5551234567,APAC,2023-06-01,1,crm,customer550@yahoo.com,True,Asia,1,"crm,website",2.0
+customer195@gmail.com,John,Boateng,5551234567,APAC,2020-04-01,0,crm,customer195@gmail.com,True,Asia,1,"crm,website",2.0
+customer610@yahoo.com,Jane,Wang,+15551234567,APAC,2022-12-01,0,crm,customer610@yahoo.com,True,apac,1,"crm,website",2.0
+customer699@gmail.com,Akosua,Boateng,+15551234567,APAC,2022-12-01,1,crm,customer699@gmail.com,True,APAC,1,"crm,website,erp",3.0
+customer108@gmail.com,Maria,Brown,+81312345678,APAC,2022-07-01,0,crm,customer108@gmail.com,True,Asia Pacific,1,"crm,website",2.0
+customer26@company.com,Mike,Brown,+442079460958,US,2020-02-01,1,crm,customer26@company.com,True,US,1,"crm,website",2.0
+customer765@gmail.com,Müller,Johnson,,APAC,2021-12-01,0,crm,customer765@gmail.com,True,AP,1,crm,1.0
+customer712@yahoo.com,Ama,Martínez,02079460958,EU,2021-05-01,1,crm,customer712@yahoo.com,True,EU,1,"crm,website,erp",3.0
+customer166@yahoo.com,Yaw,Brown,02079460958,EU,2023-12-01,0,crm,customer166@yahoo.com,True,eu,1,crm,1.0
+customer216@gmail.com,Maria,Jones,+81312345678,US,2021-05-01,0,crm,customer216@gmail.com,True,united states,1,crm,1.0
+customer16@yahoo.com,O'Brien,Williams,5551234567,US,2020-03-01,1,crm,customer16@yahoo.com,True,USA,1,"crm,website",2.0
+customer118@yahoo.com,Mike,Boateng,02079460958,EU,2021-03-01,0,crm,customer118@yahoo.com,True,Europe,1,"crm,website",2.0
+customer137@company.com,Yaw,González,+81312345678,EU,2023-10-01,1,crm,customer137@company.com,True,eu,1,"crm,website",2.0
+customer167@company.com,John,González,+15551234567,APAC,2022-08-01,1,crm,customer167@company.com,True,Asia,1,"crm,website",2.0
+customer473@company.com,Ama,Brown,+81312345678,APAC,2022-03-01,0,crm,customer473@company.com,True,APAC,1,"crm,website",2.0
+customer580@yahoo.com,Léa,Johnson,+15551234567,US,2020-09-01,0,crm,customer580@yahoo.com,True,North America,1,"crm,website",2.0
+customer116@company.com,John,Asante,5551234567,US,2021-09-01,0,crm,customer116@company.com,True,united states,1,"crm,website",2.0
+customer457@yahoo.com,Yaw,Smith,5551234567,US,2022-01-01,0,crm,customer457@yahoo.com,True,North America,1,crm,1.0
+customer210@gmail.com,O'Brien,Díaz,02079460958,US,2023-10-01,0,crm,customer210@gmail.com,True,N/A,1,crm,1.0
+customer644@company.com,Müller,Kim,+81312345678,EU,2020-05-01,1,crm,customer644@company.com,True,EU,1,"crm,website",2.0
+customer268@yahoo.com,Chris,Wang,+81312345678,EU,2020-11-01,0,crm,customer268@yahoo.com,True,europe,1,"crm,erp",2.0
+customer368@company.com,Müller,Williams,,EU,2021-06-01,0,crm,customer368@company.com,True,Europe,1,"crm,website,erp",3.0
+customer424@yahoo.com,Evans,Mensah,+442079460958,APAC,2021-01-01,0,crm,customer424@yahoo.com,True,AP,1,crm,1.0
+customer562@yahoo.com,Léa,Jones,+442079460958,APAC,2023-02-01,1,crm,customer562@yahoo.com,True,Asia,1,"crm,website",2.0
+customer393@gmail.com,Sarah,Brown,+81312345678,EU,2023-02-01,1,crm,customer393@gmail.com,True,EMEA,1,"crm,website",2.0
+customer459@gmail.com,Chris,González,,US,2022-09-01,0,crm,customer459@gmail.com,True,us,1,crm,1.0
+customer23@company.com,André,Wang,5551234567,APAC,2022-07-01,0,crm,customer23@company.com,True,apac,1,crm,1.0
+customer231@gmail.com,Müller,Mensah,5551234567,US,2023-01-01,0,crm,customer231@gmail.com,True,North America,1,crm,1.0
+customer392@company.com,Müller,Wang,5551234567,US,2020-05-01,0,crm,customer392@company.com,True,us,1,"crm,website",2.0
+customer75@gmail.com,Sarah,Johnson,+15551234567,EU,2023-06-01,1,crm,customer75@gmail.com,True,europe,1,"crm,erp",2.0
+customer422@company.com,Kwame,González,,EU,2023-12-01,0,crm,customer422@company.com,True,europe,1,crm,1.0
+customer90@gmail.com,Jane,Johnson,+81312345678,EU,2023-09-01,0,crm,customer90@gmail.com,True,Europe,1,"crm,website",2.0
+customer772@yahoo.com,Chris,Boateng,,US,2023-09-01,0,crm,customer772@yahoo.com,True,USA,1,crm,1.0
+customer270@gmail.com,Maria,Boateng,+81312345678,US,2022-10-01,0,crm,customer270@gmail.com,True,North America,1,"crm,website",2.0
+customer482@company.com,Abena,Brown,5551234567,US,2022-02-01,1,crm,customer482@company.com,True,North America,1,"crm,website",2.0
+customer177@gmail.com,O'Brien,Boateng,02079460958,APAC,2022-03-01,1,crm,customer177@gmail.com,True,Asia,1,"crm,website,erp",3.0
+customer160@yahoo.com,Evans,Garcia,+442079460958,US,2020-07-01,0,crm,customer160@yahoo.com,True,us,1,"crm,website",2.0
+customer35@company.com,Akosua,González,,US,2020-05-01,0,crm,customer35@company.com,True,united states,1,crm,1.0
+customer449@company.com,André,Wang,5551234567,US,2021-05-01,1,crm,customer449@company.com,True,North America,1,"crm,website",2.0
+customer614@company.com,Akosua,Kim,+15551234567,EU,2021-05-01,1,crm,customer614@company.com,True,europe,1,"crm,website",2.0
+customer242@company.com,Abena,Asante,,EU,2021-01-01,0,crm,customer242@company.com,True,EMEA,1,crm,1.0
+customer237@gmail.com,Mike,Smith,+15551234567,EU,2021-03-01,0,crm,customer237@gmail.com,True,Europe,1,crm,1.0
+customer125@company.com,Sarah,Díaz,5551234567,EU,2021-01-01,1,crm,customer125@company.com,True,EMEA,1,"crm,website",2.0
+customer113@company.com,José,Garcia,+81312345678,US,2022-06-01,0,crm,customer113@company.com,True,North America,1,"crm,website",2.0
+customer254@company.com,Mike,Martínez,+442079460958,US,2020-09-01,0,crm,customer254@company.com,True,US,1,"crm,website",2.0
+customer203@company.com,Chris,Mensah,5551234567,APAC,2021-09-01,0,crm,customer203@company.com,True,APAC,1,"crm,website",2.0
+customer73@yahoo.com,Kofi,González,+81312345678,EU,2020-05-19,0,website,customer73@yahoo.com,True,eu,2,"website,erp",2.0
+customer420@gmail.com,Ama,López,+15551234567,EU,2020-05-18,1,website,customer420@gmail.com,True,,2,website,1.0
+customer519@gmail.com,Kofi,Jones,+15551234567,APAC,2020-05-15,1,website,customer519@gmail.com,True,APAC,2,"website,erp",2.0
+customer155@company.com,Akosua,Asante,+81312345678,EU,2020-05-19,0,website,customer155@company.com,True,,2,website,1.0
+customer727@yahoo.com,José,Johnson,+15551234567,EU,2020-05-20,0,website,customer727@yahoo.com,True,EMEA,2,website,1.0
+customer85@yahoo.com,Sarah,Garcia,,EU,2020-05-18,0,website,customer85@yahoo.com,True,EU,2,website,1.0
+customer599@company.com,John,Williams,+442079460958,US,2020-05-17,0,website,customer599@company.com,True,united states,2,website,1.0
+customer595@yahoo.com,O'Brien,Johnson,5551234567,EU,2020-05-17,0,website,customer595@yahoo.com,True,eu,2,website,1.0
+customer592@yahoo.com,François,Boateng,02079460958,EU,2020-05-17,0,website,customer592@yahoo.com,True,EU,2,website,1.0
+customer38@company.com,Léa,Asante,02079460958,APAC,2020-05-17,0,website,customer38@company.com,True,Asia,2,website,1.0
+customer494@company.com,Maria,Wang,5551234567,EU,2020-05-16,1,website,customer494@company.com,True,EU,2,"website,erp",2.0
+customer351@gmail.com,Yaw,González,5551234567,APAC,2020-05-16,0,website,customer351@gmail.com,True,apac,2,"website,erp",2.0
+customer477@gmail.com,Akosua,López,+442079460958,,2020-05-16,1,website,customer477@gmail.com,True,,2,website,1.0
+customer7@yahoo.com,Kwame,Díaz,02079460958,US,2020-05-16,0,website,customer7@yahoo.com,True,us,2,website,1.0
+customer361@yahoo.com,Abena,Martínez,+81312345678,EU,2020-05-16,1,website,customer361@yahoo.com,True,eu,2,website,1.0
+customer753@gmail.com,Jane,Brown,02079460958,EU,2020-05-18,0,website,customer753@gmail.com,True,Europe,2,website,1.0
+customer763@yahoo.com,Léa,Brown,02079460958,EU,2020-05-20,0,website,customer763@yahoo.com,True,,2,website,1.0
+customer264@gmail.com,Kwame,Williams,+81312345678,US,2020-05-22,0,website,customer264@gmail.com,True,us,2,website,1.0
+customer674@company.com,Ama,Brown,+442079460958,EU,2020-05-25,0,website,customer674@company.com,True,Europe,2,"website,erp",2.0
+customer752@company.com,Mike,Boateng,+81312345678,EU,2020-05-24,1,website,customer752@company.com,True,,2,website,1.0
+customer326@company.com,Jane,Asante,5551234567,US,2020-05-24,1,website,customer326@company.com,True,us,2,website,1.0
+customer666@gmail.com,José,Martínez,+81312345678,EU,2020-05-23,0,website,customer666@gmail.com,True,europe,2,website,1.0
+customer9@gmail.com,Evans,Smith,,US,2020-05-22,0,website,customer9@gmail.com,True,us,2,website,1.0
+customer172@yahoo.com,Kofi,Boateng,02079460958,US,2020-05-22,1,website,customer172@yahoo.com,True,,2,website,1.0
+customer652@yahoo.com,Ama,Asante,+81312345678,EU,2020-05-22,0,website,customer652@yahoo.com,True,EMEA,2,"website,erp",2.0
+customer450@gmail.com,Chris,Mensah,+442079460958,EU,2020-05-22,1,website,customer450@gmail.com,True,eu,2,website,1.0
+customer154@yahoo.com,Sarah,Wang,02079460958,US,2020-05-21,0,website,customer154@yahoo.com,True,USA,2,website,1.0
+customer602@company.com,John,Díaz,5551234567,EU,2020-05-21,0,website,customer602@company.com,True,EU,2,website,1.0
+customer455@company.com,O'Brien,Martínez,+15551234567,US,2020-05-21,0,website,customer455@company.com,True,,2,website,1.0
+customer321@gmail.com,François,Jones,+442079460958,EU,2020-05-20,1,website,customer321@gmail.com,True,EU,2,website,1.0
+customer121@yahoo.com,Chris,Williams,02079460958,US,2020-05-05,0,website,customer121@yahoo.com,True,US,2,website,1.0
+customer244@yahoo.com,Alex,Johnson,+15551234567,APAC,2020-05-15,1,website,customer244@yahoo.com,True,Asia Pacific,2,"website,erp",2.0
+customer720@gmail.com,Abena,Kim,+442079460958,EU,2020-05-09,0,website,customer720@gmail.com,True,europe,2,website,1.0
+customer619@yahoo.com,Kofi,González,+15551234567,US,2020-05-09,0,website,customer619@yahoo.com,True,North America,2,website,1.0
+customer427@yahoo.com,Alex,Martínez,,US,2020-05-08,0,website,customer427@yahoo.com,True,united states,2,website,1.0
+customer733@yahoo.com,O'Brien,Johnson,02079460958,EU,2020-05-07,0,website,customer733@yahoo.com,True,EMEA,2,website,1.0
+customer222@gmail.com,Müller,Smith,+442079460958,US,2020-05-07,0,website,customer222@gmail.com,True,US,2,website,1.0
+customer301@yahoo.com,François,Boateng,+442079460958,US,2020-05-07,0,website,customer301@yahoo.com,True,USA,2,website,1.0
+customer713@company.com,Léa,Asante,+81312345678,EU,2020-05-07,0,website,customer713@company.com,True,EMEA,2,website,1.0
+customer589@yahoo.com,André,Mensah,,EU,2020-05-07,0,website,customer589@yahoo.com,True,EU,2,website,1.0
+customer597@gmail.com,Yaw,González,02079460958,EU,2020-05-06,1,website,customer597@gmail.com,True,Europe,2,website,1.0
+customer573@gmail.com,Akosua,López,+442079460958,US,2020-05-06,0,website,customer573@gmail.com,True,united states,2,"website,erp",2.0
+customer293@company.com,Kwame,Díaz,5551234567,APAC,2020-05-06,1,website,customer293@company.com,True,AP,2,"website,erp",2.0
+customer452@company.com,Evans,Garcia,5551234567,APAC,2020-05-05,0,website,customer452@company.com,True,apac,2,"website,erp",2.0
+customer624@gmail.com,Evans,Garcia,+81312345678,APAC,2020-05-25,0,website,customer624@gmail.com,True,APAC,2,"website,erp",2.0
+customer522@gmail.com,José,Johnson,+442079460958,APAC,2020-05-10,0,website,customer522@gmail.com,True,Asia Pacific,2,website,1.0
+customer667@yahoo.com,André,Williams,+15551234567,EU,2020-05-10,0,website,customer667@yahoo.com,True,europe,2,website,1.0
+customer272@company.com,Mike,Boateng,+442079460958,EU,2020-05-14,1,website,customer272@company.com,True,eu,2,website,1.0
+customer353@company.com,Jane,Asante,5551234567,EU,2020-05-14,1,website,customer353@company.com,True,EU,2,website,1.0
+customer570@gmail.com,O'Brien,Kim,+81312345678,EU,2020-05-14,0,website,customer570@gmail.com,True,EU,2,website,1.0
+customer796@yahoo.com,Müller,Wang,+15551234567,US,2020-05-14,1,website,customer796@yahoo.com,True,US,2,website,1.0
+customer153@gmail.com,José,Martínez,+442079460958,US,2020-05-13,1,website,customer153@gmail.com,True,US,2,"website,erp",2.0
+customer273@gmail.com,Akosua,Brown,5551234567,APAC,2020-05-13,0,website,customer273@gmail.com,True,,2,website,1.0
+customer89@company.com,Chris,Mensah,+81312345678,APAC,2020-05-12,0,website,customer89@company.com,True,Asia,2,website,1.0
+customer251@company.com,Jane,López,+81312345678,US,2020-05-11,0,website,customer251@company.com,True,North America,2,website,1.0
+customer579@gmail.com,John,Díaz,+442079460958,EU,2020-05-11,0,website,customer579@gmail.com,True,europe,2,website,1.0
+customer271@yahoo.com,O'Brien,Martínez,+15551234567,US,2020-05-11,1,website,customer271@yahoo.com,True,united states,2,"website,erp",2.0
+customer680@company.com,Müller,Garcia,5551234567,US,2020-05-10,0,website,customer680@company.com,True,us,2,"website,erp",2.0
+customer581@company.com,François,Jones,5551234567,US,2020-05-10,1,website,customer581@company.com,True,,2,"website,erp",2.0
+customer358@yahoo.com,Abena,Martínez,+81312345678,US,2020-05-26,0,website,customer358@yahoo.com,True,North America,2,"website,erp",2.0
+customer325@yahoo.com,John,Díaz,02079460958,,2020-06-10,0,website,customer325@yahoo.com,True,,2,website,1.0
+customer253@yahoo.com,Maria,Smith,+442079460958,US,2020-06-09,0,website,customer253@yahoo.com,True,united states,2,website,1.0
+customer627@gmail.com,Kwame,Mensah,+15551234567,APAC,2020-06-08,1,website,customer627@gmail.com,True,Asia Pacific,2,"website,erp",2.0
+customer247@yahoo.com,Abena,Kim,5551234567,US,2020-06-08,0,website,customer247@yahoo.com,True,US,2,website,1.0
+customer289@yahoo.com,Chris,Díaz,+442079460958,EU,2020-06-07,0,website,customer289@yahoo.com,True,europe,2,website,1.0
+customer3@gmail.com,Alex,Martínez,,US,2020-06-07,0,website,customer3@gmail.com,True,US,2,website,1.0
+customer535@yahoo.com,Sarah,Garcia,+81312345678,US,2020-06-07,0,website,customer535@yahoo.com,True,us,2,website,1.0
+customer39@gmail.com,O'Brien,Johnson,02079460958,,2020-06-06,1,website,customer39@gmail.com,True,,2,website,1.0
+customer706@yahoo.com,André,Mensah,,US,2020-06-06,0,website,customer706@yahoo.com,True,united states,2,website,1.0
+customer649@yahoo.com,Mike,González,5551234567,EU,2020-06-10,0,website,customer649@yahoo.com,True,Europe,2,website,1.0
+customer390@gmail.com,Alex,Kim,+81312345678,EU,2020-06-10,1,website,customer390@gmail.com,True,europe,2,website,1.0
+customer46@yahoo.com,Kwame,Díaz,02079460958,EU,2020-06-15,1,website,customer46@yahoo.com,True,europe,2,"website,erp",2.0
+customer378@gmail.com,Abena,Martínez,+442079460958,EU,2020-06-15,0,website,customer378@gmail.com,True,Europe,2,website,1.0
+customer381@gmail.com,Kofi,Jones,02079460958,APAC,2020-06-14,1,website,customer381@gmail.com,True,Asia Pacific,2,"website,erp",2.0
+customer184@yahoo.com,Ama,Brown,+15551234567,US,2020-06-14,0,website,customer184@yahoo.com,True,us,2,website,1.0
+customer205@yahoo.com,Chris,Williams,+442079460958,US,2020-06-14,0,website,customer205@yahoo.com,True,united states,2,website,1.0
+customer168@gmail.com,François,González,+442079460958,US,2020-06-13,1,website,customer168@gmail.com,True,us,2,"website,erp",2.0
+customer750@gmail.com,Léa,López,02079460958,APAC,2020-06-12,1,website,customer750@gmail.com,True,apac,2,"website,erp",2.0
+customer510@gmail.com,José,Martínez,+442079460958,EU,2020-06-12,0,website,customer510@gmail.com,True,EU,2,"website,erp",2.0
+customer37@yahoo.com,Maria,Garcia,5551234567,EU,2020-06-12,1,website,customer37@yahoo.com,True,eu,2,website,1.0
+customer341@company.com,Yaw,Jones,+442079460958,APAC,2020-06-12,0,website,customer341@company.com,True,apac,2,website,1.0
+customer383@company.com,Kwame,Williams,+442079460958,APAC,2020-06-11,0,website,customer383@company.com,True,Asia Pacific,2,"website,erp",2.0
+customer514@yahoo.com,Abena,Johnson,5551234567,EU,2020-06-11,0,website,customer514@yahoo.com,True,EMEA,2,website,1.0
+customer211@yahoo.com,Evans,Smith,,US,2020-06-11,0,website,customer211@yahoo.com,True,united states,2,website,1.0
+customer316@yahoo.com,Kofi,Boateng,02079460958,EU,2020-06-11,1,website,customer316@yahoo.com,True,europe,2,"website,erp",2.0
+customer708@gmail.com,Müller,Garcia,,APAC,2020-05-30,1,website,customer708@gmail.com,True,AP,2,"website,erp",2.0
+customer732@gmail.com,Léa,Brown,+81312345678,APAC,2020-05-30,0,website,customer732@gmail.com,True,Asia Pacific,2,website,1.0
+customer748@yahoo.com,André,Williams,+442079460958,EU,2020-05-30,0,website,customer748@yahoo.com,True,europe,2,"website,erp",2.0
+customer277@yahoo.com,Maria,Smith,02079460958,EU,2020-05-30,1,website,customer277@yahoo.com,True,,2,"website,erp",2.0
+customer400@yahoo.com,Yaw,Boateng,+81312345678,US,2020-05-29,0,website,customer400@yahoo.com,True,USA,2,website,1.0
+customer192@gmail.com,Akosua,Asante,+442079460958,US,2020-05-29,0,website,customer192@gmail.com,True,US,2,website,1.0
+customer40@yahoo.com,Abena,Kim,+81312345678,APAC,2020-05-29,1,website,customer40@yahoo.com,True,,2,"website,erp",2.0
+customer714@gmail.com,Evans,Wang,5551234567,APAC,2020-05-29,1,website,customer714@gmail.com,True,apac,2,website,1.0
+customer314@company.com,Kofi,González,02079460958,US,2020-05-29,0,website,customer314@company.com,True,North America,2,website,1.0
+customer265@yahoo.com,Ama,López,5551234567,EU,2020-05-28,0,website,customer265@yahoo.com,True,EMEA,2,website,1.0
+customer81@gmail.com,Müller,Smith,+442079460958,APAC,2020-05-27,1,website,customer81@gmail.com,True,APAC,2,"website,erp",2.0
+customer692@company.com,Léa,Asante,+15551234567,APAC,2020-05-27,0,website,customer692@company.com,True,AP,2,website,1.0
+customer684@gmail.com,José,Kim,+442079460958,EU,2020-05-26,0,website,customer684@gmail.com,True,EU,2,website,1.0
+customer650@company.com,John,Díaz,02079460958,US,2020-05-31,1,website,customer650@company.com,True,united states,2,"website,erp",2.0
+customer98@company.com,Mike,González,+15551234567,APAC,2020-05-31,1,website,customer98@company.com,True,apac,2,"website,erp",2.0
+customer493@yahoo.com,Kwame,Díaz,+81312345678,APAC,2020-06-05,1,website,customer493@yahoo.com,True,Asia,2,website,1.0
+customer146@company.com,Ama,Brown,+442079460958,EU,2020-06-04,0,website,customer146@company.com,True,europe,2,"website,erp",2.0
+customer552@gmail.com,Alex,Johnson,5551234567,EU,2020-06-04,1,website,customer552@gmail.com,True,europe,2,website,1.0
+customer474@gmail.com,Yaw,González,5551234567,APAC,2020-06-05,0,website,customer474@gmail.com,True,Asia Pacific,2,website,1.0
+customer790@yahoo.com,François,González,,APAC,2020-06-03,0,website,customer790@yahoo.com,True,apac,2,website,1.0
+customer551@company.com,Yaw,Jones,5551234567,US,2020-06-02,0,website,customer551@company.com,True,united states,2,website,1.0
+customer302@company.com,Abena,Johnson,+442079460958,EU,2020-06-01,0,website,customer302@company.com,True,Europe,2,website,1.0
+customer402@gmail.com,Chris,Mensah,+81312345678,EU,2020-06-01,0,website,customer402@gmail.com,True,Europe,2,website,1.0
+customer737@company.com,Jane,Asante,+81312345678,EU,2020-05-04,1,website,customer737@company.com,True,eu,2,website,1.0
+customer603@gmail.com,Kofi,Boateng,5551234567,EU,2020-02-12,1,website,customer603@gmail.com,True,EU,2,"website,erp",2.0
+customer384@gmail.com,Ama,Asante,02079460958,EU,2020-02-12,0,website,customer384@gmail.com,True,EU,2,website,1.0
+customer532@yahoo.com,Jane,López,+442079460958,US,2020-02-11,1,website,customer532@yahoo.com,True,North America,2,website,1.0
+customer382@yahoo.com,John,Díaz,,US,2020-02-11,0,website,customer382@yahoo.com,True,united states,2,website,1.0
+customer340@yahoo.com,O'Brien,Martínez,+81312345678,US,2020-02-11,0,website,customer340@yahoo.com,True,US,2,website,1.0
+customer761@company.com,François,Jones,5551234567,EU,2020-02-10,1,website,customer761@company.com,True,Europe,2,website,1.0
+customer415@yahoo.com,José,Johnson,,EU,2020-02-10,0,website,customer415@yahoo.com,True,EMEA,2,website,1.0
+customer364@yahoo.com,Abena,Kim,+442079460958,EU,2020-02-09,0,website,customer364@yahoo.com,True,EU,2,"website,erp",2.0
+customer673@yahoo.com,Evans,Wang,+81312345678,APAC,2020-02-09,0,website,customer673@yahoo.com,True,,2,website,1.0
+customer636@gmail.com,Abena,Johnson,+15551234567,APAC,2020-02-12,0,website,customer636@gmail.com,True,Asia,2,"website,erp",2.0
+customer516@gmail.com,Kofi,Jones,,APAC,2020-02-15,0,website,customer516@gmail.com,True,Asia Pacific,2,website,1.0
+customer164@company.com,Alex,Johnson,5551234567,EU,2020-02-15,1,website,customer164@company.com,True,EU,2,"website,erp",2.0
+customer663@gmail.com,Jane,Asante,+442079460958,APAC,2020-02-14,0,website,customer663@gmail.com,True,APAC,2,"website,erp",2.0
+customer103@yahoo.com,Müller,Wang,02079460958,EU,2020-02-14,1,website,customer103@yahoo.com,True,eu,2,"website,erp",2.0
+customer304@yahoo.com,Kofi,González,02079460958,US,2020-02-09,0,website,customer304@yahoo.com,True,North America,2,website,1.0
+customer488@company.com,Ama,López,5551234567,US,2020-02-08,0,website,customer488@company.com,True,us,2,website,1.0
+customer261@gmail.com,François,González,02079460958,EU,2020-02-04,0,website,customer261@gmail.com,True,Europe,2,website,1.0
+customer429@gmail.com,Yaw,Jones,5551234567,EU,2020-02-03,0,website,customer429@gmail.com,True,Europe,2,website,1.0
+customer665@company.com,Kwame,Williams,+15551234567,US,2020-02-02,0,website,customer665@company.com,True,North America,2,website,1.0
+customer578@company.com,Ama,Asante,+81312345678,EU,2020-02-02,1,website,customer578@company.com,True,,2,"website,erp",2.0
+customer442@yahoo.com,Chris,Mensah,+442079460958,EU,2020-02-02,0,website,customer442@yahoo.com,True,europe,2,"website,erp",2.0
+customer433@yahoo.com,Mike,González,5551234567,APAC,2020-02-01,1,website,customer433@yahoo.com,True,APAC,2,website,1.0
+customer548@company.com,Alex,Johnson,5551234567,APAC,2020-02-05,0,website,customer548@company.com,True,Asia Pacific,2,"website,erp",2.0
+customer637@yahoo.com,Müller,Smith,5551234567,US,2020-02-07,0,website,customer637@yahoo.com,True,USA,2,website,1.0
+customer430@yahoo.com,François,Boateng,5551234567,US,2020-02-07,0,website,customer430@yahoo.com,True,North America,2,website,1.0
+customer58@yahoo.com,Léa,Asante,,APAC,2020-02-07,1,website,customer58@yahoo.com,True,Asia,2,website,1.0
+customer658@yahoo.com,Akosua,López,+81312345678,APAC,2020-02-16,1,website,customer658@yahoo.com,True,APAC,2,website,1.0
+customer76@yahoo.com,André,Mensah,+15551234567,US,2020-02-07,1,website,customer76@yahoo.com,True,united states,2,"website,erp",2.0
+customer200@company.com,Yaw,González,+81312345678,EU,2020-02-06,1,website,customer200@company.com,True,EU,2,website,1.0
+customer785@company.com,Akosua,López,5551234567,EU,2020-02-06,1,website,customer785@company.com,True,EU,2,website,1.0
+customer34@yahoo.com,Kofi,Jones,5551234567,APAC,2020-02-05,0,website,customer34@yahoo.com,True,AP,2,website,1.0
+customer123@gmail.com,Ama,Brown,,APAC,2020-02-05,1,website,customer123@gmail.com,True,APAC,2,website,1.0
+customer286@yahoo.com,André,Mensah,5551234567,EU,2020-02-27,0,website,customer286@yahoo.com,True,EMEA,2,website,1.0
+customer12@gmail.com,Yaw,González,+81312345678,APAC,2020-02-26,0,website,customer12@gmail.com,True,Asia Pacific,2,website,1.0
+customer322@yahoo.com,Kwame,Díaz,,APAC,2020-02-26,1,website,customer322@yahoo.com,True,AP,2,website,1.0
+customer574@yahoo.com,Abena,Martínez,5551234567,APAC,2020-02-26,0,website,customer574@yahoo.com,True,APAC,2,website,1.0
+customer736@yahoo.com,Kofi,Jones,+81312345678,EU,2020-02-25,1,website,customer736@yahoo.com,True,eu,2,website,1.0
+customer725@company.com,Jane,Brown,02079460958,US,2020-02-28,1,website,customer725@company.com,True,USA,2,website,1.0
+customer319@yahoo.com,Alex,Martínez,02079460958,EU,2020-02-28,0,website,customer319@yahoo.com,True,,2,"website,erp",2.0
+customer487@yahoo.com,Sarah,Wang,5551234567,US,2020-03-02,1,website,customer487@yahoo.com,True,US,2,website,1.0
+customer112@yahoo.com,Mike,González,,EU,2020-03-02,1,website,customer112@yahoo.com,True,europe,2,website,1.0
+customer263@company.com,John,Díaz,,EU,2020-03-02,0,website,customer263@company.com,True,europe,2,website,1.0
+customer369@gmail.com,O'Brien,Martínez,,EU,2020-03-02,0,website,customer369@gmail.com,True,eu,2,website,1.0
+customer193@yahoo.com,Evans,Wang,+442079460958,APAC,2020-02-29,0,website,customer193@yahoo.com,True,Asia,2,website,1.0
+customer56@company.com,José,Johnson,5551234567,APAC,2020-03-01,0,website,customer56@company.com,True,apac,2,website,1.0
+customer183@gmail.com,Ama,López,+442079460958,APAC,2020-02-18,0,website,customer183@gmail.com,True,,2,website,1.0
+customer558@gmail.com,François,Boateng,5551234567,EU,2020-02-17,0,website,customer558@gmail.com,True,EU,2,website,1.0
+customer266@company.com,André,Mensah,5551234567,US,2020-02-17,0,website,customer266@company.com,True,North America,2,website,1.0
+customer303@gmail.com,José,Johnson,5551234567,EU,2020-02-20,0,website,customer303@gmail.com,True,europe,2,website,1.0
+customer747@gmail.com,Léa,Brown,+15551234567,EU,2020-02-20,0,website,customer747@gmail.com,True,eu,2,website,1.0
+customer730@yahoo.com,José,Martínez,,US,2020-02-23,0,website,customer730@yahoo.com,True,united states,2,website,1.0
+customer464@company.com,Yaw,Jones,+15551234567,US,2020-02-23,1,website,customer464@company.com,True,us,2,"website,erp",2.0
+customer703@yahoo.com,Evans,Smith,5551234567,US,2020-02-22,0,website,customer703@yahoo.com,True,North America,2,website,1.0
+customer406@yahoo.com,Chris,Mensah,+442079460958,US,2020-02-22,0,website,customer406@yahoo.com,True,North America,2,website,1.0
+customer416@company.com,Sarah,Wang,02079460958,US,2020-02-21,0,website,customer416@company.com,True,North America,2,website,1.0
+customer227@company.com,John,Díaz,+442079460958,US,2020-02-21,0,website,customer227@company.com,True,US,2,website,1.0
+customer387@gmail.com,John,Díaz,+442079460958,APAC,2020-02-01,0,website,customer387@gmail.com,True,apac,2,website,1.0
+customer30@gmail.com,O'Brien,Martínez,+81312345678,US,2020-02-01,1,website,customer30@gmail.com,True,,2,"website,erp",2.0
+customer485@company.com,Müller,Garcia,,US,2020-01-31,0,website,customer485@company.com,True,united states,2,website,1.0
+customer669@gmail.com,Müller,Garcia,+81312345678,US,2020-01-11,1,website,customer669@gmail.com,True,us,2,website,1.0
+customer173@company.com,Léa,Brown,5551234567,APAC,2020-01-11,1,website,customer173@company.com,True,apac,2,website,1.0
+customer152@company.com,André,Williams,,US,2020-01-11,0,website,customer152@company.com,True,USA,2,website,1.0
+customer102@gmail.com,Akosua,Asante,02079460958,APAC,2020-01-10,0,website,customer102@gmail.com,True,AP,2,website,1.0
+customer300@gmail.com,Abena,Kim,5551234567,EU,2020-01-10,0,website,customer300@gmail.com,True,EMEA,2,website,1.0
+customer239@company.com,Evans,Wang,02079460958,APAC,2020-01-10,0,website,customer239@company.com,True,Asia Pacific,2,website,1.0
+customer444@gmail.com,Kofi,González,02079460958,EU,2020-01-10,0,website,customer444@gmail.com,True,europe,2,website,1.0
+customer267@gmail.com,Ama,López,+442079460958,EU,2020-01-09,1,website,customer267@gmail.com,True,EU,2,"website,erp",2.0
+customer583@yahoo.com,Sarah,Garcia,,EU,2020-01-09,0,website,customer583@yahoo.com,True,eu,2,website,1.0
+customer726@gmail.com,John,Díaz,5551234567,EU,2020-01-12,1,website,customer726@gmail.com,True,europe,2,website,1.0
+customer657@gmail.com,Sarah,Wang,+81312345678,US,2020-01-12,0,website,customer657@gmail.com,True,US,2,website,1.0
+customer769@yahoo.com,Jane,Asante,5551234567,US,2020-01-15,0,website,customer769@yahoo.com,True,USA,2,website,1.0
+customer654@gmail.com,O'Brien,Kim,+442079460958,EU,2020-01-15,0,website,customer654@gmail.com,True,europe,2,website,1.0
+customer377@company.com,François,González,5551234567,EU,2020-01-15,0,website,customer377@company.com,True,eu,2,"website,erp",2.0
+customer411@gmail.com,Yaw,Jones,+15551234567,EU,2020-01-14,0,website,customer411@gmail.com,True,europe,2,website,1.0
+customer593@company.com,Evans,Smith,,US,2020-01-13,0,website,customer593@company.com,True,us,2,website,1.0
+customer638@company.com,Ama,Asante,+81312345678,APAC,2020-01-13,0,website,customer638@company.com,True,Asia Pacific,2,website,1.0
+customer672@gmail.com,Chris,Mensah,+81312345678,EU,2020-01-13,1,website,customer672@gmail.com,True,EU,2,website,1.0
+customer201@gmail.com,Alex,Johnson,02079460958,APAC,2020-01-16,1,website,customer201@gmail.com,True,apac,2,"website,erp",2.0
+customer756@gmail.com,Yaw,Jones,+442079460958,EU,2020-01-04,1,website,customer756@gmail.com,True,eu,2,"website,erp",2.0
+customer554@company.com,Evans,Smith,+15551234567,EU,2020-01-03,0,website,customer554@company.com,True,EU,2,website,1.0
+customer135@gmail.com,Kofi,Boateng,+81312345678,EU,2020-01-03,1,website,customer135@gmail.com,True,eu,2,website,1.0
+customer189@gmail.com,Ama,Asante,,EU,2020-01-03,0,website,customer189@gmail.com,True,Europe,2,website,1.0
+customer431@company.com,O'Brien,Martínez,5551234567,EU,2020-01-02,0,website,customer431@company.com,True,eu,2,website,1.0
+customer290@company.com,Müller,Garcia,02079460958,APAC,2020-01-01,0,website,customer290@company.com,True,APAC,2,"website,erp",2.0
+customer141@gmail.com,François,Jones,+442079460958,EU,2020-01-01,0,website,customer141@gmail.com,True,eu,2,"website,erp",2.0
+customer423@gmail.com,Léa,Brown,5551234567,EU,2020-01-01,0,website,customer423@gmail.com,True,europe,2,website,1.0
+customer620@company.com,José,Johnson,+442079460958,US,2020-01-01,1,website,customer620@company.com,True,us,2,"website,erp",2.0
+customer317@company.com,José,Martínez,02079460958,US,2020-01-04,1,website,customer317@company.com,True,united states,2,website,1.0
+customer778@yahoo.com,Akosua,López,+442079460958,EU,2020-01-07,0,website,customer778@yahoo.com,True,EU,2,website,1.0
+customer776@company.com,O'Brien,Kim,+442079460958,EU,2020-01-05,0,website,customer776@company.com,True,eu,2,"website,erp",2.0
+customer232@yahoo.com,Müller,Wang,02079460958,EU,2020-01-05,0,website,customer232@yahoo.com,True,EMEA,2,website,1.0
+customer182@company.com,Ama,Brown,+442079460958,EU,2020-01-06,1,website,customer182@company.com,True,eu,2,"website,erp",2.0
+customer678@gmail.com,Kwame,Díaz,+81312345678,EU,2020-01-27,0,website,customer678@gmail.com,True,europe,2,website,1.0
+customer117@gmail.com,Kofi,Jones,+81312345678,US,2020-01-26,1,website,customer117@gmail.com,True,US,2,"website,erp",2.0
+customer22@yahoo.com,Mike,Boateng,+81312345678,EU,2020-01-25,1,website,customer22@yahoo.com,True,Europe,2,website,1.0
+customer6@gmail.com,José,Kim,,US,2020-01-27,1,website,customer6@gmail.com,True,USA,2,website,1.0
+customer567@gmail.com,François,Boateng,+15551234567,US,2020-01-28,0,website,customer567@gmail.com,True,USA,2,"website,erp",2.0
+customer687@gmail.com,José,Johnson,5551234567,,2020-01-31,0,website,customer687@gmail.com,True,,2,website,1.0
+customer391@yahoo.com,Maria,Smith,5551234567,US,2020-01-31,1,website,customer391@yahoo.com,True,united states,2,website,1.0
+customer418@yahoo.com,Chris,Díaz,+442079460958,US,2020-01-29,1,website,customer418@yahoo.com,True,united states,2,website,1.0
+customer668@company.com,Mike,Jones,,,2020-01-29,0,website,customer668@company.com,True,,2,website,1.0
+customer147@gmail.com,John,Williams,,EU,2020-01-28,0,website,customer147@gmail.com,True,Europe,2,website,1.0
+customer478@yahoo.com,Kofi,González,+15551234567,EU,2020-01-30,0,website,customer478@yahoo.com,True,europe,2,"website,erp",2.0
+customer187@yahoo.com,Maria,Garcia,5551234567,US,2020-01-24,0,website,customer187@yahoo.com,True,US,2,website,1.0
+customer633@gmail.com,Akosua,Brown,5551234567,US,2020-01-24,0,website,customer633@gmail.com,True,us,2,website,1.0
+customer257@company.com,Chris,Díaz,02079460958,US,2020-01-19,1,website,customer257@company.com,True,USA,2,website,1.0
+customer677@company.com,Jane,Brown,,EU,2020-01-19,1,website,customer677@company.com,True,eu,2,website,1.0
+customer513@gmail.com,O'Brien,Johnson,02079460958,EU,2020-01-18,1,website,customer513@gmail.com,True,Europe,2,website,1.0
+customer453@gmail.com,Léa,Asante,,EU,2020-01-18,0,website,customer453@gmail.com,True,europe,2,website,1.0
+customer770@company.com,José,Kim,5551234567,US,2020-01-17,0,website,customer770@company.com,True,USA,2,website,1.0
+customer374@company.com,Abena,Johnson,5551234567,US,2020-01-23,0,website,customer374@company.com,True,US,2,website,1.0
+customer106@yahoo.com,Alex,Kim,02079460958,US,2020-01-22,1,website,customer106@yahoo.com,True,North America,2,website,1.0
+customer795@gmail.com,Jane,López,5551234567,APAC,2020-01-22,0,website,customer795@gmail.com,True,apac,2,website,1.0
+customer407@company.com,Müller,Garcia,5551234567,US,2020-01-21,0,website,customer407@company.com,True,us,2,website,1.0
+customer212@company.com,Yaw,Boateng,02079460958,APAC,2020-01-20,0,website,customer212@company.com,True,APAC,2,website,1.0
+customer646@yahoo.com,Ama,Asante,02079460958,US,2020-03-03,1,website,customer646@yahoo.com,True,USA,2,website,1.0
+customer64@yahoo.com,Evans,Smith,02079460958,US,2020-03-03,1,website,customer64@yahoo.com,True,us,2,"website,erp",2.0
+customer779@company.com,Akosua,Brown,,US,2020-04-13,0,website,customer779@company.com,True,us,2,website,1.0
+customer397@yahoo.com,Alex,Kim,+81312345678,EU,2020-04-11,0,website,customer397@yahoo.com,True,EU,2,website,1.0
+customer32@company.com,Alex,Martínez,5551234567,US,2020-04-18,0,website,customer32@company.com,True,USA,2,"website,erp",2.0
+customer500@company.com,Mike,Jones,02079460958,EU,2020-04-18,0,website,customer500@company.com,True,europe,2,website,1.0
+customer744@gmail.com,Léa,Asante,5551234567,EU,2020-04-17,0,website,customer744@gmail.com,True,Europe,2,website,1.0
+customer174@gmail.com,José,Kim,+442079460958,US,2020-04-16,0,website,customer174@gmail.com,True,US,2,website,1.0
+customer794@company.com,Abena,Martínez,,EU,2020-04-16,0,website,customer794@company.com,True,europe,2,website,1.0
+customer27@gmail.com,Léa,Asante,5551234567,US,2020-04-07,0,website,customer27@gmail.com,True,USA,2,"website,erp",2.0
+customer262@yahoo.com,Yaw,González,5551234567,EU,2020-04-06,0,website,customer262@yahoo.com,True,eu,2,website,1.0
+customer775@yahoo.com,Akosua,López,5551234567,EU,2020-04-06,1,website,customer775@yahoo.com,True,EU,2,website,1.0
+customer161@company.com,Abena,Martínez,+15551234567,EU,2020-04-06,1,website,customer161@company.com,True,Europe,2,"website,erp",2.0
+customer99@gmail.com,Chris,Williams,02079460958,US,2020-04-05,0,website,customer99@gmail.com,True,us,2,website,1.0
+customer165@gmail.com,Sarah,Smith,+15551234567,EU,2020-04-05,0,website,customer165@gmail.com,True,europe,2,"website,erp",2.0
+customer527@company.com,John,Mensah,02079460958,EU,2020-04-04,1,website,customer527@company.com,True,,2,website,1.0
+customer148@yahoo.com,Müller,Smith,,,2020-04-07,0,website,customer148@yahoo.com,True,,2,website,1.0
+customer676@yahoo.com,John,Díaz,+15551234567,EU,2020-04-11,1,website,customer676@yahoo.com,True,EU,2,"website,erp",2.0
+customer524@company.com,O'Brien,Martínez,+442079460958,EU,2020-04-11,1,website,customer524@company.com,True,EMEA,2,website,1.0
+customer585@gmail.com,François,Jones,+15551234567,US,2020-04-10,0,website,customer585@gmail.com,True,US,2,website,1.0
+customer52@yahoo.com,Léa,Brown,5551234567,US,2020-04-10,0,website,customer52@yahoo.com,True,North America,2,"website,erp",2.0
+customer53@company.com,Yaw,Boateng,5551234567,US,2020-04-09,1,website,customer53@company.com,True,us,2,"website,erp",2.0
+customer226@yahoo.com,Kofi,González,+81312345678,US,2020-04-09,0,website,customer226@yahoo.com,True,united states,2,website,1.0
+customer11@company.com,Abena,Kim,+442079460958,US,2020-04-19,0,website,customer11@company.com,True,,2,website,1.0
+customer338@company.com,Abena,Kim,02079460958,EU,2020-04-29,0,website,customer338@company.com,True,eu,2,website,1.0
+customer24@gmail.com,Chris,Díaz,+442079460958,APAC,2020-04-28,1,website,customer24@gmail.com,True,APAC,2,website,1.0
+customer25@yahoo.com,Alex,Martínez,,US,2020-04-28,0,website,customer25@yahoo.com,True,North America,2,website,1.0
+customer440@company.com,Sarah,Garcia,+15551234567,US,2020-04-28,1,website,customer440@company.com,True,united states,2,website,1.0
+customer490@yahoo.com,François,Jones,02079460958,US,2020-04-30,0,website,customer490@yahoo.com,True,us,2,website,1.0
+customer563@company.com,John,Díaz,5551234567,APAC,2020-05-01,0,website,customer563@company.com,True,Asia,2,website,1.0
+customer360@gmail.com,André,Díaz,5551234567,US,2020-05-03,0,website,customer360@gmail.com,True,united states,2,website,1.0
+customer685@yahoo.com,Abena,Johnson,5551234567,APAC,2020-05-02,0,website,customer685@yahoo.com,True,APAC,2,website,1.0
+customer568@yahoo.com,Chris,Mensah,02079460958,US,2020-05-02,0,website,customer568@yahoo.com,True,us,2,"website,erp",2.0
+customer241@yahoo.com,Kwame,Williams,5551234567,EU,2020-05-02,1,website,customer241@yahoo.com,True,EMEA,2,website,1.0
+customer740@company.com,Léa,López,+15551234567,EU,2020-04-03,1,website,customer740@company.com,True,EU,2,website,1.0
+customer44@company.com,Kofi,Boateng,+15551234567,EU,2020-04-22,1,website,customer44@company.com,True,eu,2,website,1.0
+customer503@company.com,Chris,Mensah,02079460958,EU,2020-04-22,0,website,customer503@company.com,True,europe,2,website,1.0
+customer728@company.com,Alex,Kim,+15551234567,EU,2020-04-21,0,website,customer728@company.com,True,EU,2,website,1.0
+customer224@company.com,Sarah,Wang,+81312345678,EU,2020-04-21,1,website,customer224@company.com,True,eu,2,"website,erp",2.0
+customer159@gmail.com,John,Díaz,+442079460958,EU,2020-04-21,1,website,customer159@gmail.com,True,,2,website,1.0
+customer622@yahoo.com,François,Jones,+442079460958,US,2020-04-20,0,website,customer622@yahoo.com,True,North America,2,website,1.0
+customer483@gmail.com,José,Johnson,5551234567,US,2020-04-20,1,website,customer483@gmail.com,True,us,2,website,1.0
+customer372@gmail.com,Maria,Smith,+81312345678,APAC,2020-04-20,0,website,customer372@gmail.com,True,APAC,2,website,1.0
+customer142@yahoo.com,Yaw,González,+15551234567,,2020-04-26,0,website,customer142@yahoo.com,True,,2,website,1.0
+customer217@yahoo.com,Mike,Boateng,5551234567,APAC,2020-04-24,1,website,customer217@yahoo.com,True,apac,2,website,1.0
+customer204@gmail.com,Müller,Wang,+442079460958,APAC,2020-04-24,1,website,customer204@gmail.com,True,APAC,2,website,1.0
+customer225@gmail.com,Léa,López,5551234567,APAC,2020-04-23,0,website,customer225@gmail.com,True,APAC,2,website,1.0
+customer609@gmail.com,André,Díaz,02079460958,EU,2020-04-23,0,website,customer609@gmail.com,True,eu,2,website,1.0
+customer156@gmail.com,José,Martínez,02079460958,EU,2020-04-23,0,website,customer156@gmail.com,True,,2,website,1.0
+customer515@company.com,Sarah,Smith,+15551234567,EU,2020-04-25,0,website,customer515@company.com,True,EMEA,2,website,1.0
+customer78@gmail.com,O'Brien,Kim,+442079460958,EU,2020-04-24,1,website,customer78@gmail.com,True,EMEA,2,website,1.0
+customer320@company.com,José,Martínez,+15551234567,,2020-03-14,0,website,customer320@company.com,True,,2,website,1.0
+customer230@company.com,Yaw,Jones,+15551234567,,2020-03-14,0,website,customer230@company.com,True,,2,website,1.0
+customer629@company.com,Kwame,Williams,02079460958,US,2020-03-13,1,website,customer629@company.com,True,North America,2,"website,erp",2.0
+customer631@yahoo.com,Kofi,Boateng,+81312345678,US,2020-03-13,0,website,customer631@yahoo.com,True,us,2,website,1.0
+customer214@yahoo.com,Ama,Asante,5551234567,US,2020-03-13,1,website,customer214@yahoo.com,True,us,2,"website,erp",2.0
+customer294@gmail.com,Alex,Kim,+15551234567,,2020-03-12,0,website,customer294@gmail.com,True,,2,website,1.0
+customer436@yahoo.com,François,González,5551234567,EU,2020-03-15,0,website,customer436@yahoo.com,True,EU,2,website,1.0
+customer543@gmail.com,Kwame,Díaz,+81312345678,EU,2020-03-17,0,website,customer543@gmail.com,True,EMEA,2,website,1.0
+customer357@gmail.com,José,Johnson,5551234567,US,2020-03-11,0,website,customer357@gmail.com,True,US,2,website,1.0
+customer675@gmail.com,Mike,Boateng,02079460958,APAC,2020-03-05,0,website,customer675@gmail.com,True,Asia Pacific,2,website,1.0
+customer256@yahoo.com,Jane,Asante,+15551234567,EU,2020-03-05,1,website,customer256@yahoo.com,True,eu,2,"website,erp",2.0
+customer647@company.com,Léa,López,5551234567,US,2020-03-04,0,website,customer647@company.com,True,united states,2,"website,erp",2.0
+customer743@company.com,André,Díaz,+81312345678,EU,2020-03-04,0,website,customer743@company.com,True,europe,2,website,1.0
+customer291@gmail.com,Abena,Johnson,02079460958,EU,2020-03-03,0,website,customer291@gmail.com,True,EMEA,2,website,1.0
+customer745@yahoo.com,Akosua,Asante,02079460958,US,2020-03-10,1,website,customer745@yahoo.com,True,US,2,"website,erp",2.0
+customer65@company.com,Kofi,González,5551234567,EU,2020-03-10,1,website,customer65@company.com,True,europe,2,"website,erp",2.0
+customer82@yahoo.com,Sarah,Garcia,+81312345678,EU,2020-03-09,1,website,customer82@yahoo.com,True,eu,2,"website,erp",2.0
+customer354@gmail.com,André,Mensah,+15551234567,APAC,2020-03-08,0,website,customer354@gmail.com,True,Asia,2,website,1.0
+customer413@company.com,Yaw,González,+15551234567,EU,2020-03-07,1,website,customer413@company.com,True,EMEA,2,"website,erp",2.0
+customer13@yahoo.com,John,Williams,+81312345678,US,2020-03-18,0,website,customer13@yahoo.com,True,US,2,website,1.0
+customer724@yahoo.com,Chris,Díaz,02079460958,US,2020-03-29,0,website,customer724@yahoo.com,True,us,2,website,1.0
+customer623@company.com,Maria,Wang,02079460958,US,2020-03-27,1,website,customer623@company.com,True,USA,2,"website,erp",2.0
+customer176@company.com,Akosua,López,5551234567,APAC,2020-03-27,1,website,customer176@company.com,True,Asia,2,"website,erp",2.0
+customer767@company.com,Kwame,Williams,5551234567,US,2020-04-02,1,website,customer767@company.com,True,US,2,"website,erp",2.0
+customer792@gmail.com,José,Johnson,+81312345678,US,2020-03-31,1,website,customer792@gmail.com,True,USA,2,"website,erp",2.0
+customer590@company.com,Sarah,Wang,5551234567,US,2020-03-22,0,website,customer590@company.com,True,,2,"website,erp",2.0
+customer576@gmail.com,Jane,Asante,,US,2020-03-25,0,website,customer576@gmail.com,True,USA,2,website,1.0
+customer632@company.com,John,Mensah,5551234567,,2020-03-25,0,website,customer632@company.com,True,,2,website,1.0
+customer87@gmail.com,Maria,Garcia,+442079460958,EU,2020-03-24,0,website,customer87@gmail.com,True,eu,2,"website,erp",2.0
+customer95@company.com,Evans,Smith,+81312345678,APAC,2020-03-23,1,website,customer95@company.com,True,APAC,2,"website,erp",2.0
+customer642@gmail.com,Maria,Wang,5551234567,,2019-09-01,1,erp,customer642@gmail.com,True,,3,erp,1.0
+customer190@yahoo.com,John,Williams,,EU,2019-03-01,0,erp,customer190@yahoo.com,True,Europe,3,erp,1.0
+customer51@gmail.com,Müller,Smith,,US,2019-01-01,1,erp,customer51@gmail.com,True,North America,3,erp,1.0
+customer762@gmail.com,Léa,Asante,,US,2019-05-01,1,erp,customer762@gmail.com,True,US,3,erp,1.0
+customer8@company.com,François,Boateng,+15551234567,US,2019-12-01,0,erp,customer8@company.com,True,USA,3,erp,1.0
+customer639@gmail.com,Chris,Díaz,+442079460958,US,2019-09-01,1,erp,customer639@gmail.com,True,united states,3,erp,1.0
+customer526@yahoo.com,Evans,Smith,5551234567,EU,2019-02-01,0,erp,customer526@yahoo.com,True,europe,3,erp,1.0
+customer151@yahoo.com,O'Brien,Martínez,5551234567,,2019-11-01,0,erp,customer151@yahoo.com,True,,3,erp,1.0
+customer223@yahoo.com,Jane,López,5551234567,APAC,2019-11-01,1,erp,customer223@yahoo.com,True,apac,3,erp,1.0
+customer333@gmail.com,Alex,Kim,02079460958,US,2019-11-01,0,erp,customer333@gmail.com,True,North America,3,erp,1.0
+customer797@company.com,Kofi,Boateng,5551234567,EU,2019-11-01,1,erp,customer797@company.com,True,,3,erp,1.0
+customer462@gmail.com,Akosua,Brown,5551234567,US,2019-07-01,1,erp,customer462@gmail.com,True,us,3,erp,1.0
+customer60@gmail.com,John,Mensah,+81312345678,US,2019-09-01,1,erp,customer60@gmail.com,True,united states,3,erp,1.0
+customer130@yahoo.com,Sarah,Smith,02079460958,APAC,2019-06-01,1,erp,customer130@yahoo.com,True,Asia Pacific,3,erp,1.0
+customer248@company.com,Maria,Garcia,,US,2019-06-01,1,erp,customer248@company.com,True,US,3,erp,1.0
+customer287@company.com,Alex,Martínez,+15551234567,,2019-06-01,1,erp,customer287@company.com,True,,3,erp,1.0
+customer221@company.com,Müller,Smith,5551234567,US,2019-01-01,1,erp,customer221@company.com,True,USA,3,erp,1.0
+customer746@company.com,Chris,Díaz,+81312345678,EU,2019-09-01,0,erp,customer746@company.com,True,eu,3,erp,1.0
+customer350@company.com,Abena,Kim,+442079460958,EU,2019-04-01,1,erp,customer350@company.com,True,EU,3,erp,1.0
+customer773@company.com,Yaw,Boateng,5551234567,EU,2019-05-01,0,erp,customer773@company.com,True,Europe,3,erp,1.0
+customer584@company.com,Müller,Garcia,02079460958,EU,2019-05-01,1,erp,customer584@company.com,True,europe,3,erp,1.0
+customer66@gmail.com,Akosua,López,5551234567,EU,2019-02-01,0,erp,customer66@gmail.com,True,EU,3,erp,1.0
+customer344@company.com,Mike,González,5551234567,APAC,2019-10-01,0,erp,customer344@company.com,True,APAC,3,erp,1.0
+customer417@gmail.com,Chris,Mensah,+442079460958,EU,2019-02-01,0,erp,customer417@gmail.com,True,europe,3,erp,1.0
+customer345@gmail.com,Yaw,Jones,5551234567,EU,2019-01-01,0,erp,customer345@gmail.com,True,Europe,3,erp,1.0
+customer288@gmail.com,John,Díaz,+442079460958,APAC,2019-02-01,1,erp,customer288@gmail.com,True,apac,3,erp,1.0
+customer105@gmail.com,Ama,Brown,+442079460958,EU,2019-07-01,1,erp,customer105@gmail.com,True,eu,3,erp,1.0
+customer742@yahoo.com,Yaw,González,02079460958,US,2019-10-01,1,erp,customer742@yahoo.com,True,us,3,erp,1.0
+customer591@gmail.com,José,Kim,,APAC,2019-01-01,1,erp,customer591@gmail.com,True,APAC,3,erp,1.0
+customer734@company.com,André,Mensah,,,2019-07-01,1,erp,customer734@company.com,True,,3,erp,1.0
+customer798@gmail.com,John,Williams,5551234567,US,2019-01-01,1,erp,customer798@gmail.com,True,us,3,erp,1.0
+customer716@company.com,Mike,Jones,5551234567,EU,2019-11-01,1,erp,customer716@company.com,True,EU,3,erp,1.0
+customer729@gmail.com,François,Jones,+442079460958,EU,2019-06-01,1,erp,customer729@gmail.com,True,eu,3,erp,1.0
+customer401@company.com,Alex,Kim,+15551234567,APAC,2019-11-01,1,erp,customer401@company.com,True,Asia Pacific,3,erp,1.0
+customer705@gmail.com,Chris,Mensah,02079460958,EU,2019-01-01,1,erp,customer705@gmail.com,True,Europe,3,erp,1.0
+customer616@yahoo.com,Akosua,Brown,+15551234567,US,2019-10-01,1,erp,customer616@yahoo.com,True,North America,3,erp,1.0
+customer569@company.com,Léa,Brown,+15551234567,EU,2019-09-01,0,erp,customer569@company.com,True,EMEA,3,erp,1.0
+customer284@company.com,Abena,Martínez,+81312345678,US,2019-02-01,1,erp,customer284@company.com,True,North America,3,erp,1.0
+customer309@gmail.com,Akosua,López,,EU,2019-10-01,1,erp,customer309@gmail.com,True,Europe,3,erp,1.0
+customer653@company.com,Müller,Smith,,US,2019-03-01,0,erp,customer653@company.com,True,united states,3,erp,1.0
+customer109@yahoo.com,Mike,Jones,5551234567,,2019-11-01,1,erp,customer109@yahoo.com,True,,3,erp,1.0
+customer683@company.com,Alex,Martínez,5551234567,EU,2019-08-01,1,erp,customer683@company.com,True,Europe,3,erp,1.0
+customer435@gmail.com,Kofi,González,,APAC,2019-04-01,1,erp,customer435@gmail.com,True,Asia Pacific,3,erp,1.0
+customer114@gmail.com,Sarah,Wang,,US,2019-10-01,0,erp,customer114@gmail.com,True,US,3,erp,1.0
+customer693@gmail.com,Müller,Wang,+15551234567,US,2019-02-01,1,erp,customer693@gmail.com,True,USA,3,erp,1.0
+customer296@company.com,O'Brien,Kim,+442079460958,EU,2019-02-01,1,erp,customer296@company.com,True,europe,3,erp,1.0
+customer329@company.com,Sarah,Smith,+442079460958,APAC,2019-07-01,1,erp,customer329@company.com,True,Asia,3,erp,1.0
+@nodomain.com,François,Boateng,,US,2023-04-01,0,crm,@nodomain.com,False,us,1,"crm,erp",2.0
+double@@sign.com,Ama,Garcia,,US,2021-02-01,0,crm,double@@sign.com,False,us,1,crm,1.0
+missing@,Abena,Martínez,,APAC,2020-03-07,1,website,missing@,False,AP,2,"website,erp",2.0
