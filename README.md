@@ -21,11 +21,11 @@ Many customers appear in more than one source. The goal is to create one trustwo
 ```text
 Website CSV ─┐
 CRM JSON ────┼─> Ingest ─> Clean ─> Deduplicate ─> Validate ─> Export
-ERP Text ────┘                                      │
-                                                   ├─ Golden dataset
-                                                   ├─ Campaign audience
-                                                   ├─ Quality report
-                                                   └─ EDA visualization
+ERP Text ────┘                                                  │
+                                                                ├─ Golden dataset
+                                                                ├─ Campaign audience
+                                                                ├─ Quality report
+                                                                └─ EDA visualization
 ```
 
 ### 1. Ingestion
@@ -156,14 +156,14 @@ Progress is written to both the terminal and `logs/pipeline.log`.
 
 The included sample run produced:
 
-| Metric                      | Result |
-| --------------------------- | -----: |
-| Raw records ingested        |  1,750 |
-| Golden customer records     |    726 |
+| Metric                                            | Result |
+| ------------------------------------------------- | -----: |
+| Raw records ingested                              |  1,750 |
+| Golden customer records                           |    726 |
 | Records removed during cleaning and deduplication |  1,024 |
-| Multi-source golden records |    374 |
-| Campaign-ready customers    |    407 |
-| Quality checks passed       |  7 / 7 |
+| Multi-source golden records                       |    374 |
+| Campaign-ready customers                          |    407 |
+| Quality checks passed                             |  7 / 7 |
 
 Campaign-ready customers in that run were distributed across EU (166), US (154), and APAC (87).
 
