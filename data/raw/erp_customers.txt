@@ -1,0 +1,250 @@
+         0Maria Smith                                       customer238@yahoo.com                                       +1 (555) 123-4567   North America       2019-07-01INACT
+         1José Johnson                                      customer452@company.com                                     +44 20 7946 0958    us                  2019-01-01ACTIV
+         2André Williams                                    customer548@company.com                                     +44 20 7946 0958    N/A                 2019-07-01ACTIV
+         3Léa Brown                                         customer164@company.com                                     5551234567          europe              2019-01-01INACT
+         4François Jones                                    customer729@gmail.com                                       +44 20 7946 0958    eu                  2019-06-01INACT
+         5Müller Garcia                                     customer327@gmail.com                                       020 7946 0958       APAC                2019-01-01INACT
+         6O'Brien Martínez                                  customer797@company.com                                     5551234567          eu                  2019-04-01INACT
+         7John Díaz                                         customer81@gmail.com                                        5551234567          US                  2019-11-01ACTIV
+         8Jane López                                        customer201@gmail.com                                       invalid-phone       apac                2019-08-01INACT
+         9Mike González                                     customer643@yahoo.com                                       555.123.4567        APAC                2019-05-01INACT
+        10Sarah Wang                                        customer588@gmail.com                                       5551234567          North America       2019-09-01ACTIV
+        11Alex Kim                                          customer401@company.com                                     +1 (555) 123-4567   Asia Pacific        2019-11-01INACT
+        12Chris Mensah                                      customer705@gmail.com                                       020 7946 0958       Europe              2019-01-01INACT
+        13Ama Asante                                        customer466@yahoo.com                                       invalid-phone       Europe              2019-09-01INACT
+        14Kofi Boateng                                      customer546@gmail.com                                       +81-3-1234-5678     eu                  2019-09-01ACTIV
+        15Evans Smith                                       customer636@gmail.com                                       +1 (555) 123-4567   EU                  2019-10-01ACTIV
+        16Abena Johnson                                     customer41@company.com                                      020 7946 0958       EMEA                2019-05-01ACTIV
+        17Kwame Williams                                    customer699@gmail.com                                       +81-3-1234-5678     Asia                2019-03-01ACTIV
+        18Akosua Brown                                      customer616@yahoo.com                                       +1 (555) 123-4567   North America       2019-10-01INACT
+        19Yaw Jones                                         customer319@yahoo.com                                       +44 20 7946 0958    eu                  2019-09-01ACTIV
+        20Maria Garcia                                      customer70@yahoo.com                                        +44 20 7946 0958    AP                  2019-08-01ACTIV
+        21José Martínez                                     customer235@yahoo.com                                       020 7946 0958       united states       2019-09-01ACTIV
+        22André Díaz                                        customer616@yahoo.com                                       555.123.4567        US                  2019-06-01ACTIV
+        23Léa López                                         customer161@company.com                                     +1 (555) 123-4567   USA                 2019-09-01INACT
+        24François González                                 customer224@company.com                                     invalid-phone       europe              2019-03-01INACT
+        25Müller Wang                                       customer581@company.com                                     020 7946 0958       EMEA                2019-05-01ACTIV
+        26O'Brien Kim                                       customer168@gmail.com                                       +44 20 7946 0958    eu                  2019-10-01INACT
+        27John Mensah                                       customer163@yahoo.com                                       5551234567          Europe              2019-04-01ACTIV
+        28Jane Asante                                       customer519@gmail.com                                       +1 (555) 123-4567   eu                  2019-10-01INACT
+        29Mike Boateng                                      customer559@yahoo.com                                       invalid-phone       EU                  2019-05-01INACT
+        30Sarah Smith                                       customer707@company.com                                     020 7946 0958       europe              2019-06-01INACT
+        31Alex Johnson                                      customer103@yahoo.com                                       +44 20 7946 0958    North America       2019-06-01INACT
+        32Chris Williams                                    customer100@yahoo.com                                       +81-3-1234-5678                         2019-02-01INACT
+        33Ama Brown                                         customer105@gmail.com                                       +44 20 7946 0958    eu                  2019-07-01INACT
+        34Kofi Jones                                        customer768@gmail.com                                       5551234567          North America       2019-07-01ACTIV
+        35Evans Garcia                                      customer64@yahoo.com                                        5551234567          US                  2019-04-01INACT
+        36Abena Martínez                                    customer316@yahoo.com                                       +44 20 7946 0958    apac                2019-04-01INACT
+        37Kwame Díaz                                        customer342@gmail.com                                       +44 20 7946 0958    Europe              2019-09-01INACT
+        38Akosua López                                      customer379@yahoo.com                                       +44 20 7946 0958    EU                  2019-01-01INACT
+        39Yaw González                                      customer742@yahoo.com                                       020 7946 0958       us                  2019-10-01INACT
+        40Maria Wang                                        customer64@yahoo.com                                        555.123.4567        europe              2019-01-01ACTIV
+        41José Kim                                          customer591@gmail.com                                                           APAC                2019-01-01INACT
+        42André Mensah                                      customer734@company.com                                     invalid-phone       N/A                 2019-07-01INACT
+        43Léa Asante                                        customer620@company.com                                     020 7946 0958       united states       2019-11-01ACTIV
+        44François Boateng                                  customer368@company.com                                     invalid-phone       eu                  2019-02-01ACTIV
+        45Müller Smith                                      customer650@company.com                                     020 7946 0958                           2019-12-01INACT
+        46O'Brien Johnson                                   customer98@company.com                                      +1 (555) 123-4567   Europe              2019-11-01INACT
+        47John Williams                                     customer798@gmail.com                                       invalid-phone       us                  2019-01-01ACTIV
+        48Jane Brown                                        customer456@gmail.com                                       +81-3-1234-5678     N/A                 2019-10-01INACT
+        49Mike Jones                                        customer716@company.com                                     555.123.4567        EU                  2019-11-01INACT
+        50Sarah Garcia                                      customer708@gmail.com                                                           eu                  2019-06-01INACT
+        51Alex Martínez                                     customer478@yahoo.com                                       020 7946 0958       USA                 2019-01-01ACTIV
+        52Chris Díaz                                        customer19@yahoo.com                                        +81-3-1234-5678     APAC                2019-09-01INACT
+        53Ama López                                         customer292@yahoo.com                                       +44 20 7946 0958    EU                  2019-01-01INACT
+        54Kofi González                                     customer355@yahoo.com                                       020 7946 0958       europe              2019-06-01INACT
+        55Evans Wang                                        customer792@gmail.com                                       020 7946 0958       Asia Pacific        2019-03-01ACTIV
+        56Abena Kim                                         customer214@yahoo.com                                       invalid-phone       EMEA                2019-12-01INACT
+        57Kwame Mensah                                      missing@                                                    5551234567          us                  2019-11-01INACT
+        58Akosua Asante                                     customer277@yahoo.com                                       020 7946 0958       AP                  2019-06-01INACT
+        59Yaw Boateng                                       customer129@gmail.com                                       555.123.4567        EU                  2019-02-01INACT
+        60Maria Smith                                       customer105@gmail.com                                       020 7946 0958                           2019-12-01ACTIV
+        61José Johnson                                      customer756@gmail.com                                       555.123.4567        us                  2019-08-01INACT
+        62André Williams                                    customer305@company.com                                     invalid-phone       USA                 2019-05-01INACT
+        63Léa Brown                                         customer519@gmail.com                                       555.123.4567        apac                2019-10-01INACT
+        64François Jones                                    customer324@gmail.com                                       +1 (555) 123-4567   AP                  2019-02-01ACTIV
+        65Müller Garcia                                     customer165@gmail.com                                       +81-3-1234-5678     us                  2019-11-01ACTIV
+        66O'Brien Martínez                                  customer628@yahoo.com                                       555.123.4567        Asia                2019-11-01INACT
+        67John Díaz                                         customer788@company.com                                     5551234567          europe              2019-02-01ACTIV
+        68Jane López                                        customer177@gmail.com                                       invalid-phone       N/A                 2019-10-01INACT
+        69Mike González                                     customer153@gmail.com                                       020 7946 0958       Europe              2019-09-01INACT
+        70Sarah Wang                                        customer114@gmail.com                                                           US                  2019-10-01ACTIV
+        71Alex Kim                                          customer67@yahoo.com                                        555.123.4567        EU                  2019-06-01INACT
+        72Chris Mensah                                      customer707@company.com                                     +81-3-1234-5678     EU                  2019-10-01ACTIV
+        73Ama Asante                                        customer358@yahoo.com                                       +81-3-1234-5678     Asia Pacific        2019-01-01ACTIV
+        74Kofi Boateng                                      customer508@yahoo.com                                                           N/A                 2019-03-01ACTIV
+        75Evans Smith                                       customer476@company.com                                     invalid-phone       us                  2019-11-01INACT
+        76Abena Johnson                                     customer413@company.com                                     +81-3-1234-5678     Europe              2019-09-01INACT
+        77Kwame Williams                                    customer74@company.com                                      +1 (555) 123-4567   europe              2019-07-01INACT
+        78Akosua Brown                                      customer567@gmail.com                                       +44 20 7946 0958    eu                  2019-06-01ACTIV
+        79Yaw Jones                                         customer530@company.com                                                         europe              2019-10-01INACT
+        80Maria Garcia                                      customer680@company.com                                     +44 20 7946 0958    EMEA                2019-04-01ACTIV
+        81José Martínez                                     customer46@yahoo.com                                        invalid-phone       united states       2019-09-01INACT
+        82André Díaz                                        customer705@gmail.com                                       5551234567          US                  2019-09-01INACT
+        83Léa López                                         customer588@gmail.com                                                           us                  2019-03-01ACTIV
+        84François González                                 customer798@gmail.com                                       5551234567          eu                  2019-05-01INACT
+        85Müller Wang                                       customer693@gmail.com                                       +1 (555) 123-4567   USA                 2019-02-01INACT
+        86O'Brien Kim                                       customer296@company.com                                     +44 20 7946 0958    europe              2019-02-01INACT
+        87John Mensah                                       customer95@company.com                                      +81-3-1234-5678     AP                  2019-06-01INACT
+        88Jane Asante                                       customer377@company.com                                                         USA                 2019-12-01ACTIV
+        89Mike Boateng                                      customer104@company.com                                     +44 20 7946 0958    N/A                 2019-01-01ACTIV
+        90Sarah Smith                                       customer329@company.com                                     +44 20 7946 0958    Asia                2019-07-01INACT
+        91Alex Johnson                                      customer381@gmail.com                                       020 7946 0958       apac                2019-10-01ACTIV
+        92Chris Williams                                    customer269@company.com                                     +44 20 7946 0958    Europe              2019-06-01INACT
+        93Ama Brown                                         customer556@yahoo.com                                       invalid-phone       apac                2019-01-01INACT
+        94Kofi Jones                                        customer674@company.com                                     555.123.4567        EMEA                2019-02-01ACTIV
+        95Evans Garcia                                      customer252@gmail.com                                       020 7946 0958       eu                  2019-09-01ACTIV
+        96Abena Martínez                                    customer284@company.com                                     +81-3-1234-5678     North America       2019-02-01INACT
+        97Kwame Díaz                                        customer238@yahoo.com                                       invalid-phone       N/A                 2019-02-01ACTIV
+        98Akosua López                                      customer309@gmail.com                                       invalid-phone       Europe              2019-10-01INACT
+        99Yaw González                                      customer681@gmail.com                                       5551234567          N/A                 2019-10-01INACT
+       100Maria Wang                                        customer209@company.com                                     5551234567          Asia                2019-09-01ACTIV
+       101José Kim                                          customer252@gmail.com                                       555.123.4567        USA                 2019-03-01INACT
+       102André Mensah                                      customer731@company.com                                     020 7946 0958       AP                  2019-08-01ACTIV
+       103Léa Asante                                        customer2@company.com                                                           europe              2019-03-01INACT
+       104François Boateng                                  customer464@company.com                                     020 7946 0958       united states       2019-04-01ACTIV
+       105Müller Smith                                      customer653@company.com                                                         united states       2019-03-01ACTIV
+       106O'Brien Johnson                                   customer701@company.com                                     020 7946 0958       Europe              2019-05-01INACT
+       107John Williams                                     customer676@yahoo.com                                       020 7946 0958       united states       2019-11-01INACT
+       108Jane Brown                                        customer290@company.com                                                         eu                  2019-05-01ACTIV
+       109Mike Jones                                        customer109@yahoo.com                                       555.123.4567                            2019-11-01INACT
+       110Sarah Garcia                                      customer647@company.com                                     +44 20 7946 0958    USA                 2019-04-01ACTIV
+       111Alex Martínez                                     customer683@company.com                                     5551234567          Europe              2019-08-01INACT
+       112Chris Díaz                                        customer46@yahoo.com                                        020 7946 0958       USA                 2019-12-01INACT
+       113Ama López                                         customer751@yahoo.com                                       555.123.4567        united states       2019-11-01ACTIV
+       114Kofi González                                     customer435@gmail.com                                                           Asia Pacific        2019-04-01INACT
+       115Evans Wang                                        customer650@company.com                                     020 7946 0958       APAC                2019-09-01INACT
+       116Abena Kim                                         customer75@gmail.com                                        555.123.4567        AP                  2019-09-01ACTIV
+       117Kwame Mensah                                      customer767@company.com                                     +44 20 7946 0958    US                  2019-10-01INACT
+       118Akosua Asante                                     customer105@gmail.com                                       555.123.4567        North America       2019-07-01INACT
+       119Yaw Boateng                                       customer274@yahoo.com                                       020 7946 0958       APAC                2019-08-01ACTIV
+       120Maria Smith                                       customer76@yahoo.com                                        +1 (555) 123-4567   Europe              2019-10-01INACT
+       121José Johnson                                      customer244@yahoo.com                                       invalid-phone       North America       2019-02-01INACT
+       122André Williams                                    customer381@gmail.com                                       +81-3-1234-5678     APAC                2019-06-01ACTIV
+       123Léa Brown                                         customer569@company.com                                     +1 (555) 123-4567   EMEA                2019-09-01ACTIV
+       124François Jones                                    customer141@gmail.com                                       +1 (555) 123-4567   us                  2019-04-01ACTIV
+       125Müller Garcia                                     customer351@gmail.com                                       5551234567          us                  2019-01-01ACTIV
+       126O'Brien Martínez                                  customer151@yahoo.com                                       5551234567                              2019-11-01ACTIV
+       127John Díaz                                         customer623@company.com                                     5551234567          APAC                2019-02-01ACTIV
+       128Jane López                                        customer223@yahoo.com                                       555.123.4567        apac                2019-11-01INACT
+       129Mike González                                     customer755@company.com                                                         US                  2019-03-01ACTIV
+       130Sarah Wang                                        customer267@gmail.com                                                           USA                 2019-04-01INACT
+       131Alex Kim                                          customer333@gmail.com                                       020 7946 0958       North America       2019-11-01ACTIV
+       132Chris Mensah                                      customer176@company.com                                     +81-3-1234-5678                         2019-11-01ACTIV
+       133Ama Asante                                        customer306@gmail.com                                       +1 (555) 123-4567   North America       2019-06-01ACTIV
+       134Kofi Boateng                                      customer797@company.com                                                                             2019-11-01INACT
+       135Evans Smith                                       customer526@yahoo.com                                       555.123.4567        europe              2019-02-01ACTIV
+       136Abena Johnson                                     customer603@gmail.com                                       555.123.4567        US                  2019-07-01INACT
+       137Kwame Williams                                    customer605@company.com                                     +1 (555) 123-4567                       2019-01-01ACTIV
+       138Akosua Brown                                      customer462@gmail.com                                       5551234567          us                  2019-07-01ACTIV
+       139Yaw Jones                                         customer745@yahoo.com                                       020 7946 0958       North America       2019-06-01INACT
+       140Maria Garcia                                      customer248@company.com                                                         US                  2019-06-01INACT
+       141José Martínez                                     customer586@yahoo.com                                                           eu                  2019-09-01INACT
+       142André Díaz                                        customer87@gmail.com                                        +1 (555) 123-4567   Asia                2019-09-01ACTIV
+       143Léa López                                         customer65@company.com                                      +44 20 7946 0958    apac                2019-06-01INACT
+       144François González                                 customer32@company.com                                      invalid-phone       EU                  2019-08-01ACTIV
+       145Müller Wang                                       customer557@company.com                                     020 7946 0958       Europe              2019-09-01INACT
+       146O'Brien Kim                                       customer342@gmail.com                                       5551234567          North America       2019-05-01ACTIV
+       147John Mensah                                       customer60@gmail.com                                        +81-3-1234-5678     united states       2019-09-01INACT
+       148Jane Asante                                       customer271@yahoo.com                                       5551234567          North America       2019-06-01INACT
+       149Mike Boateng                                      customer627@gmail.com                                       +81-3-1234-5678     Europe              2019-01-01INACT
+       150Sarah Smith                                       customer130@yahoo.com                                       020 7946 0958       Asia Pacific        2019-06-01INACT
+       151Alex Johnson                                      customer781@yahoo.com                                       +1 (555) 123-4567   us                  2019-04-01INACT
+       152Chris Williams                                    customer494@company.com                                     +1 (555) 123-4567   eu                  2019-09-01INACT
+       153Ama Brown                                         customer578@company.com                                     020 7946 0958       united states       2019-10-01ACTIV
+       154Kofi Jones                                        customer486@gmail.com                                       invalid-phone       US                  2019-01-01ACTIV
+       155Evans Garcia                                      customer568@yahoo.com                                       +1 (555) 123-4567   N/A                 2019-11-01ACTIV
+       156Abena Martínez                                    customer624@gmail.com                                       +81-3-1234-5678     North America       2019-05-01ACTIV
+       157Kwame Díaz                                        customer82@yahoo.com                                        +81-3-1234-5678     europe              2019-09-01INACT
+       158Akosua López                                      customer348@gmail.com                                       5551234567          AP                  2019-03-01ACTIV
+       159Yaw González                                      customer75@gmail.com                                        +1 (555) 123-4567   united states       2019-04-01ACTIV
+       160Maria Wang                                        customer642@gmail.com                                       555.123.4567                            2019-09-01INACT
+       161José Kim                                          customer40@yahoo.com                                                            USA                 2019-07-01INACT
+       162André Mensah                                      customer641@company.com                                     +1 (555) 123-4567   EMEA                2019-07-01ACTIV
+       163Léa Asante                                        customer762@gmail.com                                                           US                  2019-05-01INACT
+       164François Boateng                                  customer8@company.com                                       +1 (555) 123-4567   USA                 2019-12-01ACTIV
+       165Müller Smith                                      customer51@gmail.com                                                            North America       2019-01-01INACT
+       166O'Brien Johnson                                   customer611@company.com                                     5551234567          US                  2019-01-01INACT
+       167John Williams                                     customer190@yahoo.com                                       invalid-phone       Europe              2019-03-01ACTIV
+       168Jane Brown                                        customer652@yahoo.com                                       +81-3-1234-5678     europe              2019-08-01ACTIV
+       169Mike Jones                                        customer620@company.com                                     invalid-phone                           2019-11-01INACT
+       170Sarah Garcia                                      customer621@gmail.com                                       +1 (555) 123-4567                       2019-04-01ACTIV
+       171Alex Martínez                                     customer663@gmail.com                                       5551234567          EMEA                2019-04-01ACTIV
+       172Chris Díaz                                        customer639@gmail.com                                       +44 20 7946 0958    united states       2019-09-01INACT
+       173Ama López                                         customer355@yahoo.com                                       +81-3-1234-5678     EU                  2019-04-01INACT
+       174Kofi González                                     customer364@yahoo.com                                       +1 (555) 123-4567   europe              2019-12-01ACTIV
+       175Evans Wang                                        customer651@gmail.com                                       +1 (555) 123-4567   Asia                2019-02-01INACT
+       176Abena Kim                                         customer491@company.com                                     +1 (555) 123-4567   US                  2019-05-01ACTIV
+       177Kwame Mensah                                      customer536@company.com                                     +44 20 7946 0958    Europe              2019-12-01ACTIV
+       178Akosua Asante                                     customer792@gmail.com                                       020 7946 0958       USA                 2019-11-01INACT
+       179Yaw Boateng                                       customer712@yahoo.com                                       555.123.4567        EMEA                2019-02-01INACT
+       180Maria Smith                                       customer510@gmail.com                                       5551234567          united states       2019-09-01ACTIV
+       181José Johnson                                      customer627@gmail.com                                       555.123.4567                            2019-01-01INACT
+       182André Williams                                    customer256@yahoo.com                                       +1 (555) 123-4567   Asia                2019-01-01ACTIV
+       183Léa Brown                                         customer442@yahoo.com                                       555.123.4567                            2019-08-01ACTIV
+       184François Jones                                    customer388@yahoo.com                                       +81-3-1234-5678     Asia Pacific        2019-09-01ACTIV
+       185Müller Garcia                                     customer146@company.com                                                         united states       2019-07-01ACTIV
+       186O'Brien Martínez                                  customer629@company.com                                     +81-3-1234-5678                         2019-02-01INACT
+       187John Díaz                                         customer288@gmail.com                                       +44 20 7946 0958    apac                2019-02-01INACT
+       188Jane López                                        customer256@yahoo.com                                       invalid-phone       EMEA                2019-10-01INACT
+       189Mike González                                     customer344@company.com                                     555.123.4567        APAC                2019-10-01ACTIV
+       190Sarah Wang                                        customer171@gmail.com                                       invalid-phone       USA                 2019-08-01ACTIV
+       191Alex Kim                                          customer182@company.com                                     555.123.4567        USA                 2019-03-01INACT
+       192Chris Mensah                                      customer417@gmail.com                                       +44 20 7946 0958    europe              2019-02-01ACTIV
+       193Ama Asante                                        customer73@yahoo.com                                        +81-3-1234-5678                         2019-03-01ACTIV
+       194Kofi Boateng                                      customer496@yahoo.com                                       invalid-phone                           2019-08-01INACT
+       195Evans Smith                                       customer534@gmail.com                                       555.123.4567        Asia Pacific        2019-04-01INACT
+       196Abena Johnson                                     customer446@company.com                                     +1 (555) 123-4567   Asia Pacific        2019-05-01INACT
+       197Kwame Williams                                    customer92@company.com                                      +1 (555) 123-4567   North America       2019-01-01INACT
+       198Akosua Brown                                      customer383@company.com                                     +81-3-1234-5678     AP                  2019-01-01ACTIV
+       199Yaw Jones                                         customer345@gmail.com                                       5551234567          Europe              2019-01-01ACTIV
+       200Maria Garcia                                      customer214@yahoo.com                                       555.123.4567        AP                  2019-04-01ACTIV
+       201José Martínez                                     customer780@gmail.com                                                           Europe              2019-12-01INACT
+       202André Díaz                                        customer379@yahoo.com                                       +81-3-1234-5678     europe              2019-03-01INACT
+       203Léa López                                         customer748@yahoo.com                                       +1 (555) 123-4567   us                  2019-08-01ACTIV
+       204François González                                 customer186@gmail.com                                       020 7946 0958       Europe              2019-06-01ACTIV
+       205Müller Wang                                       customer777@gmail.com                                       020 7946 0958       eu                  2019-09-01ACTIV
+       206O'Brien Kim                                       customer584@company.com                                     020 7946 0958       North America       2019-04-01INACT
+       207John Mensah                                       customer27@gmail.com                                                            US                  2019-01-01ACTIV
+       208Jane Asante                                       customer350@company.com                                     +81-3-1234-5678     US                  2019-12-01INACT
+       209Mike Boateng                                      customer228@gmail.com                                       5551234567          united states       2019-02-01ACTIV
+       210Sarah Smith                                       customer293@company.com                                     invalid-phone       EMEA                2019-07-01ACTIV
+       211Alex Johnson                                      customer581@company.com                                     555.123.4567        Asia Pacific        2019-08-01INACT
+       212Chris Williams                                    customer52@yahoo.com                                        +44 20 7946 0958    Europe              2019-12-01ACTIV
+       213Ama Brown                                         customer53@company.com                                                          APAC                2019-04-01ACTIV
+       214Kofi Jones                                        customer30@gmail.com                                        555.123.4567        AP                  2019-07-01INACT
+       215Evans Garcia                                      customer104@company.com                                     +44 20 7946 0958    apac                2019-10-01INACT
+       216Abena Martínez                                    customer495@gmail.com                                       5551234567          US                  2019-07-01INACT
+       217Kwame Díaz                                        customer157@yahoo.com                                       +44 20 7946 0958    USA                 2019-05-01ACTIV
+       218Akosua López                                      customer66@gmail.com                                        555.123.4567        EU                  2019-02-01ACTIV
+       219Yaw González                                      customer462@gmail.com                                       +81-3-1234-5678     EU                  2019-05-01INACT
+       220Maria Wang                                        customer100@yahoo.com                                       invalid-phone       EU                  2019-08-01INACT
+       221José Kim                                          customer750@gmail.com                                       +1 (555) 123-4567   EMEA                2019-09-01ACTIV
+       222André Mensah                                      customer380@company.com                                                         united states       2019-12-01ACTIV
+       223Léa Asante                                        customer446@company.com                                     invalid-phone       Asia                2019-08-01INACT
+       224François Boateng                                  customer434@company.com                                                         North America       2019-10-01INACT
+       225Müller Smith                                      customer221@company.com                                     5551234567          USA                 2019-01-01INACT
+       226O'Brien Johnson                                   customer277@yahoo.com                                       020 7946 0958       united states       2019-01-01ACTIV
+       227John Williams                                     customer573@gmail.com                                       5551234567          eu                  2019-02-01ACTIV
+       228Jane Brown                                        customer465@gmail.com                                       555.123.4567        us                  2019-07-01INACT
+       229Mike Jones                                        customer601@yahoo.com                                       5551234567          EU                  2019-08-01INACT
+       230Sarah Garcia                                      customer29@company.com                                                          Asia Pacific        2019-07-01ACTIV
+       231Alex Martínez                                     customer287@company.com                                     +1 (555) 123-4567                       2019-06-01INACT
+       232Chris Díaz                                        customer746@company.com                                     +81-3-1234-5678     eu                  2019-09-01ACTIV
+       233Ama López                                         customer776@company.com                                     5551234567          us                  2019-07-01ACTIV
+       234Kofi González                                     customer268@yahoo.com                                       020 7946 0958       North America       2019-10-01ACTIV
+       235Evans Wang                                        @nodomain.com                                               +81-3-1234-5678     N/A                 2019-01-01ACTIV
+       236Abena Kim                                         customer350@company.com                                     +44 20 7946 0958    EU                  2019-04-01INACT
+       237Kwame Mensah                                      customer479@company.com                                     5551234567          Asia Pacific        2019-09-01ACTIV
+       238Akosua Asante                                     customer782@company.com                                     555.123.4567        us                  2019-08-01INACT
+       239Yaw Boateng                                       customer773@company.com                                     555.123.4567        Europe              2019-05-01ACTIV
+       240Maria Smith                                       customer799@yahoo.com                                       555.123.4567        europe              2019-04-01ACTIV
+       241José Johnson                                      customer224@company.com                                     invalid-phone       EMEA                2019-12-01ACTIV
+       242André Williams                                    customer117@gmail.com                                       +1 (555) 123-4567   europe              2019-02-01INACT
+       243Léa Brown                                         customer590@company.com                                                         united states       2019-03-01ACTIV
+       244François Jones                                    customer381@gmail.com                                                           Europe              2019-06-01INACT
+       245Müller Garcia                                     customer584@company.com                                     020 7946 0958       europe              2019-05-01INACT
+       246O'Brien Martínez                                  customer537@gmail.com                                       +81-3-1234-5678     US                  2019-02-01INACT
+       247John Díaz                                         customer636@gmail.com                                                           united states       2019-07-01ACTIV
+       248Jane López                                        customer72@gmail.com                                        invalid-phone       North America       2019-11-01ACTIV
+       249Mike González                                     customer695@company.com                                     invalid-phone       APAC                2019-11-01INACT
