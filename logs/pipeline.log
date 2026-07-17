@@ -1,0 +1,1360 @@
+2026-05-12 11:53:48,000 - INFO - Generating synthetic source data...
+2026-05-12 11:54:51,227 - INFO - Generating synthetic source data...
+2026-05-12 11:55:04,648 - INFO - Generating synthetic source data...
+2026-05-12 11:55:10,342 - INFO - Generating synthetic source data...
+2026-05-12 11:55:10,342 - INFO - Generating website_customers.csv...
+2026-05-12 11:56:25,993 - INFO - Generating synthetic source data...
+2026-05-12 11:56:25,994 - INFO -   Generating website_customers.csv...
+2026-05-12 11:58:02,082 - INFO - Generating synthetic source data...
+2026-05-12 11:58:02,082 - INFO -   Generating website_customers.csv...
+2026-05-12 11:58:02,105 - INFO -   website_customers.csv → 1020 records
+2026-05-12 11:58:02,105 - INFO -   Generating crm_export.json...
+2026-05-12 11:58:02,137 - INFO -   crm_export.json → 500 records
+2026-05-12 11:58:02,137 - INFO -   Generating erp_customers.txt...
+2026-05-12 11:58:02,151 - INFO -   erp_customers.txt → 250 records
+2026-05-12 11:58:02,151 - INFO - Synthetic data generation complete!
+2026-05-12 11:58:02,151 - INFO - Files saved to: data/raw
+2026-05-13 00:07:21,885 - INFO - Generating synthetic source data...
+2026-05-13 00:07:21,885 - INFO -   Generating website_customers.csv...
+2026-05-13 00:07:21,908 - INFO -   website_customers.csv → 1020 records
+2026-05-13 00:07:21,908 - INFO -   Generating crm_export.json...
+2026-05-13 00:07:21,941 - INFO -   crm_export.json → 500 records
+2026-05-13 00:07:21,941 - INFO -   Generating erp_customers.txt...
+2026-05-13 00:07:21,955 - INFO -   erp_customers.txt → 250 records
+2026-05-13 00:07:21,955 - INFO - Synthetic data generation complete!
+2026-05-13 00:07:21,955 - INFO - Files saved to: data/raw
+2026-05-13 11:05:11,328 - INFO - Starting ShopStream Customer Data Quality Pipeline...
+2026-05-13 11:05:11,329 - INFO - ============================================================
+2026-05-13 11:05:11,329 - INFO - INGESTION - Pulling all sources into raw DataFrames
+2026-05-13 11:05:11,329 - INFO - ============================================================
+2026-05-13 11:05:11,329 - INFO - Ingesting website data from: data/raw/website_customers.csv
+2026-05-13 11:05:11,356 - INFO - Removed 20 test accounts from website data.
+2026-05-13 11:05:11,357 - INFO - Finished ingesting website data. Records ingested: 1000
+2026-05-13 11:05:11,358 - INFO - Ingesting CRM data from: data/raw/crm_export.json
+2026-05-13 11:05:11,358 - INFO -   Top level keys: ['customers']
+2026-05-13 11:05:11,358 - INFO -   Total raw records: 500
+2026-05-13 11:05:11,362 - INFO - Finished ingesting CRM data. Records ingested: 500
+2026-05-13 11:05:11,362 - INFO - Ingesting ERP data from: data/raw/erp_customers.txt
+2026-05-13 11:05:11,373 - INFO - ============================================================
+2026-05-13 11:05:11,373 - INFO - INGESTION COMPLETE - Summary:
+
+2026-05-13 11:05:11,373 - INFO -   Total records ingested: 1750
+2026-05-13 11:05:11,373 - INFO -   By source:
+2026-05-13 11:05:11,373 - INFO -     website: 1000 records
+2026-05-13 11:05:11,373 - INFO -     crm: 500 records
+2026-05-13 11:05:11,373 - INFO -     erp: 250 records
+2026-05-13 11:05:11,373 - INFO - ============================================================
+2026-05-13 11:05:11,373 - INFO - ============================================================
+2026-05-13 11:05:11,373 - INFO - CLEANING — Standardising all fields
+2026-05-13 11:05:11,373 - INFO - ============================================================
+2026-05-13 11:05:11,373 - INFO - Records entering cleaning: 1750
+2026-05-13 11:05:11,373 - INFO -    Cleaning email addresses...
+2026-05-13 11:05:11,376 - INFO -       Total records: 1750
+2026-05-13 11:05:11,376 - INFO -       Valid emails: 1742
+2026-05-13 11:05:11,376 - INFO -       Invalid emails: 8
+2026-05-13 11:05:11,376 - INFO -       Null emails: 3
+2026-05-13 11:05:11,376 - INFO -    Cleaning names...
+2026-05-13 11:05:11,377 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:05:11,377 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:05:11,377 - INFO -    Cleaning phone numbers...
+2026-05-13 11:05:11,379 - INFO -       Null/invalid phones after cleaning: 431
+2026-05-13 11:05:11,379 - INFO -   Cleaning regions...
+2026-05-13 11:05:11,380 - INFO -     Successfully mapped: 1558
+2026-05-13 11:05:11,380 - INFO -     Unmapped (null):     192
+2026-05-13 11:05:11,380 - INFO -     Region distribution:
+2026-05-13 11:05:11,382 - INFO -       US: 601
+2026-05-13 11:05:11,382 - INFO -       EU: 578
+2026-05-13 11:05:11,382 - INFO -       APAC: 379
+2026-05-13 11:05:11,382 - INFO -   Handling null values...
+2026-05-13 11:05:11,383 - INFO -     Dropped 3 rows with null email
+2026-05-13 11:05:11,383 - INFO -     Remaining null phones:  431
+2026-05-13 11:05:11,383 - INFO -     Remaining null regions: 192
+2026-05-13 11:05:11,383 - INFO - ============================================================
+2026-05-13 11:05:11,383 - INFO - CLEANING COMPLETE
+2026-05-13 11:05:11,383 - INFO -   Records after cleaning: 1747
+2026-05-13 11:05:11,383 - INFO -   Valid emails:   1742
+2026-05-13 11:05:11,383 - INFO -   Null regions:   192
+2026-05-13 11:05:11,383 - INFO -   Null phones:    431
+2026-05-13 11:05:11,383 - INFO - ============================================================
+2026-05-13 11:05:11,383 - INFO - ============================================================
+2026-05-13 11:05:11,383 - INFO - DEDUPLICATION — Merging duplicate records
+2026-05-13 11:05:11,383 - INFO - ============================================================
+2026-05-13 11:05:11,383 - INFO - Records entering deduplication: 1747
+2026-05-13 11:05:11,383 - INFO -   Source priority assigned:
+2026-05-13 11:05:11,384 - INFO -     crm (priority 1): 498 records
+2026-05-13 11:05:11,384 - INFO -     website (priority 2): 999 records
+2026-05-13 11:05:11,384 - INFO -     erp (priority 3): 250 records
+2026-05-13 11:05:11,384 - INFO -     marketing (priority 4): 0 records
+2026-05-13 11:05:11,384 - INFO -   Pass 1: Deduplicating by email...
+2026-05-13 11:05:11,788 - INFO -     Valid email records before: 1742
+2026-05-13 11:05:11,789 - INFO -     Valid email records after:  723
+2026-05-13 11:05:11,789 - INFO -     Duplicates removed:         1019
+2026-05-13 11:05:11,789 - INFO -     Invalid email records kept: 5
+2026-05-13 11:05:11,789 - INFO -   Pass 2: Deduplicating by phone...
+2026-05-13 11:05:11,792 - INFO -     Phone records before: 5
+2026-05-13 11:05:11,792 - INFO -     Phone records after:  3
+2026-05-13 11:05:11,792 - INFO -     Duplicates removed:   2
+2026-05-13 11:05:11,793 - INFO - ============================================================
+2026-05-13 11:05:11,793 - INFO - DEDUPLICATION COMPLETE
+2026-05-13 11:05:11,793 - INFO -   Records before: 1747
+2026-05-13 11:05:11,793 - INFO -   Records after:  726
+2026-05-13 11:05:11,793 - INFO -   Duplicates removed:       1021
+2026-05-13 11:05:11,793 - INFO -   Multi-source records:     374
+2026-05-13 11:05:11,793 - INFO -   Opted out (GDPR flagged): 303
+2026-05-13 11:05:11,793 - INFO - ============================================================
+2026-05-13 11:05:11,793 - INFO -  STEP 4 - Quality Validation
+2026-05-13 11:05:11,793 - INFO - ============================================================
+2026-05-13 11:05:11,793 - INFO - VALIDATION — Running quality checks
+2026-05-13 11:05:11,793 - INFO - ============================================================
+2026-05-13 11:05:11,793 - INFO - Records entering validation: 726
+2026-05-13 11:05:11,797 - INFO - ============================================================
+2026-05-13 11:05:11,797 - INFO - DATA QUALITY REPORT
+2026-05-13 11:05:11,797 - INFO - Threshold: 95%
+2026-05-13 11:05:11,797 - INFO - ============================================================
+2026-05-13 11:05:11,797 - INFO -   [✓] NOT NULL: email
+        Every customer must have an email address
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:05:11,797 - INFO -   [✓] NOT NULL: first_name
+        Every customer must have a first name
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:05:11,797 - INFO -   [✓] NOT NULL: region
+        Every customer must have a region for campaign targeting
+        96.6% passed (25 failed of 726) → PASS
+2026-05-13 11:05:11,797 - INFO -   [✓] UNIQUE: email
+        No duplicate emails after deduplication
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:05:11,797 - INFO -   [✓] REGEX: email
+        All emails must be in valid format
+        99.6% passed (3 failed of 726) → PASS
+2026-05-13 11:05:11,797 - INFO -   [✓] VALUES IN SET: region
+        Region must be US, EU or APAC
+        100.0% passed (0 failed of 701) → PASS
+2026-05-13 11:05:11,797 - INFO -   [✓] DATE RANGE: registration_date
+        Registration dates must be between 2010 and today
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:05:11,797 - INFO - ============================================================
+2026-05-13 11:05:11,797 - INFO -   OVERALL RESULT: ALL CHECKS PASSED ✓
+2026-05-13 11:05:11,797 - INFO -   Data is ready for campaign delivery!
+2026-05-13 11:05:11,797 - INFO - ============================================================
+2026-05-13 11:05:11,797 - INFO - STEP 5: Generating EDA visualization...
+2026-05-13 11:05:30,632 - INFO - Starting ShopStream Customer Data Quality Pipeline...
+2026-05-13 11:05:30,633 - INFO - ============================================================
+2026-05-13 11:05:30,633 - INFO - INGESTION - Pulling all sources into raw DataFrames
+2026-05-13 11:05:30,633 - INFO - ============================================================
+2026-05-13 11:05:30,633 - INFO - Ingesting website data from: data/raw/website_customers.csv
+2026-05-13 11:05:30,666 - INFO - Removed 20 test accounts from website data.
+2026-05-13 11:05:30,667 - INFO - Finished ingesting website data. Records ingested: 1000
+2026-05-13 11:05:30,667 - INFO - Ingesting CRM data from: data/raw/crm_export.json
+2026-05-13 11:05:30,668 - INFO -   Top level keys: ['customers']
+2026-05-13 11:05:30,668 - INFO -   Total raw records: 500
+2026-05-13 11:05:30,672 - INFO - Finished ingesting CRM data. Records ingested: 500
+2026-05-13 11:05:30,672 - INFO - Ingesting ERP data from: data/raw/erp_customers.txt
+2026-05-13 11:05:30,683 - INFO - ============================================================
+2026-05-13 11:05:30,683 - INFO - INGESTION COMPLETE - Summary:
+
+2026-05-13 11:05:30,683 - INFO -   Total records ingested: 1750
+2026-05-13 11:05:30,683 - INFO -   By source:
+2026-05-13 11:05:30,683 - INFO -     website: 1000 records
+2026-05-13 11:05:30,684 - INFO -     crm: 500 records
+2026-05-13 11:05:30,684 - INFO -     erp: 250 records
+2026-05-13 11:05:30,684 - INFO - ============================================================
+2026-05-13 11:05:30,684 - INFO - ============================================================
+2026-05-13 11:05:30,684 - INFO - CLEANING — Standardising all fields
+2026-05-13 11:05:30,684 - INFO - ============================================================
+2026-05-13 11:05:30,684 - INFO - Records entering cleaning: 1750
+2026-05-13 11:05:30,684 - INFO -    Cleaning email addresses...
+2026-05-13 11:05:30,687 - INFO -       Total records: 1750
+2026-05-13 11:05:30,687 - INFO -       Valid emails: 1742
+2026-05-13 11:05:30,687 - INFO -       Invalid emails: 8
+2026-05-13 11:05:30,687 - INFO -       Null emails: 3
+2026-05-13 11:05:30,687 - INFO -    Cleaning names...
+2026-05-13 11:05:30,688 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:05:30,688 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:05:30,688 - INFO -    Cleaning phone numbers...
+2026-05-13 11:05:30,690 - INFO -       Null/invalid phones after cleaning: 431
+2026-05-13 11:05:30,690 - INFO -   Cleaning regions...
+2026-05-13 11:05:30,691 - INFO -     Successfully mapped: 1558
+2026-05-13 11:05:30,691 - INFO -     Unmapped (null):     192
+2026-05-13 11:05:30,691 - INFO -     Region distribution:
+2026-05-13 11:05:30,693 - INFO -       US: 601
+2026-05-13 11:05:30,693 - INFO -       EU: 578
+2026-05-13 11:05:30,693 - INFO -       APAC: 379
+2026-05-13 11:05:30,693 - INFO -   Handling null values...
+2026-05-13 11:05:30,694 - INFO -     Dropped 3 rows with null email
+2026-05-13 11:05:30,695 - INFO -     Remaining null phones:  431
+2026-05-13 11:05:30,695 - INFO -     Remaining null regions: 192
+2026-05-13 11:05:30,695 - INFO - ============================================================
+2026-05-13 11:05:30,695 - INFO - CLEANING COMPLETE
+2026-05-13 11:05:30,695 - INFO -   Records after cleaning: 1747
+2026-05-13 11:05:30,695 - INFO -   Valid emails:   1742
+2026-05-13 11:05:30,695 - INFO -   Null regions:   192
+2026-05-13 11:05:30,695 - INFO -   Null phones:    431
+2026-05-13 11:05:30,695 - INFO - ============================================================
+2026-05-13 11:05:30,695 - INFO - ============================================================
+2026-05-13 11:05:30,695 - INFO - DEDUPLICATION — Merging duplicate records
+2026-05-13 11:05:30,695 - INFO - ============================================================
+2026-05-13 11:05:30,695 - INFO - Records entering deduplication: 1747
+2026-05-13 11:05:30,695 - INFO -   Source priority assigned:
+2026-05-13 11:05:30,696 - INFO -     crm (priority 1): 498 records
+2026-05-13 11:05:30,696 - INFO -     website (priority 2): 999 records
+2026-05-13 11:05:30,696 - INFO -     erp (priority 3): 250 records
+2026-05-13 11:05:30,696 - INFO -     marketing (priority 4): 0 records
+2026-05-13 11:05:30,697 - INFO -   Pass 1: Deduplicating by email...
+2026-05-13 11:05:31,107 - INFO -     Valid email records before: 1742
+2026-05-13 11:05:31,107 - INFO -     Valid email records after:  723
+2026-05-13 11:05:31,107 - INFO -     Duplicates removed:         1019
+2026-05-13 11:05:31,107 - INFO -     Invalid email records kept: 5
+2026-05-13 11:05:31,107 - INFO -   Pass 2: Deduplicating by phone...
+2026-05-13 11:05:31,110 - INFO -     Phone records before: 5
+2026-05-13 11:05:31,110 - INFO -     Phone records after:  3
+2026-05-13 11:05:31,110 - INFO -     Duplicates removed:   2
+2026-05-13 11:05:31,112 - INFO - ============================================================
+2026-05-13 11:05:31,112 - INFO - DEDUPLICATION COMPLETE
+2026-05-13 11:05:31,112 - INFO -   Records before: 1747
+2026-05-13 11:05:31,112 - INFO -   Records after:  726
+2026-05-13 11:05:31,112 - INFO -   Duplicates removed:       1021
+2026-05-13 11:05:31,112 - INFO -   Multi-source records:     374
+2026-05-13 11:05:31,112 - INFO -   Opted out (GDPR flagged): 303
+2026-05-13 11:05:31,112 - INFO - ============================================================
+2026-05-13 11:05:31,112 - INFO -  STEP 4 - Quality Validation
+2026-05-13 11:05:31,112 - INFO - ============================================================
+2026-05-13 11:05:31,112 - INFO - VALIDATION — Running quality checks
+2026-05-13 11:05:31,112 - INFO - ============================================================
+2026-05-13 11:05:31,112 - INFO - Records entering validation: 726
+2026-05-13 11:05:31,115 - INFO - ============================================================
+2026-05-13 11:05:31,115 - INFO - DATA QUALITY REPORT
+2026-05-13 11:05:31,115 - INFO - Threshold: 95%
+2026-05-13 11:05:31,115 - INFO - ============================================================
+2026-05-13 11:05:31,116 - INFO -   [✓] NOT NULL: email
+        Every customer must have an email address
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:05:31,116 - INFO -   [✓] NOT NULL: first_name
+        Every customer must have a first name
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:05:31,116 - INFO -   [✓] NOT NULL: region
+        Every customer must have a region for campaign targeting
+        96.6% passed (25 failed of 726) → PASS
+2026-05-13 11:05:31,116 - INFO -   [✓] UNIQUE: email
+        No duplicate emails after deduplication
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:05:31,116 - INFO -   [✓] REGEX: email
+        All emails must be in valid format
+        99.6% passed (3 failed of 726) → PASS
+2026-05-13 11:05:31,116 - INFO -   [✓] VALUES IN SET: region
+        Region must be US, EU or APAC
+        100.0% passed (0 failed of 701) → PASS
+2026-05-13 11:05:31,116 - INFO -   [✓] DATE RANGE: registration_date
+        Registration dates must be between 2010 and today
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:05:31,116 - INFO - ============================================================
+2026-05-13 11:05:31,116 - INFO -   OVERALL RESULT: ALL CHECKS PASSED ✓
+2026-05-13 11:05:31,116 - INFO -   Data is ready for campaign delivery!
+2026-05-13 11:05:31,116 - INFO - ============================================================
+2026-05-13 11:05:31,116 - INFO - STEP 5: Generating EDA visualization...
+2026-05-13 11:05:31,559 - INFO -   EDA report saved: data/processed/customer_quality_report.png
+2026-05-13 11:05:31,560 - INFO - ============================================================
+2026-05-13 11:05:31,560 - INFO - PIPELINE COMPLETE
+2026-05-13 11:05:31,560 - INFO -   Input records:          1,750
+2026-05-13 11:05:31,560 - INFO -   Output (golden) records:726
+2026-05-13 11:05:31,560 - INFO -   Duplicates removed:     1,024
+2026-05-13 11:05:31,560 - INFO -   Quality checks passed:  7/7
+2026-05-13 11:05:31,560 - INFO -   Duration:               0.9s
+2026-05-13 11:05:31,560 - INFO - ============================================================
+2026-05-13 11:05:56,563 - INFO - Starting ShopStream Customer Data Quality Pipeline...
+2026-05-13 11:05:56,563 - INFO - ============================================================
+2026-05-13 11:05:56,563 - INFO - INGESTION - Pulling all sources into raw DataFrames
+2026-05-13 11:05:56,563 - INFO - ============================================================
+2026-05-13 11:05:56,563 - INFO - Ingesting website data from: data/raw/website_customers.csv
+2026-05-13 11:05:56,594 - INFO - Removed 20 test accounts from website data.
+2026-05-13 11:05:56,595 - INFO - Finished ingesting website data. Records ingested: 1000
+2026-05-13 11:05:56,596 - INFO - Ingesting CRM data from: data/raw/crm_export.json
+2026-05-13 11:05:56,596 - INFO -   Top level keys: ['customers']
+2026-05-13 11:05:56,596 - INFO -   Total raw records: 500
+2026-05-13 11:05:56,599 - INFO - Finished ingesting CRM data. Records ingested: 500
+2026-05-13 11:05:56,600 - INFO - Ingesting ERP data from: data/raw/erp_customers.txt
+2026-05-13 11:05:56,608 - INFO - ============================================================
+2026-05-13 11:05:56,608 - INFO - INGESTION COMPLETE - Summary:
+
+2026-05-13 11:05:56,608 - INFO -   Total records ingested: 1750
+2026-05-13 11:05:56,608 - INFO -   By source:
+2026-05-13 11:05:56,609 - INFO -     website: 1000 records
+2026-05-13 11:05:56,609 - INFO -     crm: 500 records
+2026-05-13 11:05:56,609 - INFO -     erp: 250 records
+2026-05-13 11:05:56,609 - INFO - ============================================================
+2026-05-13 11:05:56,609 - INFO - ============================================================
+2026-05-13 11:05:56,609 - INFO - CLEANING — Standardising all fields
+2026-05-13 11:05:56,609 - INFO - ============================================================
+2026-05-13 11:05:56,609 - INFO - Records entering cleaning: 1750
+2026-05-13 11:05:56,609 - INFO -    Cleaning email addresses...
+2026-05-13 11:05:56,611 - INFO -       Total records: 1750
+2026-05-13 11:05:56,611 - INFO -       Valid emails: 1742
+2026-05-13 11:05:56,611 - INFO -       Invalid emails: 8
+2026-05-13 11:05:56,611 - INFO -       Null emails: 3
+2026-05-13 11:05:56,611 - INFO -    Cleaning names...
+2026-05-13 11:05:56,612 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:05:56,612 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:05:56,612 - INFO -    Cleaning phone numbers...
+2026-05-13 11:05:56,614 - INFO -       Null/invalid phones after cleaning: 431
+2026-05-13 11:05:56,614 - INFO -   Cleaning regions...
+2026-05-13 11:05:56,615 - INFO -     Successfully mapped: 1558
+2026-05-13 11:05:56,615 - INFO -     Unmapped (null):     192
+2026-05-13 11:05:56,615 - INFO -     Region distribution:
+2026-05-13 11:05:56,617 - INFO -       US: 601
+2026-05-13 11:05:56,617 - INFO -       EU: 578
+2026-05-13 11:05:56,617 - INFO -       APAC: 379
+2026-05-13 11:05:56,617 - INFO -   Handling null values...
+2026-05-13 11:05:56,618 - INFO -     Dropped 3 rows with null email
+2026-05-13 11:05:56,618 - INFO -     Remaining null phones:  431
+2026-05-13 11:05:56,618 - INFO -     Remaining null regions: 192
+2026-05-13 11:05:56,618 - INFO - ============================================================
+2026-05-13 11:05:56,618 - INFO - CLEANING COMPLETE
+2026-05-13 11:05:56,618 - INFO -   Records after cleaning: 1747
+2026-05-13 11:05:56,618 - INFO -   Valid emails:   1742
+2026-05-13 11:05:56,618 - INFO -   Null regions:   192
+2026-05-13 11:05:56,618 - INFO -   Null phones:    431
+2026-05-13 11:05:56,618 - INFO - ============================================================
+2026-05-13 11:05:56,618 - INFO - ============================================================
+2026-05-13 11:05:56,618 - INFO - DEDUPLICATION — Merging duplicate records
+2026-05-13 11:05:56,618 - INFO - ============================================================
+2026-05-13 11:05:56,618 - INFO - Records entering deduplication: 1747
+2026-05-13 11:05:56,618 - INFO -   Source priority assigned:
+2026-05-13 11:05:56,619 - INFO -     crm (priority 1): 498 records
+2026-05-13 11:05:56,619 - INFO -     website (priority 2): 999 records
+2026-05-13 11:05:56,619 - INFO -     erp (priority 3): 250 records
+2026-05-13 11:05:56,619 - INFO -     marketing (priority 4): 0 records
+2026-05-13 11:05:56,620 - INFO -   Pass 1: Deduplicating by email...
+2026-05-13 11:05:57,017 - INFO -     Valid email records before: 1742
+2026-05-13 11:05:57,017 - INFO -     Valid email records after:  723
+2026-05-13 11:05:57,017 - INFO -     Duplicates removed:         1019
+2026-05-13 11:05:57,017 - INFO -     Invalid email records kept: 5
+2026-05-13 11:05:57,017 - INFO -   Pass 2: Deduplicating by phone...
+2026-05-13 11:05:57,020 - INFO -     Phone records before: 5
+2026-05-13 11:05:57,020 - INFO -     Phone records after:  3
+2026-05-13 11:05:57,020 - INFO -     Duplicates removed:   2
+2026-05-13 11:05:57,022 - INFO - ============================================================
+2026-05-13 11:05:57,022 - INFO - DEDUPLICATION COMPLETE
+2026-05-13 11:05:57,022 - INFO -   Records before: 1747
+2026-05-13 11:05:57,022 - INFO -   Records after:  726
+2026-05-13 11:05:57,022 - INFO -   Duplicates removed:       1021
+2026-05-13 11:05:57,022 - INFO -   Multi-source records:     374
+2026-05-13 11:05:57,022 - INFO -   Opted out (GDPR flagged): 303
+2026-05-13 11:05:57,022 - INFO - ============================================================
+2026-05-13 11:05:57,022 - INFO -  STEP 4 - Quality Validation
+2026-05-13 11:05:57,022 - INFO - ============================================================
+2026-05-13 11:05:57,022 - INFO - VALIDATION — Running quality checks
+2026-05-13 11:05:57,022 - INFO - ============================================================
+2026-05-13 11:05:57,022 - INFO - Records entering validation: 726
+2026-05-13 11:05:57,025 - INFO - ============================================================
+2026-05-13 11:05:57,025 - INFO - DATA QUALITY REPORT
+2026-05-13 11:05:57,025 - INFO - Threshold: 95%
+2026-05-13 11:05:57,025 - INFO - ============================================================
+2026-05-13 11:05:57,025 - INFO -   [✓] NOT NULL: email
+        Every customer must have an email address
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:05:57,025 - INFO -   [✓] NOT NULL: first_name
+        Every customer must have a first name
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:05:57,025 - INFO -   [✓] NOT NULL: region
+        Every customer must have a region for campaign targeting
+        96.6% passed (25 failed of 726) → PASS
+2026-05-13 11:05:57,025 - INFO -   [✓] UNIQUE: email
+        No duplicate emails after deduplication
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:05:57,025 - INFO -   [✓] REGEX: email
+        All emails must be in valid format
+        99.6% passed (3 failed of 726) → PASS
+2026-05-13 11:05:57,025 - INFO -   [✓] VALUES IN SET: region
+        Region must be US, EU or APAC
+        100.0% passed (0 failed of 701) → PASS
+2026-05-13 11:05:57,025 - INFO -   [✓] DATE RANGE: registration_date
+        Registration dates must be between 2010 and today
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:05:57,025 - INFO - ============================================================
+2026-05-13 11:05:57,025 - INFO -   OVERALL RESULT: ALL CHECKS PASSED ✓
+2026-05-13 11:05:57,025 - INFO -   Data is ready for campaign delivery!
+2026-05-13 11:05:57,025 - INFO - ============================================================
+2026-05-13 11:05:57,025 - INFO - STEP 5: Generating EDA visualization...
+2026-05-13 11:05:57,467 - INFO -   EDA report saved: data/processed/customer_quality_report.png
+2026-05-13 11:05:57,467 - INFO - ============================================================
+2026-05-13 11:05:57,467 - INFO - PIPELINE COMPLETE
+2026-05-13 11:05:57,467 - INFO -   Input records:          1,750
+2026-05-13 11:05:57,467 - INFO -   Output (golden) records:726
+2026-05-13 11:05:57,467 - INFO -   Duplicates removed:     1,024
+2026-05-13 11:05:57,467 - INFO -   Quality checks passed:  7/7
+2026-05-13 11:05:57,467 - INFO -   Duration:               0.9s
+2026-05-13 11:05:57,467 - INFO - ============================================================
+2026-05-13 11:08:13,866 - INFO - Starting ShopStream Customer Data Quality Pipeline...
+2026-05-13 11:08:13,866 - INFO - ============================================================
+2026-05-13 11:08:13,866 - INFO - INGESTION - Pulling all sources into raw DataFrames
+2026-05-13 11:08:13,866 - INFO - ============================================================
+2026-05-13 11:08:13,866 - INFO - Ingesting website data from: data/raw/website_customers.csv
+2026-05-13 11:08:13,898 - INFO - Removed 20 test accounts from website data.
+2026-05-13 11:08:13,899 - INFO - Finished ingesting website data. Records ingested: 1000
+2026-05-13 11:08:13,900 - INFO - Ingesting CRM data from: data/raw/crm_export.json
+2026-05-13 11:08:13,901 - INFO -   Top level keys: ['customers']
+2026-05-13 11:08:13,901 - INFO -   Total raw records: 500
+2026-05-13 11:08:13,904 - INFO - Finished ingesting CRM data. Records ingested: 500
+2026-05-13 11:08:13,904 - INFO - Ingesting ERP data from: data/raw/erp_customers.txt
+2026-05-13 11:08:13,914 - INFO - ============================================================
+2026-05-13 11:08:13,914 - INFO - INGESTION COMPLETE - Summary:
+
+2026-05-13 11:08:13,914 - INFO -   Total records ingested: 1750
+2026-05-13 11:08:13,914 - INFO -   By source:
+2026-05-13 11:08:13,914 - INFO -     website: 1000 records
+2026-05-13 11:08:13,915 - INFO -     crm: 500 records
+2026-05-13 11:08:13,915 - INFO -     erp: 250 records
+2026-05-13 11:08:13,915 - INFO - ============================================================
+2026-05-13 11:08:13,915 - INFO - ============================================================
+2026-05-13 11:08:13,915 - INFO - CLEANING — Standardising all fields
+2026-05-13 11:08:13,915 - INFO - ============================================================
+2026-05-13 11:08:13,915 - INFO - Records entering cleaning: 1750
+2026-05-13 11:08:13,915 - INFO -    Cleaning email addresses...
+2026-05-13 11:08:13,917 - INFO -       Total records: 1750
+2026-05-13 11:08:13,917 - INFO -       Valid emails: 1742
+2026-05-13 11:08:13,917 - INFO -       Invalid emails: 8
+2026-05-13 11:08:13,917 - INFO -       Null emails: 3
+2026-05-13 11:08:13,917 - INFO -    Cleaning names...
+2026-05-13 11:08:13,918 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:08:13,918 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:08:13,918 - INFO -    Cleaning phone numbers...
+2026-05-13 11:08:13,920 - INFO -       Null/invalid phones after cleaning: 431
+2026-05-13 11:08:13,920 - INFO -   Cleaning regions...
+2026-05-13 11:08:13,921 - INFO -     Successfully mapped: 1558
+2026-05-13 11:08:13,921 - INFO -     Unmapped (null):     192
+2026-05-13 11:08:13,921 - INFO -     Region distribution:
+2026-05-13 11:08:13,922 - INFO -       US: 601
+2026-05-13 11:08:13,922 - INFO -       EU: 578
+2026-05-13 11:08:13,922 - INFO -       APAC: 379
+2026-05-13 11:08:13,922 - INFO -   Handling null values...
+2026-05-13 11:08:13,923 - INFO -     Dropped 3 rows with null email
+2026-05-13 11:08:13,923 - INFO -     Remaining null phones:  431
+2026-05-13 11:08:13,924 - INFO -     Remaining null regions: 192
+2026-05-13 11:08:13,924 - INFO - ============================================================
+2026-05-13 11:08:13,924 - INFO - CLEANING COMPLETE
+2026-05-13 11:08:13,924 - INFO -   Records after cleaning: 1747
+2026-05-13 11:08:13,924 - INFO -   Valid emails:   1742
+2026-05-13 11:08:13,924 - INFO -   Null regions:   192
+2026-05-13 11:08:13,924 - INFO -   Null phones:    431
+2026-05-13 11:08:13,924 - INFO - ============================================================
+2026-05-13 11:08:13,924 - INFO - ============================================================
+2026-05-13 11:08:13,924 - INFO - DEDUPLICATION — Merging duplicate records
+2026-05-13 11:08:13,924 - INFO - ============================================================
+2026-05-13 11:08:13,924 - INFO - Records entering deduplication: 1747
+2026-05-13 11:08:13,924 - INFO -   Source priority assigned:
+2026-05-13 11:08:13,924 - INFO -     crm (priority 1): 498 records
+2026-05-13 11:08:13,925 - INFO -     website (priority 2): 999 records
+2026-05-13 11:08:13,925 - INFO -     erp (priority 3): 250 records
+2026-05-13 11:08:13,925 - INFO -     marketing (priority 4): 0 records
+2026-05-13 11:08:13,925 - INFO -   Pass 1: Deduplicating by email...
+2026-05-13 11:08:14,320 - INFO -     Valid email records before: 1742
+2026-05-13 11:08:14,320 - INFO -     Valid email records after:  723
+2026-05-13 11:08:14,320 - INFO -     Duplicates removed:         1019
+2026-05-13 11:08:14,320 - INFO -     Invalid email records kept: 5
+2026-05-13 11:08:14,320 - INFO -   Pass 2: Deduplicating by phone...
+2026-05-13 11:08:14,323 - INFO -     Phone records before: 5
+2026-05-13 11:08:14,323 - INFO -     Phone records after:  3
+2026-05-13 11:08:14,323 - INFO -     Duplicates removed:   2
+2026-05-13 11:08:14,324 - INFO - ============================================================
+2026-05-13 11:08:14,324 - INFO - DEDUPLICATION COMPLETE
+2026-05-13 11:08:14,324 - INFO -   Records before: 1747
+2026-05-13 11:08:14,324 - INFO -   Records after:  726
+2026-05-13 11:08:14,324 - INFO -   Duplicates removed:       1021
+2026-05-13 11:08:14,324 - INFO -   Multi-source records:     374
+2026-05-13 11:08:14,324 - INFO -   Opted out (GDPR flagged): 303
+2026-05-13 11:08:14,324 - INFO - ============================================================
+2026-05-13 11:08:14,325 - INFO -  STEP 4 - Quality Validation
+2026-05-13 11:08:14,325 - INFO - ============================================================
+2026-05-13 11:08:14,325 - INFO - VALIDATION — Running quality checks
+2026-05-13 11:08:14,325 - INFO - ============================================================
+2026-05-13 11:08:14,325 - INFO - Records entering validation: 726
+2026-05-13 11:08:14,327 - INFO - ============================================================
+2026-05-13 11:08:14,327 - INFO - DATA QUALITY REPORT
+2026-05-13 11:08:14,327 - INFO - Threshold: 95%
+2026-05-13 11:08:14,327 - INFO - ============================================================
+2026-05-13 11:08:14,327 - INFO -   [✓] NOT NULL: email
+        Every customer must have an email address
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:08:14,327 - INFO -   [✓] NOT NULL: first_name
+        Every customer must have a first name
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:08:14,327 - INFO -   [✓] NOT NULL: region
+        Every customer must have a region for campaign targeting
+        96.6% passed (25 failed of 726) → PASS
+2026-05-13 11:08:14,328 - INFO -   [✓] UNIQUE: email
+        No duplicate emails after deduplication
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:08:14,328 - INFO -   [✓] REGEX: email
+        All emails must be in valid format
+        99.6% passed (3 failed of 726) → PASS
+2026-05-13 11:08:14,328 - INFO -   [✓] VALUES IN SET: region
+        Region must be US, EU or APAC
+        100.0% passed (0 failed of 701) → PASS
+2026-05-13 11:08:14,328 - INFO -   [✓] DATE RANGE: registration_date
+        Registration dates must be between 2010 and today
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:08:14,328 - INFO - ============================================================
+2026-05-13 11:08:14,328 - INFO -   OVERALL RESULT: ALL CHECKS PASSED ✓
+2026-05-13 11:08:14,328 - INFO -   Data is ready for campaign delivery!
+2026-05-13 11:08:14,328 - INFO - ============================================================
+2026-05-13 11:08:14,328 - INFO - ============================================================
+2026-05-13 11:08:14,328 - INFO - EXPORT — Delivering outputs
+2026-05-13 11:08:14,328 - INFO - ============================================================
+2026-05-13 11:08:14,371 - INFO -   Parquet export: data/processed/golden_customers.parquet (19.2 KB)
+2026-05-13 11:08:14,374 - INFO -   CSV export: data/processed/golden_customers.csv (84.4 KB)
+2026-05-13 11:08:14,375 - INFO -   Quality report: data/processed/quality_report.csv
+2026-05-13 11:08:14,376 - INFO -   Campaign file: data/processed/campaign_customers.csv (19.6 KB)
+2026-05-13 11:08:14,376 - INFO -   Campaign ready customers: 407
+2026-05-13 11:08:14,377 - INFO -     EU: 166 customers
+2026-05-13 11:08:14,377 - INFO -     US: 154 customers
+2026-05-13 11:08:14,377 - INFO -     APAC: 87 customers
+2026-05-13 11:08:14,377 - INFO - STEP 5: Generating EDA visualization...
+2026-05-13 11:08:15,024 - INFO -   EDA report saved: data/processed/customer_quality_report.png
+2026-05-13 11:08:15,024 - INFO - ============================================================
+2026-05-13 11:08:15,024 - INFO - EXPORT COMPLETE
+2026-05-13 11:08:15,024 - INFO -   All files saved to: data/processed
+2026-05-13 11:08:15,024 - INFO - ============================================================
+2026-05-13 11:08:15,024 - INFO - ============================================================
+2026-05-13 11:08:15,024 - INFO - PIPELINE COMPLETE
+2026-05-13 11:08:15,024 - INFO -   Input records:          1,750
+2026-05-13 11:08:15,024 - INFO -   Output (golden) records:726
+2026-05-13 11:08:15,024 - INFO -   Duplicates removed:     1,024
+2026-05-13 11:08:15,024 - INFO -   Quality checks passed:  7/7
+2026-05-13 11:08:15,024 - INFO -   Duration:               1.2s
+2026-05-13 11:08:15,025 - INFO - ============================================================
+2026-05-13 11:11:11,358 - INFO - Starting ShopStream Customer Data Quality Pipeline...
+2026-05-13 11:11:11,358 - INFO - ============================================================
+2026-05-13 11:11:11,358 - INFO - INGESTION - Pulling all sources into raw DataFrames
+2026-05-13 11:11:11,359 - INFO - ============================================================
+2026-05-13 11:11:11,359 - INFO - Ingesting website data from: data/raw/website_customers.csv
+2026-05-13 11:11:11,393 - INFO - Removed 20 test accounts from website data.
+2026-05-13 11:11:11,394 - INFO - Finished ingesting website data. Records ingested: 1000
+2026-05-13 11:11:11,395 - INFO - Ingesting CRM data from: data/raw/crm_export.json
+2026-05-13 11:11:11,395 - INFO -   Top level keys: ['customers']
+2026-05-13 11:11:11,396 - INFO -   Total raw records: 500
+2026-05-13 11:11:11,398 - INFO - Finished ingesting CRM data. Records ingested: 500
+2026-05-13 11:11:11,399 - INFO - Ingesting ERP data from: data/raw/erp_customers.txt
+2026-05-13 11:11:11,407 - INFO - ============================================================
+2026-05-13 11:11:11,407 - INFO - INGESTION COMPLETE - Summary:
+
+2026-05-13 11:11:11,407 - INFO -   Total records ingested: 1750
+2026-05-13 11:11:11,407 - INFO -   By source:
+2026-05-13 11:11:11,408 - INFO -     website: 1000 records
+2026-05-13 11:11:11,408 - INFO -     crm: 500 records
+2026-05-13 11:11:11,408 - INFO -     erp: 250 records
+2026-05-13 11:11:11,408 - INFO - ============================================================
+2026-05-13 11:11:11,408 - INFO - ============================================================
+2026-05-13 11:11:11,408 - INFO - CLEANING — Standardising all fields
+2026-05-13 11:11:11,408 - INFO - ============================================================
+2026-05-13 11:11:11,408 - INFO - Records entering cleaning: 1750
+2026-05-13 11:11:11,408 - INFO -    Cleaning email addresses...
+2026-05-13 11:11:11,410 - INFO -       Total records: 1750
+2026-05-13 11:11:11,410 - INFO -       Valid emails: 1742
+2026-05-13 11:11:11,410 - INFO -       Invalid emails: 8
+2026-05-13 11:11:11,410 - INFO -       Null emails: 3
+2026-05-13 11:11:11,410 - INFO -    Cleaning names...
+2026-05-13 11:11:11,411 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:11:11,411 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:11:11,411 - INFO -    Cleaning phone numbers...
+2026-05-13 11:11:11,413 - INFO -       Null/invalid phones after cleaning: 431
+2026-05-13 11:11:11,413 - INFO -   Cleaning regions...
+2026-05-13 11:11:11,414 - INFO -     Successfully mapped: 1558
+2026-05-13 11:11:11,414 - INFO -     Unmapped (null):     192
+2026-05-13 11:11:11,414 - INFO -     Region distribution:
+2026-05-13 11:11:11,416 - INFO -       US: 601
+2026-05-13 11:11:11,416 - INFO -       EU: 578
+2026-05-13 11:11:11,416 - INFO -       APAC: 379
+2026-05-13 11:11:11,416 - INFO -   Handling null values...
+2026-05-13 11:11:11,417 - INFO -     Dropped 3 rows with null email
+2026-05-13 11:11:11,417 - INFO -     Remaining null phones:  431
+2026-05-13 11:11:11,417 - INFO -     Remaining null regions: 192
+2026-05-13 11:11:11,417 - INFO - ============================================================
+2026-05-13 11:11:11,417 - INFO - CLEANING COMPLETE
+2026-05-13 11:11:11,417 - INFO -   Records after cleaning: 1747
+2026-05-13 11:11:11,417 - INFO -   Valid emails:   1742
+2026-05-13 11:11:11,417 - INFO -   Null regions:   192
+2026-05-13 11:11:11,417 - INFO -   Null phones:    431
+2026-05-13 11:11:11,417 - INFO - ============================================================
+2026-05-13 11:11:11,417 - INFO - ============================================================
+2026-05-13 11:11:11,417 - INFO - DEDUPLICATION — Merging duplicate records
+2026-05-13 11:11:11,417 - INFO - ============================================================
+2026-05-13 11:11:11,417 - INFO - Records entering deduplication: 1747
+2026-05-13 11:11:11,417 - INFO -   Source priority assigned:
+2026-05-13 11:11:11,418 - INFO -     crm (priority 1): 498 records
+2026-05-13 11:11:11,418 - INFO -     website (priority 2): 999 records
+2026-05-13 11:11:11,418 - INFO -     erp (priority 3): 250 records
+2026-05-13 11:11:11,418 - INFO -     marketing (priority 4): 0 records
+2026-05-13 11:11:11,418 - INFO -   Pass 1: Deduplicating by email...
+2026-05-13 11:11:11,819 - INFO -     Valid email records before: 1742
+2026-05-13 11:11:11,819 - INFO -     Valid email records after:  723
+2026-05-13 11:11:11,819 - INFO -     Duplicates removed:         1019
+2026-05-13 11:11:11,819 - INFO -     Invalid email records kept: 5
+2026-05-13 11:11:11,819 - INFO -   Pass 2: Deduplicating by phone...
+2026-05-13 11:11:11,822 - INFO -     Phone records before: 5
+2026-05-13 11:11:11,822 - INFO -     Phone records after:  3
+2026-05-13 11:11:11,822 - INFO -     Duplicates removed:   2
+2026-05-13 11:11:11,823 - INFO - ============================================================
+2026-05-13 11:11:11,823 - INFO - DEDUPLICATION COMPLETE
+2026-05-13 11:11:11,823 - INFO -   Records before: 1747
+2026-05-13 11:11:11,823 - INFO -   Records after:  726
+2026-05-13 11:11:11,823 - INFO -   Duplicates removed:       1021
+2026-05-13 11:11:11,823 - INFO -   Multi-source records:     374
+2026-05-13 11:11:11,823 - INFO -   Opted out (GDPR flagged): 303
+2026-05-13 11:11:11,823 - INFO - ============================================================
+2026-05-13 11:11:11,823 - INFO - ============================================================
+2026-05-13 11:11:11,823 - INFO - VALIDATION — Running quality checks
+2026-05-13 11:11:11,823 - INFO - ============================================================
+2026-05-13 11:11:11,823 - INFO - Records entering validation: 726
+2026-05-13 11:11:11,826 - INFO - ============================================================
+2026-05-13 11:11:11,826 - INFO - DATA QUALITY REPORT
+2026-05-13 11:11:11,826 - INFO - Threshold: 95%
+2026-05-13 11:11:11,827 - INFO - ============================================================
+2026-05-13 11:11:11,827 - INFO -   [✓] NOT NULL: email
+        Every customer must have an email address
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:11:11,827 - INFO -   [✓] NOT NULL: first_name
+        Every customer must have a first name
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:11:11,827 - INFO -   [✓] NOT NULL: region
+        Every customer must have a region for campaign targeting
+        96.6% passed (25 failed of 726) → PASS
+2026-05-13 11:11:11,827 - INFO -   [✓] UNIQUE: email
+        No duplicate emails after deduplication
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:11:11,827 - INFO -   [✓] REGEX: email
+        All emails must be in valid format
+        99.6% passed (3 failed of 726) → PASS
+2026-05-13 11:11:11,827 - INFO -   [✓] VALUES IN SET: region
+        Region must be US, EU or APAC
+        100.0% passed (0 failed of 701) → PASS
+2026-05-13 11:11:11,827 - INFO -   [✓] DATE RANGE: registration_date
+        Registration dates must be between 2010 and today
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:11:11,827 - INFO - ============================================================
+2026-05-13 11:11:11,827 - INFO -   OVERALL RESULT: ALL CHECKS PASSED ✓
+2026-05-13 11:11:11,827 - INFO -   Data is ready for campaign delivery!
+2026-05-13 11:11:11,827 - INFO - ============================================================
+2026-05-13 11:11:11,827 - INFO - ============================================================
+2026-05-13 11:11:11,827 - INFO - EXPORT — Delivering outputs
+2026-05-13 11:11:11,827 - INFO - ============================================================
+2026-05-13 11:11:11,863 - INFO -   Parquet export: data/processed/golden_customers.parquet (19.2 KB)
+2026-05-13 11:11:11,867 - INFO -   CSV export: data/processed/golden_customers.csv (84.4 KB)
+2026-05-13 11:11:11,867 - INFO -   Quality report: data/processed/quality_report.csv
+2026-05-13 11:11:11,869 - INFO -   Campaign file: data/processed/campaign_customers.csv (19.6 KB)
+2026-05-13 11:11:11,869 - INFO -   Campaign ready customers: 407
+2026-05-13 11:11:11,869 - INFO -     EU: 166 customers
+2026-05-13 11:11:11,869 - INFO -     US: 154 customers
+2026-05-13 11:11:11,869 - INFO -     APAC: 87 customers
+2026-05-13 11:11:11,869 - INFO - STEP 5: Generating EDA visualization...
+2026-05-13 11:11:12,567 - INFO -   EDA report saved: data/processed/customer_quality_report.png
+2026-05-13 11:11:12,567 - INFO - ============================================================
+2026-05-13 11:11:12,567 - INFO - EXPORT COMPLETE
+2026-05-13 11:11:12,567 - INFO -   All files saved to: data/processed
+2026-05-13 11:11:12,567 - INFO - ============================================================
+2026-05-13 11:11:12,567 - INFO - ============================================================
+2026-05-13 11:11:12,567 - INFO - PIPELINE COMPLETE
+2026-05-13 11:11:12,567 - INFO -   Input records:          1,750
+2026-05-13 11:11:12,567 - INFO -   Output (golden) records:726
+2026-05-13 11:11:12,567 - INFO -   Duplicates removed:     1,024
+2026-05-13 11:11:12,567 - INFO -   Quality checks passed:  7/7
+2026-05-13 11:11:12,567 - INFO -   Duration:               1.2s
+2026-05-13 11:11:12,567 - INFO - ============================================================
+2026-05-13 11:24:44,854 - INFO - Starting ShopStream Customer Data Quality Pipeline...
+2026-05-13 11:24:44,855 - INFO - ============================================================
+2026-05-13 11:24:44,855 - INFO - INGESTION - Pulling all sources into raw DataFrames
+2026-05-13 11:24:44,855 - INFO - ============================================================
+2026-05-13 11:24:44,855 - INFO - Ingesting website data from: data/raw/website_customers.csv
+2026-05-13 11:24:44,891 - INFO - Removed 20 test accounts from website data.
+2026-05-13 11:24:44,891 - INFO - Finished ingesting website data. Records ingested: 1000
+2026-05-13 11:24:44,892 - INFO - Ingesting CRM data from: data/raw/crm_export.json
+2026-05-13 11:24:44,893 - INFO -   Top level keys: ['customers']
+2026-05-13 11:24:44,893 - INFO -   Total raw records: 500
+2026-05-13 11:24:44,896 - INFO - Finished ingesting CRM data. Records ingested: 500
+2026-05-13 11:24:44,897 - INFO - Ingesting ERP data from: data/raw/erp_customers.txt
+2026-05-13 11:24:44,905 - INFO - ============================================================
+2026-05-13 11:24:44,906 - INFO - INGESTION COMPLETE - Summary:
+
+2026-05-13 11:24:44,906 - INFO -   Total records ingested: 1750
+2026-05-13 11:24:44,906 - INFO -   By source:
+2026-05-13 11:24:44,906 - INFO -     website: 1000 records
+2026-05-13 11:24:44,906 - INFO -     crm: 500 records
+2026-05-13 11:24:44,906 - INFO -     erp: 250 records
+2026-05-13 11:24:44,906 - INFO - ============================================================
+2026-05-13 11:24:44,906 - INFO - ============================================================
+2026-05-13 11:24:44,906 - INFO - CLEANING — Standardising all fields
+2026-05-13 11:24:44,906 - INFO - ============================================================
+2026-05-13 11:24:44,906 - INFO - Records entering cleaning: 1750
+2026-05-13 11:24:44,906 - INFO -    Cleaning email addresses...
+2026-05-13 11:24:44,908 - INFO -       Total records: 1750
+2026-05-13 11:24:44,908 - INFO -       Valid emails: 1742
+2026-05-13 11:24:44,909 - INFO -       Invalid emails: 8
+2026-05-13 11:24:44,909 - INFO -       Null emails: 3
+2026-05-13 11:24:44,909 - INFO -    Cleaning names...
+2026-05-13 11:24:44,909 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:24:44,909 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:24:44,909 - INFO -    Cleaning phone numbers...
+2026-05-13 11:24:44,912 - INFO -       Null/invalid phones after cleaning: 431
+2026-05-13 11:24:44,912 - INFO -   Cleaning regions...
+2026-05-13 11:24:44,913 - INFO -     Successfully mapped: 1558
+2026-05-13 11:24:44,913 - INFO -     Unmapped (null):     192
+2026-05-13 11:24:44,913 - INFO -     Region distribution:
+2026-05-13 11:24:44,915 - INFO -       US: 601
+2026-05-13 11:24:44,915 - INFO -       EU: 578
+2026-05-13 11:24:44,915 - INFO -       APAC: 379
+2026-05-13 11:24:44,915 - INFO -   Handling null values...
+2026-05-13 11:24:44,941 - INFO -     Dropped 3 rows with null email
+2026-05-13 11:24:44,954 - INFO -     Remaining null phones:  431
+2026-05-13 11:24:44,954 - INFO -     Remaining null regions: 192
+2026-05-13 11:24:44,954 - INFO - ============================================================
+2026-05-13 11:24:44,954 - INFO - CLEANING COMPLETE
+2026-05-13 11:24:44,954 - INFO -   Records after cleaning: 1747
+2026-05-13 11:24:44,954 - INFO -   Valid emails:   1742
+2026-05-13 11:24:44,954 - INFO -   Null regions:   192
+2026-05-13 11:24:44,961 - INFO -   Null phones:    431
+2026-05-13 11:24:44,961 - INFO - ============================================================
+2026-05-13 11:24:44,962 - INFO - ============================================================
+2026-05-13 11:24:44,962 - INFO - DEDUPLICATION — Merging duplicate records
+2026-05-13 11:24:44,962 - INFO - ============================================================
+2026-05-13 11:24:44,962 - INFO - Records entering deduplication: 1747
+2026-05-13 11:24:44,963 - INFO -   Source priority assigned:
+2026-05-13 11:24:44,963 - INFO -     crm (priority 1): 498 records
+2026-05-13 11:24:44,963 - INFO -     website (priority 2): 999 records
+2026-05-13 11:24:44,963 - INFO -     erp (priority 3): 250 records
+2026-05-13 11:24:44,963 - INFO -     marketing (priority 4): 0 records
+2026-05-13 11:24:44,964 - INFO -   Pass 1: Deduplicating by email...
+2026-05-13 11:24:45,370 - INFO -     Valid email records before: 1742
+2026-05-13 11:24:45,370 - INFO -     Valid email records after:  723
+2026-05-13 11:24:45,370 - INFO -     Duplicates removed:         1019
+2026-05-13 11:24:45,370 - INFO -     Invalid email records kept: 5
+2026-05-13 11:24:45,370 - INFO -   Pass 2: Deduplicating by phone...
+2026-05-13 11:24:45,373 - INFO -     Phone records before: 5
+2026-05-13 11:24:45,373 - INFO -     Phone records after:  3
+2026-05-13 11:24:45,373 - INFO -     Duplicates removed:   2
+2026-05-13 11:24:45,374 - INFO - ============================================================
+2026-05-13 11:24:45,374 - INFO - DEDUPLICATION COMPLETE
+2026-05-13 11:24:45,374 - INFO -   Records before: 1747
+2026-05-13 11:24:45,374 - INFO -   Records after:  726
+2026-05-13 11:24:45,374 - INFO -   Duplicates removed:       1021
+2026-05-13 11:24:45,374 - INFO -   Multi-source records:     374
+2026-05-13 11:24:45,374 - INFO -   Opted out (GDPR flagged): 303
+2026-05-13 11:24:45,374 - INFO - ============================================================
+2026-05-13 11:24:45,375 - INFO - ============================================================
+2026-05-13 11:24:45,375 - INFO - VALIDATION — Running quality checks
+2026-05-13 11:24:45,375 - INFO - ============================================================
+2026-05-13 11:24:45,375 - INFO - Records entering validation: 726
+2026-05-13 11:24:45,378 - INFO - ============================================================
+2026-05-13 11:24:45,378 - INFO - DATA QUALITY REPORT
+2026-05-13 11:24:45,378 - INFO - Threshold: 95%
+2026-05-13 11:24:45,378 - INFO - ============================================================
+2026-05-13 11:24:45,378 - INFO -   [✓] NOT NULL: email
+        Every customer must have an email address
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:24:45,378 - INFO -   [✓] NOT NULL: first_name
+        Every customer must have a first name
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:24:45,378 - INFO -   [✓] NOT NULL: region
+        Every customer must have a region for campaign targeting
+        96.6% passed (25 failed of 726) → PASS
+2026-05-13 11:24:45,378 - INFO -   [✓] UNIQUE: email
+        No duplicate emails after deduplication
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:24:45,378 - INFO -   [✓] REGEX: email
+        All emails must be in valid format
+        99.6% passed (3 failed of 726) → PASS
+2026-05-13 11:24:45,378 - INFO -   [✓] VALUES IN SET: region
+        Region must be US, EU or APAC
+        100.0% passed (0 failed of 701) → PASS
+2026-05-13 11:24:45,378 - INFO -   [✓] DATE RANGE: registration_date
+        Registration dates must be between 2010 and today
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:24:45,378 - INFO - ============================================================
+2026-05-13 11:24:45,378 - INFO -   OVERALL RESULT: ALL CHECKS PASSED ✓
+2026-05-13 11:24:45,378 - INFO -   Data is ready for campaign delivery!
+2026-05-13 11:24:45,378 - INFO - ============================================================
+2026-05-13 11:24:45,378 - INFO - ============================================================
+2026-05-13 11:24:45,378 - INFO - EXPORT — Delivering outputs
+2026-05-13 11:24:45,378 - INFO - ============================================================
+2026-05-13 11:24:45,420 - INFO -   Parquet export: data/processed/golden_customers.parquet (19.2 KB)
+2026-05-13 11:24:45,424 - INFO -   CSV export: data/processed/golden_customers.csv (84.4 KB)
+2026-05-13 11:24:45,424 - INFO -   Quality report: data/processed/quality_report.csv
+2026-05-13 11:24:45,426 - INFO -   Campaign file: data/processed/campaign_customers.csv (19.6 KB)
+2026-05-13 11:24:45,426 - INFO -   Campaign ready customers: 407
+2026-05-13 11:24:45,426 - INFO -     EU: 166 customers
+2026-05-13 11:24:45,426 - INFO -     US: 154 customers
+2026-05-13 11:24:45,426 - INFO -     APAC: 87 customers
+2026-05-13 11:24:45,426 - INFO - STEP 5: Generating EDA visualization...
+2026-05-13 11:24:46,235 - INFO -   EDA report saved: data/processed/customer_quality_report.png
+2026-05-13 11:24:46,235 - INFO - ============================================================
+2026-05-13 11:24:46,235 - INFO - EXPORT COMPLETE
+2026-05-13 11:24:46,235 - INFO -   All files saved to: data/processed
+2026-05-13 11:24:46,235 - INFO - ============================================================
+2026-05-13 11:24:46,235 - INFO - ============================================================
+2026-05-13 11:24:46,235 - INFO - PIPELINE COMPLETE
+2026-05-13 11:24:46,235 - INFO -   Input records:          1,750
+2026-05-13 11:24:46,235 - INFO -   Output (golden) records:726
+2026-05-13 11:24:46,236 - INFO -   Duplicates removed:     1,024
+2026-05-13 11:24:46,236 - INFO -   Quality checks passed:  7/7
+2026-05-13 11:24:46,236 - INFO -   Duration:               1.4s
+2026-05-13 11:24:46,236 - INFO - ============================================================
+2026-05-13 11:44:01,490 - INFO - Starting ShopStream Customer Data Quality Pipeline...
+2026-05-13 11:44:01,490 - INFO - ============================================================
+2026-05-13 11:44:01,490 - INFO - INGESTION - Pulling all sources into raw DataFrames
+2026-05-13 11:44:01,490 - INFO - ============================================================
+2026-05-13 11:44:01,490 - INFO - Ingesting website data from: data/raw/website_customers.csv
+2026-05-13 11:44:01,515 - INFO - Removed 20 test accounts from website data.
+2026-05-13 11:44:01,516 - INFO - Finished ingesting website data. Records ingested: 1000
+2026-05-13 11:44:01,517 - INFO - Ingesting CRM data from: data/raw/crm_export.json
+2026-05-13 11:44:01,518 - INFO -   Top level keys: ['customers']
+2026-05-13 11:44:01,518 - INFO -   Total raw records: 500
+2026-05-13 11:44:01,520 - INFO - Finished ingesting CRM data. Records ingested: 500
+2026-05-13 11:44:01,520 - INFO - Ingesting ERP data from: data/raw/erp_customers.txt
+2026-05-13 11:44:01,559 - INFO - ============================================================
+2026-05-13 11:44:01,559 - INFO - INGESTION COMPLETE - Summary:
+
+2026-05-13 11:44:01,559 - INFO -   Total records ingested: 1750
+2026-05-13 11:44:01,559 - INFO -   By source:
+2026-05-13 11:44:01,563 - INFO -     website: 1000 records
+2026-05-13 11:44:01,563 - INFO -     crm: 500 records
+2026-05-13 11:44:01,563 - INFO -     erp: 250 records
+2026-05-13 11:44:01,563 - INFO - ============================================================
+2026-05-13 11:44:01,563 - INFO - ============================================================
+2026-05-13 11:44:01,563 - INFO - CLEANING — Standardising all fields
+2026-05-13 11:44:01,563 - INFO - ============================================================
+2026-05-13 11:44:01,563 - INFO - Records entering cleaning: 1750
+2026-05-13 11:44:01,563 - INFO -    Cleaning email addresses...
+2026-05-13 11:44:01,574 - INFO -       Total records: 1750
+2026-05-13 11:44:01,574 - INFO -       Valid emails: 1742
+2026-05-13 11:44:01,574 - INFO -       Invalid emails: 8
+2026-05-13 11:44:01,574 - INFO -       Null emails: 3
+2026-05-13 11:44:01,574 - INFO -    Cleaning names...
+2026-05-13 11:44:01,575 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:44:01,575 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:44:01,575 - INFO -    Cleaning phone numbers...
+2026-05-13 11:44:01,577 - INFO -       Null/invalid phones after cleaning: 431
+2026-05-13 11:44:01,577 - INFO -   Cleaning regions...
+2026-05-13 11:44:01,578 - INFO -     Successfully mapped: 1558
+2026-05-13 11:44:01,578 - INFO -     Unmapped (null):     192
+2026-05-13 11:44:01,578 - INFO -     Region distribution:
+2026-05-13 11:44:01,587 - INFO -       US: 601
+2026-05-13 11:44:01,587 - INFO -       EU: 578
+2026-05-13 11:44:01,587 - INFO -       APAC: 379
+2026-05-13 11:44:01,587 - INFO -   Handling null values...
+2026-05-13 11:44:01,588 - INFO -     Dropped 3 rows with null email
+2026-05-13 11:44:01,588 - INFO -     Remaining null phones:  431
+2026-05-13 11:44:01,588 - INFO -     Remaining null regions: 192
+2026-05-13 11:44:01,588 - INFO - ============================================================
+2026-05-13 11:44:01,588 - INFO - CLEANING COMPLETE
+2026-05-13 11:44:01,589 - INFO -   Records after cleaning: 1747
+2026-05-13 11:44:01,589 - INFO -   Valid emails:   1742
+2026-05-13 11:44:01,589 - INFO -   Null regions:   192
+2026-05-13 11:44:01,589 - INFO -   Null phones:    431
+2026-05-13 11:44:01,589 - INFO - ============================================================
+2026-05-13 11:44:01,589 - INFO - ============================================================
+2026-05-13 11:44:01,589 - INFO - DEDUPLICATION — Merging duplicate records
+2026-05-13 11:44:01,589 - INFO - ============================================================
+2026-05-13 11:44:01,589 - INFO - Records entering deduplication: 1747
+2026-05-13 11:44:01,589 - INFO -   Source priority assigned:
+2026-05-13 11:44:01,589 - INFO -     crm (priority 1): 498 records
+2026-05-13 11:44:01,590 - INFO -     website (priority 2): 999 records
+2026-05-13 11:44:01,590 - INFO -     erp (priority 3): 250 records
+2026-05-13 11:44:01,590 - INFO -     marketing (priority 4): 0 records
+2026-05-13 11:44:01,590 - INFO -   Pass 1: Deduplicating by email...
+2026-05-13 11:44:01,992 - INFO -     Valid email records before: 1742
+2026-05-13 11:44:01,992 - INFO -     Valid email records after:  723
+2026-05-13 11:44:01,992 - INFO -     Duplicates removed:         1019
+2026-05-13 11:44:01,992 - INFO -     Invalid email records kept: 5
+2026-05-13 11:44:01,992 - INFO -   Pass 2: Deduplicating by phone...
+2026-05-13 11:44:01,995 - INFO -     Phone records before: 5
+2026-05-13 11:44:01,995 - INFO -     Phone records after:  3
+2026-05-13 11:44:01,995 - INFO -     Duplicates removed:   2
+2026-05-13 11:44:01,996 - INFO - ============================================================
+2026-05-13 11:44:01,996 - INFO - DEDUPLICATION COMPLETE
+2026-05-13 11:44:01,996 - INFO -   Records before: 1747
+2026-05-13 11:44:01,996 - INFO -   Records after:  726
+2026-05-13 11:44:01,996 - INFO -   Duplicates removed:       1021
+2026-05-13 11:44:01,996 - INFO -   Multi-source records:     374
+2026-05-13 11:44:01,996 - INFO -   Opted out (GDPR flagged): 303
+2026-05-13 11:44:01,996 - INFO - ============================================================
+2026-05-13 11:44:01,997 - INFO - ============================================================
+2026-05-13 11:44:01,997 - INFO - VALIDATION — Running quality checks
+2026-05-13 11:44:01,997 - INFO - ============================================================
+2026-05-13 11:44:01,997 - INFO - Records entering validation: 726
+2026-05-13 11:44:01,999 - INFO - ============================================================
+2026-05-13 11:44:01,999 - INFO - DATA QUALITY REPORT
+2026-05-13 11:44:01,999 - INFO - Threshold: 95%
+2026-05-13 11:44:01,999 - INFO - ============================================================
+2026-05-13 11:44:01,999 - INFO -   [✓] NOT NULL: email
+        Every customer must have an email address
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:44:01,999 - INFO -   [✓] NOT NULL: first_name
+        Every customer must have a first name
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:44:01,999 - INFO -   [✓] NOT NULL: region
+        Every customer must have a region for campaign targeting
+        96.6% passed (25 failed of 726) → PASS
+2026-05-13 11:44:01,999 - INFO -   [✓] UNIQUE: email
+        No duplicate emails after deduplication
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:44:01,999 - INFO -   [✓] REGEX: email
+        All emails must be in valid format
+        99.6% passed (3 failed of 726) → PASS
+2026-05-13 11:44:01,999 - INFO -   [✓] VALUES IN SET: region
+        Region must be US, EU or APAC
+        100.0% passed (0 failed of 701) → PASS
+2026-05-13 11:44:01,999 - INFO -   [✓] DATE RANGE: registration_date
+        Registration dates must be between 2010 and today
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:44:01,999 - INFO - ============================================================
+2026-05-13 11:44:01,999 - INFO -   OVERALL RESULT: ALL CHECKS PASSED ✓
+2026-05-13 11:44:01,999 - INFO -   Data is ready for campaign delivery!
+2026-05-13 11:44:01,999 - INFO - ============================================================
+2026-05-13 11:44:01,999 - INFO - ============================================================
+2026-05-13 11:44:01,999 - INFO - EXPORT — Delivering outputs
+2026-05-13 11:44:01,999 - INFO - ============================================================
+2026-05-13 11:44:02,038 - INFO -   Parquet export: data/processed/golden_customers.parquet (19.2 KB)
+2026-05-13 11:44:02,042 - INFO -   CSV export: data/processed/golden_customers.csv (84.4 KB)
+2026-05-13 11:44:02,042 - INFO -   Quality report: data/processed/quality_report.csv
+2026-05-13 11:44:02,044 - INFO -   Campaign file: data/processed/campaign_customers.csv (19.6 KB)
+2026-05-13 11:44:02,044 - INFO -   Campaign ready customers: 407
+2026-05-13 11:44:02,045 - INFO -     EU: 166 customers
+2026-05-13 11:44:02,045 - INFO -     US: 154 customers
+2026-05-13 11:44:02,045 - INFO -     APAC: 87 customers
+2026-05-13 11:44:02,045 - INFO - STEP 5: Generating EDA visualization...
+2026-05-13 11:44:02,828 - INFO -   EDA report saved: data/processed/customer_quality_report.png
+2026-05-13 11:44:02,828 - INFO - ============================================================
+2026-05-13 11:44:02,828 - INFO - EXPORT COMPLETE
+2026-05-13 11:44:02,828 - INFO -   All files saved to: data/processed
+2026-05-13 11:44:02,828 - INFO - ============================================================
+2026-05-13 11:44:02,828 - INFO - ============================================================
+2026-05-13 11:44:02,828 - INFO - PIPELINE COMPLETE
+2026-05-13 11:44:02,828 - INFO -   Input records:          1,750
+2026-05-13 11:44:02,828 - INFO -   Output (golden) records:726
+2026-05-13 11:44:02,828 - INFO -   Duplicates removed:     1,024
+2026-05-13 11:44:02,828 - INFO -   Quality checks passed:  7/7
+2026-05-13 11:44:02,828 - INFO -   Duration:               1.3s
+2026-05-13 11:44:02,828 - INFO - ============================================================
+2026-05-13 11:44:26,676 - INFO - Starting ShopStream Customer Data Quality Pipeline...
+2026-05-13 11:44:26,676 - INFO - ============================================================
+2026-05-13 11:44:26,676 - INFO - INGESTION - Pulling all sources into raw DataFrames
+2026-05-13 11:44:26,676 - INFO - ============================================================
+2026-05-13 11:44:26,676 - INFO - Ingesting website data from: data/raw/website_customers.csv
+2026-05-13 11:44:26,709 - INFO - Removed 20 test accounts from website data.
+2026-05-13 11:44:26,711 - INFO - Finished ingesting website data. Records ingested: 1000
+2026-05-13 11:44:26,711 - INFO - Ingesting CRM data from: data/raw/crm_export.json
+2026-05-13 11:44:26,712 - INFO -   Top level keys: ['customers']
+2026-05-13 11:44:26,712 - INFO -   Total raw records: 500
+2026-05-13 11:44:26,715 - INFO - Finished ingesting CRM data. Records ingested: 500
+2026-05-13 11:44:26,716 - INFO - Ingesting ERP data from: data/raw/erp_customers.txt
+2026-05-13 11:44:26,730 - INFO - ============================================================
+2026-05-13 11:44:26,730 - INFO - INGESTION COMPLETE - Summary:
+
+2026-05-13 11:44:26,730 - INFO -   Total records ingested: 1750
+2026-05-13 11:44:26,730 - INFO -   By source:
+2026-05-13 11:44:26,731 - INFO -     website: 1000 records
+2026-05-13 11:44:26,731 - INFO -     crm: 500 records
+2026-05-13 11:44:26,731 - INFO -     erp: 250 records
+2026-05-13 11:44:26,731 - INFO - ============================================================
+2026-05-13 11:44:26,731 - INFO - ============================================================
+2026-05-13 11:44:26,731 - INFO - CLEANING — Standardising all fields
+2026-05-13 11:44:26,731 - INFO - ============================================================
+2026-05-13 11:44:26,731 - INFO - Records entering cleaning: 1750
+2026-05-13 11:44:26,731 - INFO -    Cleaning email addresses...
+2026-05-13 11:44:26,737 - INFO -       Total records: 1750
+2026-05-13 11:44:26,737 - INFO -       Valid emails: 1742
+2026-05-13 11:44:26,737 - INFO -       Invalid emails: 8
+2026-05-13 11:44:26,737 - INFO -       Null emails: 3
+2026-05-13 11:44:26,737 - INFO -    Cleaning names...
+2026-05-13 11:44:26,737 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:44:26,737 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 11:44:26,737 - INFO -    Cleaning phone numbers...
+2026-05-13 11:44:26,740 - INFO -       Null/invalid phones after cleaning: 431
+2026-05-13 11:44:26,740 - INFO -   Cleaning regions...
+2026-05-13 11:44:26,741 - INFO -     Successfully mapped: 1558
+2026-05-13 11:44:26,741 - INFO -     Unmapped (null):     192
+2026-05-13 11:44:26,741 - INFO -     Region distribution:
+2026-05-13 11:44:26,745 - INFO -       US: 601
+2026-05-13 11:44:26,745 - INFO -       EU: 578
+2026-05-13 11:44:26,745 - INFO -       APAC: 379
+2026-05-13 11:44:26,745 - INFO -   Handling null values...
+2026-05-13 11:44:26,747 - INFO -     Dropped 3 rows with null email
+2026-05-13 11:44:26,747 - INFO -     Remaining null phones:  431
+2026-05-13 11:44:26,747 - INFO -     Remaining null regions: 192
+2026-05-13 11:44:26,747 - INFO - ============================================================
+2026-05-13 11:44:26,747 - INFO - CLEANING COMPLETE
+2026-05-13 11:44:26,747 - INFO -   Records after cleaning: 1747
+2026-05-13 11:44:26,747 - INFO -   Valid emails:   1742
+2026-05-13 11:44:26,747 - INFO -   Null regions:   192
+2026-05-13 11:44:26,747 - INFO -   Null phones:    431
+2026-05-13 11:44:26,747 - INFO - ============================================================
+2026-05-13 11:44:26,747 - INFO - ============================================================
+2026-05-13 11:44:26,747 - INFO - DEDUPLICATION — Merging duplicate records
+2026-05-13 11:44:26,747 - INFO - ============================================================
+2026-05-13 11:44:26,747 - INFO - Records entering deduplication: 1747
+2026-05-13 11:44:26,747 - INFO -   Source priority assigned:
+2026-05-13 11:44:26,747 - INFO -     crm (priority 1): 498 records
+2026-05-13 11:44:26,748 - INFO -     website (priority 2): 999 records
+2026-05-13 11:44:26,748 - INFO -     erp (priority 3): 250 records
+2026-05-13 11:44:26,748 - INFO -     marketing (priority 4): 0 records
+2026-05-13 11:44:26,748 - INFO -   Pass 1: Deduplicating by email...
+2026-05-13 11:44:27,163 - INFO -     Valid email records before: 1742
+2026-05-13 11:44:27,163 - INFO -     Valid email records after:  723
+2026-05-13 11:44:27,163 - INFO -     Duplicates removed:         1019
+2026-05-13 11:44:27,163 - INFO -     Invalid email records kept: 5
+2026-05-13 11:44:27,163 - INFO -   Pass 2: Deduplicating by phone...
+2026-05-13 11:44:27,166 - INFO -     Phone records before: 5
+2026-05-13 11:44:27,166 - INFO -     Phone records after:  3
+2026-05-13 11:44:27,166 - INFO -     Duplicates removed:   2
+2026-05-13 11:44:27,167 - INFO - ============================================================
+2026-05-13 11:44:27,168 - INFO - DEDUPLICATION COMPLETE
+2026-05-13 11:44:27,168 - INFO -   Records before: 1747
+2026-05-13 11:44:27,168 - INFO -   Records after:  726
+2026-05-13 11:44:27,168 - INFO -   Duplicates removed:       1021
+2026-05-13 11:44:27,168 - INFO -   Multi-source records:     374
+2026-05-13 11:44:27,168 - INFO -   Opted out (GDPR flagged): 303
+2026-05-13 11:44:27,168 - INFO - ============================================================
+2026-05-13 11:44:27,168 - INFO - ============================================================
+2026-05-13 11:44:27,168 - INFO - VALIDATION — Running quality checks
+2026-05-13 11:44:27,168 - INFO - ============================================================
+2026-05-13 11:44:27,168 - INFO - Records entering validation: 726
+2026-05-13 11:44:27,171 - INFO - ============================================================
+2026-05-13 11:44:27,171 - INFO - DATA QUALITY REPORT
+2026-05-13 11:44:27,171 - INFO - Threshold: 95%
+2026-05-13 11:44:27,171 - INFO - ============================================================
+2026-05-13 11:44:27,171 - INFO -   [✓] NOT NULL: email
+        Every customer must have an email address
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:44:27,171 - INFO -   [✓] NOT NULL: first_name
+        Every customer must have a first name
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:44:27,171 - INFO -   [✓] NOT NULL: region
+        Every customer must have a region for campaign targeting
+        96.6% passed (25 failed of 726) → PASS
+2026-05-13 11:44:27,171 - INFO -   [✓] UNIQUE: email
+        No duplicate emails after deduplication
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:44:27,171 - INFO -   [✓] REGEX: email
+        All emails must be in valid format
+        99.6% passed (3 failed of 726) → PASS
+2026-05-13 11:44:27,171 - INFO -   [✓] VALUES IN SET: region
+        Region must be US, EU or APAC
+        100.0% passed (0 failed of 701) → PASS
+2026-05-13 11:44:27,171 - INFO -   [✓] DATE RANGE: registration_date
+        Registration dates must be between 2010 and today
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 11:44:27,172 - INFO - ============================================================
+2026-05-13 11:44:27,172 - INFO -   OVERALL RESULT: ALL CHECKS PASSED ✓
+2026-05-13 11:44:27,172 - INFO -   Data is ready for campaign delivery!
+2026-05-13 11:44:27,172 - INFO - ============================================================
+2026-05-13 11:44:27,172 - INFO - ============================================================
+2026-05-13 11:44:27,172 - INFO - EXPORT — Delivering outputs
+2026-05-13 11:44:27,172 - INFO - ============================================================
+2026-05-13 11:44:27,230 - INFO -   Parquet export: data/processed/golden_customers.parquet (19.2 KB)
+2026-05-13 11:44:27,234 - INFO -   CSV export: data/processed/golden_customers.csv (84.4 KB)
+2026-05-13 11:44:27,235 - INFO -   Quality report: data/processed/quality_report.csv
+2026-05-13 11:44:27,237 - INFO -   Campaign file: data/processed/campaign_customers.csv (19.6 KB)
+2026-05-13 11:44:27,237 - INFO -   Campaign ready customers: 407
+2026-05-13 11:44:27,237 - INFO -     EU: 166 customers
+2026-05-13 11:44:27,237 - INFO -     US: 154 customers
+2026-05-13 11:44:27,237 - INFO -     APAC: 87 customers
+2026-05-13 11:44:27,237 - INFO - STEP 5: Generating EDA visualization...
+2026-05-13 11:44:27,630 - INFO -   EDA report saved: data/processed/customer_quality_report.png
+2026-05-13 11:44:27,630 - INFO - ============================================================
+2026-05-13 11:44:27,630 - INFO - EXPORT COMPLETE
+2026-05-13 11:44:27,630 - INFO -   All files saved to: data/processed
+2026-05-13 11:44:27,630 - INFO - ============================================================
+2026-05-13 11:44:27,630 - INFO - ============================================================
+2026-05-13 11:44:27,631 - INFO - PIPELINE COMPLETE
+2026-05-13 11:44:27,631 - INFO -   Input records:          1,750
+2026-05-13 11:44:27,631 - INFO -   Output (golden) records:726
+2026-05-13 11:44:27,631 - INFO -   Duplicates removed:     1,024
+2026-05-13 11:44:27,631 - INFO -   Quality checks passed:  7/7
+2026-05-13 11:44:27,631 - INFO -   Duration:               1.0s
+2026-05-13 11:44:27,631 - INFO - ============================================================
+2026-05-13 13:33:10,564 - INFO - Starting ShopStream Customer Data Quality Pipeline...
+2026-05-13 13:33:10,565 - INFO - ============================================================
+2026-05-13 13:33:10,565 - INFO - INGESTION - Pulling all sources into raw DataFrames
+2026-05-13 13:33:10,565 - INFO - ============================================================
+2026-05-13 13:33:10,565 - INFO - Ingesting website data from: data/raw/website_customers.csv
+2026-05-13 13:33:57,242 - INFO - Starting ShopStream Customer Data Quality Pipeline...
+2026-05-13 13:33:57,242 - INFO - ============================================================
+2026-05-13 13:33:57,242 - INFO - INGESTION - Pulling all sources into raw DataFrames
+2026-05-13 13:33:57,242 - INFO - ============================================================
+2026-05-13 13:33:57,242 - INFO - Ingesting website data from: data/raw/website_customers.csv
+2026-05-13 13:33:57,269 - INFO - Removed 20 test accounts from website data.
+2026-05-13 13:33:57,271 - INFO - Finished ingesting website data. Records ingested: 1000
+2026-05-13 13:33:57,271 - INFO - Ingesting CRM data from: data/raw/crm_export.json
+2026-05-13 13:33:57,272 - INFO -   Top level keys: ['customers']
+2026-05-13 13:33:57,272 - INFO -   Total raw records: 500
+2026-05-13 13:33:57,281 - INFO - Finished ingesting CRM data. Records ingested: 500
+2026-05-13 13:33:57,282 - INFO - Ingesting ERP data from: data/raw/erp_customers.txt
+2026-05-13 13:33:57,336 - INFO - ============================================================
+2026-05-13 13:33:57,336 - INFO - INGESTION COMPLETE - Summary:
+
+2026-05-13 13:33:57,336 - INFO -   Total records ingested: 1750
+2026-05-13 13:33:57,336 - INFO -   By source:
+2026-05-13 13:33:57,337 - INFO -     website: 1000 records
+2026-05-13 13:33:57,337 - INFO -     crm: 500 records
+2026-05-13 13:33:57,338 - INFO -     erp: 250 records
+2026-05-13 13:33:57,338 - INFO - ============================================================
+2026-05-13 13:33:57,338 - INFO - ============================================================
+2026-05-13 13:33:57,338 - INFO - CLEANING — Standardising all fields
+2026-05-13 13:33:57,338 - INFO - ============================================================
+2026-05-13 13:33:57,338 - INFO - Records entering cleaning: 1750
+2026-05-13 13:33:57,338 - INFO -    Cleaning email addresses...
+2026-05-13 13:33:57,345 - INFO -       Total records: 1750
+2026-05-13 13:33:57,345 - INFO -       Valid emails: 1742
+2026-05-13 13:33:57,345 - INFO -       Invalid emails: 8
+2026-05-13 13:33:57,345 - INFO -       Null emails: 3
+2026-05-13 13:33:57,345 - INFO -    Cleaning names...
+2026-05-13 13:33:57,353 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 13:33:57,353 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 13:33:57,354 - INFO -    Cleaning phone numbers...
+2026-05-13 13:33:57,362 - INFO -       Null/invalid phones after cleaning: 431
+2026-05-13 13:33:57,363 - INFO -   Cleaning regions...
+2026-05-13 13:33:57,365 - INFO -     Successfully mapped: 1558
+2026-05-13 13:33:57,366 - INFO -     Unmapped (null):     192
+2026-05-13 13:33:57,366 - INFO -     Region distribution:
+2026-05-13 13:33:57,372 - INFO -       US: 601
+2026-05-13 13:33:57,372 - INFO -       EU: 578
+2026-05-13 13:33:57,373 - INFO -       APAC: 379
+2026-05-13 13:33:57,373 - INFO -   Handling null values...
+2026-05-13 13:33:57,377 - INFO -     Dropped 3 rows with null email
+2026-05-13 13:33:57,377 - INFO -     Remaining null phones:  431
+2026-05-13 13:33:57,377 - INFO -     Remaining null regions: 192
+2026-05-13 13:33:57,377 - INFO - ============================================================
+2026-05-13 13:33:57,378 - INFO - CLEANING COMPLETE
+2026-05-13 13:33:57,378 - INFO -   Records after cleaning: 1747
+2026-05-13 13:33:57,378 - INFO -   Valid emails:   1742
+2026-05-13 13:33:57,378 - INFO -   Null regions:   192
+2026-05-13 13:33:57,378 - INFO -   Null phones:    431
+2026-05-13 13:33:57,378 - INFO - ============================================================
+2026-05-13 13:33:57,378 - INFO - ============================================================
+2026-05-13 13:33:57,378 - INFO - DEDUPLICATION — Merging duplicate records
+2026-05-13 13:33:57,379 - INFO - ============================================================
+2026-05-13 13:33:57,379 - INFO - Records entering deduplication: 1747
+2026-05-13 13:33:57,379 - INFO -   Source priority assigned:
+2026-05-13 13:33:57,379 - INFO -     crm (priority 1): 498 records
+2026-05-13 13:33:57,379 - INFO -     website (priority 2): 999 records
+2026-05-13 13:33:57,380 - INFO -     erp (priority 3): 250 records
+2026-05-13 13:33:57,380 - INFO -     marketing (priority 4): 0 records
+2026-05-13 13:33:57,381 - INFO -   Pass 1: Deduplicating by email...
+2026-05-13 13:33:57,813 - INFO -     Valid email records before: 1742
+2026-05-13 13:33:57,813 - INFO -     Valid email records after:  723
+2026-05-13 13:33:57,813 - INFO -     Duplicates removed:         1019
+2026-05-13 13:33:57,813 - INFO -     Invalid email records kept: 5
+2026-05-13 13:33:57,814 - INFO -   Pass 2: Deduplicating by phone...
+2026-05-13 13:33:57,817 - INFO -     Phone records before: 5
+2026-05-13 13:33:57,817 - INFO -     Phone records after:  3
+2026-05-13 13:33:57,817 - INFO -     Duplicates removed:   2
+2026-05-13 13:33:57,818 - INFO - ============================================================
+2026-05-13 13:33:57,818 - INFO - DEDUPLICATION COMPLETE
+2026-05-13 13:33:57,818 - INFO -   Records before: 1747
+2026-05-13 13:33:57,818 - INFO -   Records after:  726
+2026-05-13 13:33:57,818 - INFO -   Duplicates removed:       1021
+2026-05-13 13:33:57,818 - INFO -   Multi-source records:     374
+2026-05-13 13:33:57,818 - INFO -   Opted out (GDPR flagged): 303
+2026-05-13 13:33:57,818 - INFO - ============================================================
+2026-05-13 13:33:57,818 - INFO - ============================================================
+2026-05-13 13:33:57,818 - INFO - VALIDATION — Running quality checks
+2026-05-13 13:33:57,818 - INFO - ============================================================
+2026-05-13 13:33:57,818 - INFO - Records entering validation: 726
+2026-05-13 13:33:57,822 - INFO - ============================================================
+2026-05-13 13:33:57,822 - INFO - DATA QUALITY REPORT
+2026-05-13 13:33:57,822 - INFO - Threshold: 95%
+2026-05-13 13:33:57,822 - INFO - ============================================================
+2026-05-13 13:33:57,822 - INFO -   [✓] NOT NULL: email
+        Every customer must have an email address
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 13:33:57,822 - INFO -   [✓] NOT NULL: first_name
+        Every customer must have a first name
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 13:33:57,822 - INFO -   [✓] NOT NULL: region
+        Every customer must have a region for campaign targeting
+        96.6% passed (25 failed of 726) → PASS
+2026-05-13 13:33:57,822 - INFO -   [✓] UNIQUE: email
+        No duplicate emails after deduplication
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 13:33:57,822 - INFO -   [✓] REGEX: email
+        All emails must be in valid format
+        99.6% passed (3 failed of 726) → PASS
+2026-05-13 13:33:57,822 - INFO -   [✓] VALUES IN SET: region
+        Region must be US, EU or APAC
+        100.0% passed (0 failed of 701) → PASS
+2026-05-13 13:33:57,822 - INFO -   [✓] DATE RANGE: registration_date
+        Registration dates must be between 2010 and today
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 13:33:57,822 - INFO - ============================================================
+2026-05-13 13:33:57,822 - INFO -   OVERALL RESULT: ALL CHECKS PASSED ✓
+2026-05-13 13:33:57,822 - INFO -   Data is ready for campaign delivery!
+2026-05-13 13:33:57,822 - INFO - ============================================================
+2026-05-13 13:33:57,822 - INFO - ============================================================
+2026-05-13 13:33:57,822 - INFO - EXPORT — Delivering outputs
+2026-05-13 13:33:57,822 - INFO - ============================================================
+2026-05-13 13:33:57,970 - INFO -   Parquet export: data/processed/golden_customers.parquet (19.2 KB)
+2026-05-13 13:33:57,976 - INFO -   CSV export: data/processed/golden_customers.csv (84.4 KB)
+2026-05-13 13:33:57,976 - INFO -   Quality report: data/processed/quality_report.csv
+2026-05-13 13:33:57,979 - INFO -   Campaign file: data/processed/campaign_customers.csv (19.6 KB)
+2026-05-13 13:33:57,979 - INFO -   Campaign ready customers: 407
+2026-05-13 13:33:57,979 - INFO -     EU: 166 customers
+2026-05-13 13:33:57,979 - INFO -     US: 154 customers
+2026-05-13 13:33:57,979 - INFO -     APAC: 87 customers
+2026-05-13 13:33:57,979 - INFO - STEP 5: Generating EDA visualization...
+2026-05-13 13:33:59,136 - INFO -   EDA report saved: data/processed/customer_quality_report.png
+2026-05-13 13:33:59,138 - INFO - ============================================================
+2026-05-13 13:33:59,138 - INFO - EXPORT COMPLETE
+2026-05-13 13:33:59,138 - INFO -   All files saved to: data/processed
+2026-05-13 13:33:59,138 - INFO - ============================================================
+2026-05-13 13:33:59,138 - INFO - ============================================================
+2026-05-13 13:33:59,138 - INFO - PIPELINE COMPLETE
+2026-05-13 13:33:59,138 - INFO -   Input records:          1,750
+2026-05-13 13:33:59,138 - INFO -   Output (golden) records:726
+2026-05-13 13:33:59,138 - INFO -   Duplicates removed:     1,024
+2026-05-13 13:33:59,139 - INFO -   Quality checks passed:  7/7
+2026-05-13 13:33:59,139 - INFO -   Duration:               1.9s
+2026-05-13 13:33:59,139 - INFO - ============================================================
+2026-05-13 13:34:46,605 - INFO - Starting ShopStream Customer Data Quality Pipeline...
+2026-05-13 13:34:46,605 - INFO - ============================================================
+2026-05-13 13:34:46,605 - INFO - INGESTION - Pulling all sources into raw DataFrames
+2026-05-13 13:34:46,605 - INFO - ============================================================
+2026-05-13 13:34:46,605 - INFO - Ingesting website data from: data/raw/website_customers.csv
+2026-05-13 13:35:46,539 - INFO - Starting ShopStream Customer Data Quality Pipeline...
+2026-05-13 13:35:46,539 - INFO - ============================================================
+2026-05-13 13:35:46,539 - INFO - INGESTION - Pulling all sources into raw DataFrames
+2026-05-13 13:35:46,540 - INFO - ============================================================
+2026-05-13 13:35:46,540 - INFO - Ingesting website data from: data/raw/website_customers.csv
+2026-05-13 13:39:10,772 - INFO - Starting ShopStream Customer Data Quality Pipeline...
+2026-05-13 13:39:10,773 - INFO - ============================================================
+2026-05-13 13:39:10,773 - INFO - INGESTION - Pulling all sources into raw DataFrames
+2026-05-13 13:39:10,773 - INFO - ============================================================
+2026-05-13 13:39:10,773 - INFO - Ingesting website data from: data/raw/website_customers.csv
+2026-05-13 13:39:10,807 - INFO - Removed 20 test accounts from website data.
+2026-05-13 13:39:10,807 - INFO - Finished ingesting website data. Records ingested: 1000
+2026-05-13 13:39:10,808 - INFO - Ingesting CRM data from: data/raw/crm_export.json
+2026-05-13 13:39:10,809 - INFO -   Top level keys: ['customers']
+2026-05-13 13:39:10,809 - INFO -   Total raw records: 500
+2026-05-13 13:39:10,814 - INFO - Finished ingesting CRM data. Records ingested: 500
+2026-05-13 13:39:10,815 - INFO - Ingesting ERP data from: data/raw/erp_customers.txt
+2026-05-13 13:39:10,827 - INFO - ============================================================
+2026-05-13 13:39:10,827 - INFO - INGESTION COMPLETE - Summary:
+
+2026-05-13 13:39:10,827 - INFO -   Total records ingested: 1750
+2026-05-13 13:39:10,827 - INFO -   By source:
+2026-05-13 13:39:10,827 - INFO -     website: 1000 records
+2026-05-13 13:39:10,827 - INFO -     crm: 500 records
+2026-05-13 13:39:10,828 - INFO -     erp: 250 records
+2026-05-13 13:39:10,828 - INFO - ============================================================
+2026-05-13 13:39:10,828 - INFO - ============================================================
+2026-05-13 13:39:10,828 - INFO - CLEANING — Standardising all fields
+2026-05-13 13:39:10,828 - INFO - ============================================================
+2026-05-13 13:39:10,828 - INFO - Records entering cleaning: 1750
+2026-05-13 13:39:10,828 - INFO -    Cleaning email addresses...
+2026-05-13 13:39:10,832 - INFO -       Total records: 1750
+2026-05-13 13:39:10,832 - INFO -       Valid emails: 1742
+2026-05-13 13:39:10,832 - INFO -       Invalid emails: 8
+2026-05-13 13:39:10,832 - INFO -       Null emails: 3
+2026-05-13 13:39:10,832 - INFO -    Cleaning names...
+2026-05-13 13:39:10,832 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 13:39:10,832 - INFO -       first_name: Null values after cleaning: 0)
+2026-05-13 13:39:10,833 - INFO -    Cleaning phone numbers...
+2026-05-13 13:39:10,836 - INFO -       Null/invalid phones after cleaning: 431
+2026-05-13 13:39:10,836 - INFO -   Cleaning regions...
+2026-05-13 13:39:10,836 - INFO -     Successfully mapped: 1558
+2026-05-13 13:39:10,836 - INFO -     Unmapped (null):     192
+2026-05-13 13:39:10,836 - INFO -     Region distribution:
+2026-05-13 13:39:10,838 - INFO -       US: 601
+2026-05-13 13:39:10,838 - INFO -       EU: 578
+2026-05-13 13:39:10,838 - INFO -       APAC: 379
+2026-05-13 13:39:10,838 - INFO -   Handling null values...
+2026-05-13 13:39:10,840 - INFO -     Dropped 3 rows with null email
+2026-05-13 13:39:10,840 - INFO -     Remaining null phones:  431
+2026-05-13 13:39:10,840 - INFO -     Remaining null regions: 192
+2026-05-13 13:39:10,840 - INFO - ============================================================
+2026-05-13 13:39:10,840 - INFO - CLEANING COMPLETE
+2026-05-13 13:39:10,840 - INFO -   Records after cleaning: 1747
+2026-05-13 13:39:10,840 - INFO -   Valid emails:   1742
+2026-05-13 13:39:10,840 - INFO -   Null regions:   192
+2026-05-13 13:39:10,840 - INFO -   Null phones:    431
+2026-05-13 13:39:10,840 - INFO - ============================================================
+2026-05-13 13:39:10,840 - INFO - ============================================================
+2026-05-13 13:39:10,840 - INFO - DEDUPLICATION — Merging duplicate records
+2026-05-13 13:39:10,840 - INFO - ============================================================
+2026-05-13 13:39:10,840 - INFO - Records entering deduplication: 1747
+2026-05-13 13:39:10,840 - INFO -   Source priority assigned:
+2026-05-13 13:39:10,841 - INFO -     crm (priority 1): 498 records
+2026-05-13 13:39:10,841 - INFO -     website (priority 2): 999 records
+2026-05-13 13:39:10,841 - INFO -     erp (priority 3): 250 records
+2026-05-13 13:39:10,841 - INFO -     marketing (priority 4): 0 records
+2026-05-13 13:39:10,841 - INFO -   Pass 1: Deduplicating by email...
+2026-05-13 13:39:11,252 - INFO -     Valid email records before: 1742
+2026-05-13 13:39:11,252 - INFO -     Valid email records after:  723
+2026-05-13 13:39:11,252 - INFO -     Duplicates removed:         1019
+2026-05-13 13:39:11,252 - INFO -     Invalid email records kept: 5
+2026-05-13 13:39:11,252 - INFO -   Pass 2: Deduplicating by phone...
+2026-05-13 13:39:11,255 - INFO -     Phone records before: 5
+2026-05-13 13:39:11,255 - INFO -     Phone records after:  3
+2026-05-13 13:39:11,255 - INFO -     Duplicates removed:   2
+2026-05-13 13:39:11,257 - INFO - ============================================================
+2026-05-13 13:39:11,257 - INFO - DEDUPLICATION COMPLETE
+2026-05-13 13:39:11,257 - INFO -   Records before: 1747
+2026-05-13 13:39:11,257 - INFO -   Records after:  726
+2026-05-13 13:39:11,257 - INFO -   Duplicates removed:       1021
+2026-05-13 13:39:11,257 - INFO -   Multi-source records:     374
+2026-05-13 13:39:11,257 - INFO -   Opted out (GDPR flagged): 303
+2026-05-13 13:39:11,257 - INFO - ============================================================
+2026-05-13 13:39:11,257 - INFO - ============================================================
+2026-05-13 13:39:11,258 - INFO - VALIDATION — Running quality checks
+2026-05-13 13:39:11,258 - INFO - ============================================================
+2026-05-13 13:39:11,258 - INFO - Records entering validation: 726
+2026-05-13 13:39:11,262 - INFO - ============================================================
+2026-05-13 13:39:11,262 - INFO - DATA QUALITY REPORT
+2026-05-13 13:39:11,262 - INFO - Threshold: 95%
+2026-05-13 13:39:11,262 - INFO - ============================================================
+2026-05-13 13:39:11,262 - INFO -   [✓] NOT NULL: email
+        Every customer must have an email address
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 13:39:11,262 - INFO -   [✓] NOT NULL: first_name
+        Every customer must have a first name
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 13:39:11,262 - INFO -   [✓] NOT NULL: region
+        Every customer must have a region for campaign targeting
+        96.6% passed (25 failed of 726) → PASS
+2026-05-13 13:39:11,262 - INFO -   [✓] UNIQUE: email
+        No duplicate emails after deduplication
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 13:39:11,262 - INFO -   [✓] REGEX: email
+        All emails must be in valid format
+        99.6% passed (3 failed of 726) → PASS
+2026-05-13 13:39:11,262 - INFO -   [✓] VALUES IN SET: region
+        Region must be US, EU or APAC
+        100.0% passed (0 failed of 701) → PASS
+2026-05-13 13:39:11,262 - INFO -   [✓] DATE RANGE: registration_date
+        Registration dates must be between 2010 and today
+        100.0% passed (0 failed of 726) → PASS
+2026-05-13 13:39:11,262 - INFO - ============================================================
+2026-05-13 13:39:11,262 - INFO -   OVERALL RESULT: ALL CHECKS PASSED ✓
+2026-05-13 13:39:11,262 - INFO -   Data is ready for campaign delivery!
+2026-05-13 13:39:11,262 - INFO - ============================================================
+2026-05-13 13:39:11,262 - INFO - ============================================================
+2026-05-13 13:39:11,262 - INFO - EXPORT — Delivering outputs
+2026-05-13 13:39:11,262 - INFO - ============================================================
+2026-05-13 13:39:11,301 - INFO -   Parquet export: data/processed/golden_customers.parquet (19.2 KB)
+2026-05-13 13:39:11,305 - INFO -   CSV export: data/processed/golden_customers.csv (84.4 KB)
+2026-05-13 13:39:11,305 - INFO -   Quality report: data/processed/quality_report.csv
+2026-05-13 13:39:11,307 - INFO -   Campaign file: data/processed/campaign_customers.csv (19.6 KB)
+2026-05-13 13:39:11,307 - INFO -   Campaign ready customers: 407
+2026-05-13 13:39:11,307 - INFO -     EU: 166 customers
+2026-05-13 13:39:11,307 - INFO -     US: 154 customers
+2026-05-13 13:39:11,307 - INFO -     APAC: 87 customers
+2026-05-13 13:39:11,307 - INFO - STEP 5: Generating EDA visualization...
+2026-05-13 13:39:12,108 - INFO -   EDA report saved: data/processed/customer_quality_report.png
+2026-05-13 13:39:12,108 - INFO - ============================================================
+2026-05-13 13:39:12,108 - INFO - EXPORT COMPLETE
+2026-05-13 13:39:12,108 - INFO -   All files saved to: data/processed
+2026-05-13 13:39:12,108 - INFO - ============================================================
+2026-05-13 13:39:12,108 - INFO - ============================================================
+2026-05-13 13:39:12,108 - INFO - PIPELINE COMPLETE
+2026-05-13 13:39:12,108 - INFO -   Input records:          1,750
+2026-05-13 13:39:12,108 - INFO -   Output (golden) records:726
+2026-05-13 13:39:12,108 - INFO -   Duplicates removed:     1,024
+2026-05-13 13:39:12,108 - INFO -   Quality checks passed:  7/7
+2026-05-13 13:39:12,108 - INFO -   Duration:               1.3s
+2026-05-13 13:39:12,108 - INFO - ============================================================
