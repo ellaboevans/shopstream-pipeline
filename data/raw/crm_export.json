@@ -1,0 +1,5010 @@
+{
+  "customers": [
+    {
+      "id": "CRM-000000",
+      "email": "customer269@company.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "D\u00edaz" },
+      "phone": "+1 (555) 123-4567",
+      "region": "North America",
+      "registration_date": "2022-09-01",
+      "opt_out": false,
+      "lifetime_value": 375.18
+    },
+    {
+      "id": "CRM-000001",
+      "email": "customer124@yahoo.com",
+      "profile": { "first_name": "Akosua", "last_name": "Asante" },
+      "phone": "+44 20 7946 0958",
+      "region": "us",
+      "registration_date": "2023-07-01",
+      "opt_out": false,
+      "lifetime_value": 843.12
+    },
+    {
+      "id": "CRM-000002",
+      "email": "customer236@company.com",
+      "profile": { "first_name": "John", "last_name": "Boateng" },
+      "phone": "+44 20 7946 0958",
+      "region": "N/A",
+      "registration_date": "2020-10-01",
+      "opt_out": true,
+      "lifetime_value": 466.43
+    },
+    {
+      "id": "CRM-000003",
+      "email": "customer313@yahoo.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Boateng" },
+      "phone": "5551234567",
+      "region": "europe",
+      "registration_date": "2022-09-01",
+      "opt_out": false,
+      "lifetime_value": 840.14
+    },
+    {
+      "id": "CRM-000004",
+      "email": "customer47@company.com",
+      "profile": { "first_name": "Akosua", "last_name": "Boateng" },
+      "phone": "+44 20 7946 0958",
+      "region": "eu",
+      "registration_date": "2021-07-01",
+      "opt_out": false,
+      "lifetime_value": 1195.8
+    },
+    {
+      "id": "CRM-000005",
+      "email": "customer575@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "Brown" },
+      "phone": "020 7946 0958",
+      "region": "APAC",
+      "registration_date": "2020-10-01",
+      "opt_out": true,
+      "lifetime_value": 1107.81
+    },
+    {
+      "id": "CRM-000006",
+      "email": "customer783@gmail.com",
+      "profile": { "first_name": "Maria", "last_name": "Williams" },
+      "phone": "5551234567",
+      "region": "eu",
+      "registration_date": "2020-11-01",
+      "opt_out": false,
+      "lifetime_value": 105.95
+    },
+    {
+      "id": "CRM-000007",
+      "email": "customer363@gmail.com",
+      "profile": { "first_name": "Sarah", "last_name": "Wang" },
+      "phone": "5551234567",
+      "region": "US",
+      "registration_date": "2022-10-01",
+      "opt_out": false,
+      "lifetime_value": 2018.54
+    },
+    {
+      "id": "CRM-000008",
+      "email": "customer757@yahoo.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Johnson" },
+      "phone": "invalid-phone",
+      "region": "apac",
+      "registration_date": "2022-11-01",
+      "opt_out": false,
+      "lifetime_value": 3769.69
+    },
+    {
+      "id": "CRM-000009",
+      "email": "customer702@gmail.com",
+      "profile": { "first_name": "Kofi", "last_name": "Gonz\u00e1lez" },
+      "phone": "555.123.4567",
+      "region": "APAC",
+      "registration_date": "2023-12-01",
+      "opt_out": false,
+      "lifetime_value": 858.52
+    },
+    {
+      "id": "CRM-000010",
+      "email": "customer62@company.com",
+      "profile": { "first_name": "Chris", "last_name": "Boateng" },
+      "phone": "5551234567",
+      "region": "North America",
+      "registration_date": "2023-04-01",
+      "opt_out": false,
+      "lifetime_value": 4655.47
+    },
+    {
+      "id": "CRM-000011",
+      "email": "customer719@company.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Smith" },
+      "phone": "+1 (555) 123-4567",
+      "region": "Asia Pacific",
+      "registration_date": "2021-12-01",
+      "opt_out": false,
+      "lifetime_value": 1434.74
+    },
+    {
+      "id": "CRM-000012",
+      "email": "customer781@yahoo.com",
+      "profile": { "first_name": "Mike", "last_name": "Johnson" },
+      "phone": "020 7946 0958",
+      "region": "Europe",
+      "registration_date": "2022-04-01",
+      "opt_out": false,
+      "lifetime_value": 2786.17
+    },
+    {
+      "id": "CRM-000013",
+      "email": "customer460@yahoo.com",
+      "profile": { "first_name": "Kwame", "last_name": "Gonz\u00e1lez" },
+      "phone": "invalid-phone",
+      "region": "Europe",
+      "registration_date": "2023-05-01",
+      "opt_out": false,
+      "lifetime_value": 811.8
+    },
+    {
+      "id": "CRM-000014",
+      "email": "customer659@company.com",
+      "profile": { "first_name": "Maria", "last_name": "Mensah" },
+      "phone": "+81-3-1234-5678",
+      "region": "eu",
+      "registration_date": "2022-04-01",
+      "opt_out": false,
+      "lifetime_value": 671.55
+    },
+    {
+      "id": "CRM-000015",
+      "email": "customer145@yahoo.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Jones" },
+      "phone": "+1 (555) 123-4567",
+      "region": "EU",
+      "registration_date": "2023-03-01",
+      "opt_out": false,
+      "lifetime_value": 1007.5
+    },
+    {
+      "id": "CRM-000016",
+      "email": "customer220@yahoo.com",
+      "profile": { "first_name": "Ama", "last_name": "Johnson" },
+      "phone": "020 7946 0958",
+      "region": "EMEA",
+      "registration_date": "2023-04-01",
+      "opt_out": false,
+      "lifetime_value": 600.13
+    },
+    {
+      "id": "CRM-000017",
+      "email": "customer549@gmail.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Asante" },
+      "phone": "+81-3-1234-5678",
+      "region": "Asia",
+      "registration_date": "2022-09-01",
+      "opt_out": false,
+      "lifetime_value": 2750.63
+    },
+    {
+      "id": "CRM-000018",
+      "email": "customer49@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "D\u00edaz" },
+      "phone": "+1 (555) 123-4567",
+      "region": "North America",
+      "registration_date": "2022-05-01",
+      "opt_out": false,
+      "lifetime_value": 222.95
+    },
+    {
+      "id": "CRM-000019",
+      "email": "customer299@company.com",
+      "profile": { "first_name": "Jane", "last_name": "Brown" },
+      "phone": "+44 20 7946 0958",
+      "region": "eu",
+      "registration_date": "2021-07-01",
+      "opt_out": false,
+      "lifetime_value": 886.86
+    },
+    {
+      "id": "CRM-000020",
+      "email": "customer158@company.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Mensah" },
+      "phone": "+44 20 7946 0958",
+      "region": "AP",
+      "registration_date": "2020-05-01",
+      "opt_out": true,
+      "lifetime_value": 1482.73
+    },
+    {
+      "id": "CRM-000021",
+      "email": "customer180@gmail.com",
+      "profile": { "first_name": "John", "last_name": "Mart\u00ednez" },
+      "phone": "020 7946 0958",
+      "region": "united states",
+      "registration_date": "2023-10-01",
+      "opt_out": false,
+      "lifetime_value": 1684.91
+    },
+    {
+      "id": "CRM-000022",
+      "email": "customer784@yahoo.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Smith" },
+      "phone": "555.123.4567",
+      "region": "US",
+      "registration_date": "2021-07-01",
+      "opt_out": true,
+      "lifetime_value": 3460.98
+    },
+    {
+      "id": "CRM-000023",
+      "email": "customer128@company.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Johnson" },
+      "phone": "+1 (555) 123-4567",
+      "region": "USA",
+      "registration_date": "2020-04-01",
+      "opt_out": false,
+      "lifetime_value": 2641.82
+    },
+    {
+      "id": "CRM-000024",
+      "email": "customer606@gmail.com",
+      "profile": { "first_name": "Alex", "last_name": "Garcia" },
+      "phone": "invalid-phone",
+      "region": "europe",
+      "registration_date": "2022-12-01",
+      "opt_out": false,
+      "lifetime_value": 3967.74
+    },
+    {
+      "id": "CRM-000025",
+      "email": "customer617@company.com",
+      "profile": { "first_name": "Alex", "last_name": "Garcia" },
+      "phone": "020 7946 0958",
+      "region": "EMEA",
+      "registration_date": "2021-11-01",
+      "opt_out": true,
+      "lifetime_value": 3385.5
+    },
+    {
+      "id": "CRM-000026",
+      "email": "customer492@gmail.com",
+      "profile": { "first_name": "Alex", "last_name": "Boateng" },
+      "phone": "+44 20 7946 0958",
+      "region": "eu",
+      "registration_date": "2021-11-01",
+      "opt_out": false,
+      "lifetime_value": 3035.59
+    },
+    {
+      "id": "CRM-000027",
+      "email": "customer655@yahoo.com",
+      "profile": { "first_name": "Ama", "last_name": "Boateng" },
+      "phone": "5551234567",
+      "region": "Europe",
+      "registration_date": "2023-06-01",
+      "opt_out": false,
+      "lifetime_value": 141.01
+    },
+    {
+      "id": "CRM-000028",
+      "email": "customer777@gmail.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Mensah" },
+      "phone": "+1 (555) 123-4567",
+      "region": "eu",
+      "registration_date": "2023-01-01",
+      "opt_out": false,
+      "lifetime_value": 3748.04
+    },
+    {
+      "id": "CRM-000029",
+      "email": "customer553@yahoo.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Smith" },
+      "phone": "invalid-phone",
+      "region": "EU",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 3521.85
+    },
+    {
+      "id": "CRM-000030",
+      "email": "customer282@gmail.com",
+      "profile": { "first_name": "Evans", "last_name": "Kim" },
+      "phone": "020 7946 0958",
+      "region": "europe",
+      "registration_date": "2023-10-01",
+      "opt_out": false,
+      "lifetime_value": 2086.3
+    },
+    {
+      "id": "CRM-000031",
+      "email": "customer72@gmail.com",
+      "profile": { "first_name": "John", "last_name": "Garcia" },
+      "phone": "+44 20 7946 0958",
+      "region": "North America",
+      "registration_date": "2021-09-01",
+      "opt_out": false,
+      "lifetime_value": 187.87
+    },
+    {
+      "id": "CRM-000032",
+      "email": "customer59@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "Garcia" },
+      "phone": "+81-3-1234-5678",
+      "region": "",
+      "registration_date": "2022-12-01",
+      "opt_out": false,
+      "lifetime_value": 2488.37
+    },
+    {
+      "id": "CRM-000033",
+      "email": "customer385@yahoo.com",
+      "profile": { "first_name": "Jane", "last_name": "Johnson" },
+      "phone": "+44 20 7946 0958",
+      "region": "eu",
+      "registration_date": "2023-05-01",
+      "opt_out": false,
+      "lifetime_value": 2841.4
+    },
+    {
+      "id": "CRM-000034",
+      "email": "customer279@gmail.com",
+      "profile": { "first_name": "Abena", "last_name": "Mart\u00ednez" },
+      "phone": "5551234567",
+      "region": "North America",
+      "registration_date": "2021-05-01",
+      "opt_out": false,
+      "lifetime_value": 1737.74
+    },
+    {
+      "id": "CRM-000035",
+      "email": "customer127@yahoo.com",
+      "profile": { "first_name": "Ama", "last_name": "Johnson" },
+      "phone": "5551234567",
+      "region": "US",
+      "registration_date": "2021-08-01",
+      "opt_out": true,
+      "lifetime_value": 4957.7
+    },
+    {
+      "id": "CRM-000036",
+      "email": "customer21@gmail.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "L\u00f3pez" },
+      "phone": "+44 20 7946 0958",
+      "region": "apac",
+      "registration_date": "2023-04-01",
+      "opt_out": false,
+      "lifetime_value": 1574.04
+    },
+    {
+      "id": "CRM-000037",
+      "email": "customer163@yahoo.com",
+      "profile": { "first_name": "John", "last_name": "L\u00f3pez" },
+      "phone": "+44 20 7946 0958",
+      "region": "Europe",
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 1396.18
+    },
+    {
+      "id": "CRM-000038",
+      "email": "customer698@company.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Smith" },
+      "phone": "+44 20 7946 0958",
+      "region": "EU",
+      "registration_date": "2023-03-01",
+      "opt_out": false,
+      "lifetime_value": 130.41
+    },
+    {
+      "id": "CRM-000039",
+      "email": "customer709@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "Kim" },
+      "phone": "020 7946 0958",
+      "region": "us",
+      "registration_date": "2020-07-01",
+      "opt_out": false,
+      "lifetime_value": 1746.52
+    },
+    {
+      "id": "CRM-000040",
+      "email": "customer799@yahoo.com",
+      "profile": { "first_name": "Maria", "last_name": "Boateng" },
+      "phone": "555.123.4567",
+      "region": "europe",
+      "registration_date": "2023-02-01",
+      "opt_out": false,
+      "lifetime_value": 4476.61
+    },
+    {
+      "id": "CRM-000041",
+      "email": "customer615@gmail.com",
+      "profile": { "first_name": "John", "last_name": "Wang" },
+      "phone": null,
+      "region": "APAC",
+      "registration_date": "2022-11-01",
+      "opt_out": false,
+      "lifetime_value": 3575.08
+    },
+    {
+      "id": "CRM-000042",
+      "email": "customer784@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "D\u00edaz" },
+      "phone": "invalid-phone",
+      "region": "N/A",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 4085.62
+    },
+    {
+      "id": "CRM-000043",
+      "email": "customer250@yahoo.com",
+      "profile": { "first_name": "Sarah", "last_name": "Wang" },
+      "phone": "020 7946 0958",
+      "region": "united states",
+      "registration_date": "2022-09-01",
+      "opt_out": false,
+      "lifetime_value": 3348.03
+    },
+    {
+      "id": "CRM-000044",
+      "email": "customer507@gmail.com",
+      "profile": { "first_name": "Sarah", "last_name": "Kim" },
+      "phone": "invalid-phone",
+      "region": "eu",
+      "registration_date": "2022-01-01",
+      "opt_out": false,
+      "lifetime_value": 528.39
+    },
+    {
+      "id": "CRM-000045",
+      "email": "customer586@yahoo.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "L\u00f3pez" },
+      "phone": "020 7946 0958",
+      "region": null,
+      "registration_date": "2021-03-01",
+      "opt_out": true,
+      "lifetime_value": 2345.88
+    },
+    {
+      "id": "CRM-000046",
+      "email": "customer57@gmail.com",
+      "profile": { "first_name": "Kofi", "last_name": "L\u00f3pez" },
+      "phone": "+1 (555) 123-4567",
+      "region": "Europe",
+      "registration_date": "2020-02-01",
+      "opt_out": false,
+      "lifetime_value": 3426.85
+    },
+    {
+      "id": "CRM-000047",
+      "email": "customer28@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "Johnson" },
+      "phone": "invalid-phone",
+      "region": "us",
+      "registration_date": "2020-03-01",
+      "opt_out": false,
+      "lifetime_value": 3349.75
+    },
+    {
+      "id": "CRM-000048",
+      "email": "customer363@gmail.com",
+      "profile": { "first_name": "Alex", "last_name": "Garcia" },
+      "phone": "+81-3-1234-5678",
+      "region": "N/A",
+      "registration_date": "2020-07-01",
+      "opt_out": true,
+      "lifetime_value": 2524.8
+    },
+    {
+      "id": "CRM-000049",
+      "email": "customer101@company.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Gonz\u00e1lez" },
+      "phone": "555.123.4567",
+      "region": "EU",
+      "registration_date": "2022-12-01",
+      "opt_out": false,
+      "lifetime_value": 1572.27
+    },
+    {
+      "id": "CRM-000050",
+      "email": "customer110@company.com",
+      "profile": { "first_name": "Abena", "last_name": "Smith" },
+      "phone": null,
+      "region": "eu",
+      "registration_date": "2023-04-01",
+      "opt_out": false,
+      "lifetime_value": 2641.64
+    },
+    {
+      "id": "CRM-000051",
+      "email": "customer626@company.com",
+      "profile": { "first_name": "Mike", "last_name": "Asante" },
+      "phone": "020 7946 0958",
+      "region": "USA",
+      "registration_date": "2020-12-01",
+      "opt_out": false,
+      "lifetime_value": 3276.91
+    },
+    {
+      "id": "CRM-000052",
+      "email": "customer751@yahoo.com",
+      "profile": { "first_name": "Kofi", "last_name": "Boateng" },
+      "phone": "+81-3-1234-5678",
+      "region": "APAC",
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 3206.98
+    },
+    {
+      "id": "CRM-000053",
+      "email": "customer410@company.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Gonz\u00e1lez" },
+      "phone": "+44 20 7946 0958",
+      "region": "EU",
+      "registration_date": "2022-03-01",
+      "opt_out": false,
+      "lifetime_value": 1298.94
+    },
+    {
+      "id": "CRM-000054",
+      "email": "customer741@gmail.com",
+      "profile": { "first_name": "John", "last_name": "Mart\u00ednez" },
+      "phone": "020 7946 0958",
+      "region": "europe",
+      "registration_date": "2021-08-01",
+      "opt_out": false,
+      "lifetime_value": 4543.29
+    },
+    {
+      "id": "CRM-000055",
+      "email": "customer323@company.com",
+      "profile": { "first_name": "Alex", "last_name": "Smith" },
+      "phone": "020 7946 0958",
+      "region": "Asia Pacific",
+      "registration_date": "2020-08-01",
+      "opt_out": true,
+      "lifetime_value": 4877.14
+    },
+    {
+      "id": "CRM-000056",
+      "email": "customer380@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "Wang" },
+      "phone": "invalid-phone",
+      "region": "EMEA",
+      "registration_date": "2021-04-01",
+      "opt_out": false,
+      "lifetime_value": 3793.46
+    },
+    {
+      "id": "CRM-000057",
+      "email": "customer365@company.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "L\u00f3pez" },
+      "phone": "5551234567",
+      "region": "us",
+      "registration_date": "2022-02-01",
+      "opt_out": false,
+      "lifetime_value": 4848.14
+    },
+    {
+      "id": "CRM-000058",
+      "email": "customer537@gmail.com",
+      "profile": { "first_name": "Maria", "last_name": "Gonz\u00e1lez" },
+      "phone": "020 7946 0958",
+      "region": "AP",
+      "registration_date": "2023-03-01",
+      "opt_out": false,
+      "lifetime_value": 4988.86
+    },
+    {
+      "id": "CRM-000059",
+      "email": "customer719@company.com",
+      "profile": { "first_name": "Yaw", "last_name": "Gonz\u00e1lez" },
+      "phone": "555.123.4567",
+      "region": "EU",
+      "registration_date": "2022-08-01",
+      "opt_out": true,
+      "lifetime_value": 50.92
+    },
+    {
+      "id": "CRM-000060",
+      "email": "customer506@company.com",
+      "profile": { "first_name": "Evans", "last_name": "Brown" },
+      "phone": "020 7946 0958",
+      "region": "",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 2104.05
+    },
+    {
+      "id": "CRM-000061",
+      "email": "customer518@company.com",
+      "profile": { "first_name": "Jane", "last_name": "Boateng" },
+      "phone": "555.123.4567",
+      "region": "us",
+      "registration_date": "2021-09-01",
+      "opt_out": false,
+      "lifetime_value": 2929.6
+    },
+    {
+      "id": "CRM-000062",
+      "email": "customer741@gmail.com",
+      "profile": { "first_name": "Yaw", "last_name": "Mensah" },
+      "phone": "invalid-phone",
+      "region": "USA",
+      "registration_date": "2020-12-01",
+      "opt_out": false,
+      "lifetime_value": 855.17
+    },
+    {
+      "id": "CRM-000063",
+      "email": "customer643@yahoo.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Mart\u00ednez" },
+      "phone": "555.123.4567",
+      "region": "apac",
+      "registration_date": "2021-04-01",
+      "opt_out": false,
+      "lifetime_value": 2996.39
+    },
+    {
+      "id": "CRM-000064",
+      "email": "customer456@gmail.com",
+      "profile": { "first_name": "Jane", "last_name": "Garcia" },
+      "phone": "+1 (555) 123-4567",
+      "region": "AP",
+      "registration_date": "2023-08-01",
+      "opt_out": false,
+      "lifetime_value": 2724.38
+    },
+    {
+      "id": "CRM-000065",
+      "email": "customer634@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Mensah" },
+      "phone": "+81-3-1234-5678",
+      "region": "us",
+      "registration_date": "2020-03-01",
+      "opt_out": false,
+      "lifetime_value": 2192.22
+    },
+    {
+      "id": "CRM-000066",
+      "email": "customer259@yahoo.com",
+      "profile": { "first_name": "Maria", "last_name": "Brown" },
+      "phone": "555.123.4567",
+      "region": "Asia",
+      "registration_date": "2021-10-01",
+      "opt_out": false,
+      "lifetime_value": 2537.33
+    },
+    {
+      "id": "CRM-000067",
+      "email": "customer541@yahoo.com",
+      "profile": { "first_name": "Mike", "last_name": "Williams" },
+      "phone": "5551234567",
+      "region": "europe",
+      "registration_date": "2023-04-01",
+      "opt_out": false,
+      "lifetime_value": 1421.49
+    },
+    {
+      "id": "CRM-000068",
+      "email": "customer454@yahoo.com",
+      "profile": { "first_name": "Chris", "last_name": "Johnson" },
+      "phone": "invalid-phone",
+      "region": "N/A",
+      "registration_date": "2022-10-01",
+      "opt_out": true,
+      "lifetime_value": 1662.14
+    },
+    {
+      "id": "CRM-000069",
+      "email": "customer389@company.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Mensah" },
+      "phone": "020 7946 0958",
+      "region": "Europe",
+      "registration_date": "2022-05-01",
+      "opt_out": false,
+      "lifetime_value": 4978.41
+    },
+    {
+      "id": "CRM-000070",
+      "email": "customer541@yahoo.com",
+      "profile": { "first_name": "Chris", "last_name": "Mart\u00ednez" },
+      "phone": null,
+      "region": "US",
+      "registration_date": "2022-07-01",
+      "opt_out": true,
+      "lifetime_value": 476.35
+    },
+    {
+      "id": "CRM-000071",
+      "email": "customer758@company.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Kim" },
+      "phone": "555.123.4567",
+      "region": "EU",
+      "registration_date": "2021-05-01",
+      "opt_out": false,
+      "lifetime_value": 3237.59
+    },
+    {
+      "id": "CRM-000072",
+      "email": "customer171@gmail.com",
+      "profile": { "first_name": "Ama", "last_name": "Brown" },
+      "phone": "+81-3-1234-5678",
+      "region": "EU",
+      "registration_date": "2022-11-01",
+      "opt_out": false,
+      "lifetime_value": 3773.04
+    },
+    {
+      "id": "CRM-000073",
+      "email": "customer185@company.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Williams" },
+      "phone": "+81-3-1234-5678",
+      "region": "Asia Pacific",
+      "registration_date": "2022-04-01",
+      "opt_out": false,
+      "lifetime_value": 1359.14
+    },
+    {
+      "id": "CRM-000074",
+      "email": "customer97@yahoo.com",
+      "profile": {
+        "first_name": "Fran\u00e7ois",
+        "last_name": "Mart\u00ednez"
+      },
+      "phone": null,
+      "region": "N/A",
+      "registration_date": "2021-12-01",
+      "opt_out": true,
+      "lifetime_value": 2357.28
+    },
+    {
+      "id": "CRM-000075",
+      "email": "customer502@yahoo.com",
+      "profile": { "first_name": "Jane", "last_name": "L\u00f3pez" },
+      "phone": "invalid-phone",
+      "region": "us",
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 1141.41
+    },
+    {
+      "id": "CRM-000076",
+      "email": "customer630@gmail.com",
+      "profile": { "first_name": "Chris", "last_name": "Gonz\u00e1lez" },
+      "phone": "+81-3-1234-5678",
+      "region": "Europe",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 3041.58
+    },
+    {
+      "id": "CRM-000077",
+      "email": "customer553@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Boateng" },
+      "phone": "+1 (555) 123-4567",
+      "region": "europe",
+      "registration_date": "2022-10-01",
+      "opt_out": false,
+      "lifetime_value": 1900.35
+    },
+    {
+      "id": "CRM-000078",
+      "email": "customer122@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "Williams" },
+      "phone": "+44 20 7946 0958",
+      "region": "eu",
+      "registration_date": "2020-03-01",
+      "opt_out": false,
+      "lifetime_value": 2019.08
+    },
+    {
+      "id": "CRM-000079",
+      "email": "customer588@gmail.com",
+      "profile": { "first_name": "Sarah", "last_name": "Brown" },
+      "phone": null,
+      "region": "europe",
+      "registration_date": "2023-07-01",
+      "opt_out": false,
+      "lifetime_value": 2398.45
+    },
+    {
+      "id": "CRM-000080",
+      "email": "customer690@gmail.com",
+      "profile": { "first_name": "Abena", "last_name": "Smith" },
+      "phone": "+44 20 7946 0958",
+      "region": "EMEA",
+      "registration_date": "2020-08-01",
+      "opt_out": false,
+      "lifetime_value": 2851.79
+    },
+    {
+      "id": "CRM-000081",
+      "email": "customer495@gmail.com",
+      "profile": { "first_name": "Jane", "last_name": "Brown" },
+      "phone": "invalid-phone",
+      "region": "united states",
+      "registration_date": "2020-05-01",
+      "opt_out": false,
+      "lifetime_value": 535.14
+    },
+    {
+      "id": "CRM-000082",
+      "email": "customer613@yahoo.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "D\u00edaz" },
+      "phone": "5551234567",
+      "region": "US",
+      "registration_date": "2020-12-01",
+      "opt_out": false,
+      "lifetime_value": 4732.56
+    },
+    {
+      "id": "CRM-000083",
+      "email": "customer621@gmail.com",
+      "profile": { "first_name": "Alex", "last_name": "Garcia" },
+      "phone": null,
+      "region": "us",
+      "registration_date": "2023-09-01",
+      "opt_out": false,
+      "lifetime_value": 660.25
+    },
+    {
+      "id": "CRM-000084",
+      "email": "customer367@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Boateng" },
+      "phone": "5551234567",
+      "region": "eu",
+      "registration_date": "2020-07-01",
+      "opt_out": true,
+      "lifetime_value": 3437.36
+    },
+    {
+      "id": "CRM-000085",
+      "email": "customer426@gmail.com",
+      "profile": { "first_name": "Jane", "last_name": "Mensah" },
+      "phone": "+1 (555) 123-4567",
+      "region": "USA",
+      "registration_date": "2022-12-01",
+      "opt_out": false,
+      "lifetime_value": 324.31
+    },
+    {
+      "id": "CRM-000086",
+      "email": "customer55@yahoo.com",
+      "profile": { "first_name": "Akosua", "last_name": "Garcia" },
+      "phone": "+44 20 7946 0958",
+      "region": "europe",
+      "registration_date": "2020-08-01",
+      "opt_out": false,
+      "lifetime_value": 2919.11
+    },
+    {
+      "id": "CRM-000087",
+      "email": "customer67@yahoo.com",
+      "profile": { "first_name": "Ama", "last_name": "Brown" },
+      "phone": "+81-3-1234-5678",
+      "region": "AP",
+      "registration_date": "2023-03-01",
+      "opt_out": true,
+      "lifetime_value": 2771.83
+    },
+    {
+      "id": "CRM-000088",
+      "email": "customer791@company.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "L\u00f3pez" },
+      "phone": null,
+      "region": "USA",
+      "registration_date": "2020-05-01",
+      "opt_out": false,
+      "lifetime_value": 936.21
+    },
+    {
+      "id": "CRM-000089",
+      "email": "customer366@gmail.com",
+      "profile": { "first_name": "Mike", "last_name": "Williams" },
+      "phone": "+44 20 7946 0958",
+      "region": "N/A",
+      "registration_date": "2021-12-01",
+      "opt_out": false,
+      "lifetime_value": 1438.97
+    },
+    {
+      "id": "CRM-000090",
+      "email": "customer760@yahoo.com",
+      "profile": { "first_name": "Sarah", "last_name": "Jones" },
+      "phone": "+44 20 7946 0958",
+      "region": "Asia",
+      "registration_date": "2022-05-01",
+      "opt_out": false,
+      "lifetime_value": 4810.0
+    },
+    {
+      "id": "CRM-000091",
+      "email": "customer556@yahoo.com",
+      "profile": { "first_name": "Chris", "last_name": "Boateng" },
+      "phone": "020 7946 0958",
+      "region": "apac",
+      "registration_date": "2022-11-01",
+      "opt_out": true,
+      "lifetime_value": 945.41
+    },
+    {
+      "id": "CRM-000092",
+      "email": "customer501@gmail.com",
+      "profile": { "first_name": "Evans", "last_name": "Brown" },
+      "phone": "+44 20 7946 0958",
+      "region": "Europe",
+      "registration_date": "2023-12-01",
+      "opt_out": false,
+      "lifetime_value": 1892.0
+    },
+    {
+      "id": "CRM-000093",
+      "email": "customer539@company.com",
+      "profile": { "first_name": "Sarah", "last_name": "Johnson" },
+      "phone": "invalid-phone",
+      "region": "apac",
+      "registration_date": "2020-01-01",
+      "opt_out": true,
+      "lifetime_value": 4456.18
+    },
+    {
+      "id": "CRM-000094",
+      "email": "customer126@gmail.com",
+      "profile": { "first_name": "Alex", "last_name": "Mart\u00ednez" },
+      "phone": "555.123.4567",
+      "region": "EMEA",
+      "registration_date": "2021-07-01",
+      "opt_out": false,
+      "lifetime_value": 342.93
+    },
+    {
+      "id": "CRM-000095",
+      "email": "customer539@company.com",
+      "profile": { "first_name": "Akosua", "last_name": "L\u00f3pez" },
+      "phone": "020 7946 0958",
+      "region": "eu",
+      "registration_date": "2020-08-01",
+      "opt_out": false,
+      "lifetime_value": 4748.9
+    },
+    {
+      "id": "CRM-000096",
+      "email": "customer84@gmail.com",
+      "profile": { "first_name": "Ama", "last_name": "Gonz\u00e1lez" },
+      "phone": "+81-3-1234-5678",
+      "region": "North America",
+      "registration_date": "2020-09-01",
+      "opt_out": false,
+      "lifetime_value": 1809.42
+    },
+    {
+      "id": "CRM-000097",
+      "email": "customer63@gmail.com",
+      "profile": { "first_name": "Akosua", "last_name": "Brown" },
+      "phone": "invalid-phone",
+      "region": "N/A",
+      "registration_date": "2023-11-01",
+      "opt_out": false,
+      "lifetime_value": 1256.82
+    },
+    {
+      "id": "CRM-000098",
+      "email": "customer312@gmail.com",
+      "profile": { "first_name": "Kofi", "last_name": "Brown" },
+      "phone": "invalid-phone",
+      "region": "Europe",
+      "registration_date": "2022-12-01",
+      "opt_out": false,
+      "lifetime_value": 3724.24
+    },
+    {
+      "id": "CRM-000099",
+      "email": "customer679@yahoo.com",
+      "profile": { "first_name": "Kofi", "last_name": "Mart\u00ednez" },
+      "phone": "5551234567",
+      "region": "N/A",
+      "registration_date": "2022-02-01",
+      "opt_out": false,
+      "lifetime_value": 3511.73
+    },
+    {
+      "id": "CRM-000100",
+      "email": "customer346@yahoo.com",
+      "profile": { "first_name": "Jane", "last_name": "Jones" },
+      "phone": "5551234567",
+      "region": "Asia",
+      "registration_date": "2020-09-01",
+      "opt_out": false,
+      "lifetime_value": 3688.37
+    },
+    {
+      "id": "CRM-000101",
+      "email": "customer111@gmail.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Wang" },
+      "phone": "555.123.4567",
+      "region": "USA",
+      "registration_date": "2021-05-01",
+      "opt_out": false,
+      "lifetime_value": 3485.39
+    },
+    {
+      "id": "CRM-000102",
+      "email": "customer536@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "Kim" },
+      "phone": "020 7946 0958",
+      "region": "AP",
+      "registration_date": "2021-11-01",
+      "opt_out": false,
+      "lifetime_value": 3686.31
+    },
+    {
+      "id": "CRM-000103",
+      "email": "customer74@company.com",
+      "profile": { "first_name": "Ama", "last_name": "Garcia" },
+      "phone": null,
+      "region": "europe",
+      "registration_date": "2022-05-01",
+      "opt_out": false,
+      "lifetime_value": 502.54
+    },
+    {
+      "id": "CRM-000104",
+      "email": "customer145@yahoo.com",
+      "profile": { "first_name": "Chris", "last_name": "Asante" },
+      "phone": "020 7946 0958",
+      "region": "united states",
+      "registration_date": "2020-03-01",
+      "opt_out": true,
+      "lifetime_value": 1021.66
+    },
+    {
+      "id": "CRM-000105",
+      "email": "customer428@company.com",
+      "profile": { "first_name": "John", "last_name": "Wang" },
+      "phone": null,
+      "region": "united states",
+      "registration_date": "2021-09-01",
+      "opt_out": false,
+      "lifetime_value": 3153.49
+    },
+    {
+      "id": "CRM-000106",
+      "email": "customer722@company.com",
+      "profile": { "first_name": "Jane", "last_name": "Williams" },
+      "phone": "020 7946 0958",
+      "region": "Europe",
+      "registration_date": "2021-03-01",
+      "opt_out": false,
+      "lifetime_value": 1670.73
+    },
+    {
+      "id": "CRM-000107",
+      "email": "customer480@gmail.com",
+      "profile": { "first_name": "Mike", "last_name": "Johnson" },
+      "phone": "020 7946 0958",
+      "region": "united states",
+      "registration_date": "2022-02-01",
+      "opt_out": false,
+      "lifetime_value": 2797.91
+    },
+    {
+      "id": "CRM-000108",
+      "email": "customer645@gmail.com",
+      "profile": { "first_name": "Maria", "last_name": "Williams" },
+      "phone": null,
+      "region": "eu",
+      "registration_date": "2023-11-01",
+      "opt_out": false,
+      "lifetime_value": 900.56
+    },
+    {
+      "id": "CRM-000109",
+      "email": "customer541@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "Brown" },
+      "phone": "555.123.4567",
+      "region": "",
+      "registration_date": "2023-08-01",
+      "opt_out": false,
+      "lifetime_value": 4068.74
+    },
+    {
+      "id": "CRM-000110",
+      "email": "customer14@company.com",
+      "profile": { "first_name": "Evans", "last_name": "Wang" },
+      "phone": "+44 20 7946 0958",
+      "region": "USA",
+      "registration_date": "2023-09-01",
+      "opt_out": false,
+      "lifetime_value": 1503.0
+    },
+    {
+      "id": "CRM-000111",
+      "email": "customer208@yahoo.com",
+      "profile": { "first_name": "Alex", "last_name": "D\u00edaz" },
+      "phone": "5551234567",
+      "region": "Europe",
+      "registration_date": "2022-09-01",
+      "opt_out": true,
+      "lifetime_value": 2319.67
+    },
+    {
+      "id": "CRM-000112",
+      "email": "customer787@yahoo.com",
+      "profile": { "first_name": "Akosua", "last_name": "D\u00edaz" },
+      "phone": "020 7946 0958",
+      "region": "USA",
+      "registration_date": "2021-04-01",
+      "opt_out": true,
+      "lifetime_value": 3614.78
+    },
+    {
+      "id": "CRM-000113",
+      "email": "customer94@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Kim" },
+      "phone": "555.123.4567",
+      "region": "united states",
+      "registration_date": "2022-09-01",
+      "opt_out": false,
+      "lifetime_value": 54.6
+    },
+    {
+      "id": "CRM-000114",
+      "email": "customer484@yahoo.com",
+      "profile": { "first_name": "John", "last_name": "Smith" },
+      "phone": null,
+      "region": "Asia Pacific",
+      "registration_date": "2020-12-01",
+      "opt_out": false,
+      "lifetime_value": 4563.04
+    },
+    {
+      "id": "CRM-000115",
+      "email": "customer72@gmail.com",
+      "profile": { "first_name": "John", "last_name": "Brown" },
+      "phone": "020 7946 0958",
+      "region": "APAC",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 1087.97
+    },
+    {
+      "id": "CRM-000116",
+      "email": "customer486@gmail.com",
+      "profile": { "first_name": "Kofi", "last_name": "Asante" },
+      "phone": "555.123.4567",
+      "region": "AP",
+      "registration_date": "2020-07-01",
+      "opt_out": false,
+      "lifetime_value": 801.84
+    },
+    {
+      "id": "CRM-000117",
+      "email": "customer787@yahoo.com",
+      "profile": { "first_name": "John", "last_name": "Asante" },
+      "phone": "+44 20 7946 0958",
+      "region": "US",
+      "registration_date": "2020-02-01",
+      "opt_out": true,
+      "lifetime_value": 2169.51
+    },
+    {
+      "id": "CRM-000118",
+      "email": "customer731@company.com",
+      "profile": { "first_name": "Mike", "last_name": "D\u00edaz" },
+      "phone": "555.123.4567",
+      "region": "North America",
+      "registration_date": "2022-02-01",
+      "opt_out": false,
+      "lifetime_value": 1600.67
+    },
+    {
+      "id": "CRM-000119",
+      "email": "customer324@gmail.com",
+      "profile": { "first_name": "Akosua", "last_name": "Wang" },
+      "phone": "020 7946 0958",
+      "region": "APAC",
+      "registration_date": "2022-08-01",
+      "opt_out": false,
+      "lifetime_value": 3985.54
+    },
+    {
+      "id": "CRM-000120",
+      "email": "customer491@company.com",
+      "profile": { "first_name": "Sarah", "last_name": "Williams" },
+      "phone": "+1 (555) 123-4567",
+      "region": "Europe",
+      "registration_date": "2021-01-01",
+      "opt_out": false,
+      "lifetime_value": 3225.76
+    },
+    {
+      "id": "CRM-000121",
+      "email": "customer541@yahoo.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Jones" },
+      "phone": "invalid-phone",
+      "region": "North America",
+      "registration_date": "2020-06-01",
+      "opt_out": false,
+      "lifetime_value": 1280.27
+    },
+    {
+      "id": "CRM-000122",
+      "email": "customer731@company.com",
+      "profile": { "first_name": "Kofi", "last_name": "D\u00edaz" },
+      "phone": "+81-3-1234-5678",
+      "region": "APAC",
+      "registration_date": "2020-07-01",
+      "opt_out": true,
+      "lifetime_value": 3835.02
+    },
+    {
+      "id": "CRM-000123",
+      "email": "customer517@yahoo.com",
+      "profile": { "first_name": "Ama", "last_name": "Jones" },
+      "phone": "+1 (555) 123-4567",
+      "region": "EMEA",
+      "registration_date": "2021-09-01",
+      "opt_out": false,
+      "lifetime_value": 3363.32
+    },
+    {
+      "id": "CRM-000124",
+      "email": "customer330@gmail.com",
+      "profile": { "first_name": "Akosua", "last_name": "L\u00f3pez" },
+      "phone": "+1 (555) 123-4567",
+      "region": "us",
+      "registration_date": "2021-12-01",
+      "opt_out": false,
+      "lifetime_value": 4314.02
+    },
+    {
+      "id": "CRM-000125",
+      "email": "customer77@company.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Mensah" },
+      "phone": "5551234567",
+      "region": "us",
+      "registration_date": "2020-06-01",
+      "opt_out": false,
+      "lifetime_value": 3771.53
+    },
+    {
+      "id": "CRM-000126",
+      "email": "customer327@gmail.com",
+      "profile": { "first_name": "Akosua", "last_name": "Jones" },
+      "phone": "5551234567",
+      "region": "",
+      "registration_date": "2020-01-01",
+      "opt_out": false,
+      "lifetime_value": 455.73
+    },
+    {
+      "id": "CRM-000127",
+      "email": "customer707@company.com",
+      "profile": { "first_name": "Akosua", "last_name": "Brown" },
+      "phone": "5551234567",
+      "region": "APAC",
+      "registration_date": "2022-06-01",
+      "opt_out": false,
+      "lifetime_value": 4305.41
+    },
+    {
+      "id": "CRM-000128",
+      "email": "customer0@gmail.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Mart\u00ednez" },
+      "phone": "555.123.4567",
+      "region": "apac",
+      "registration_date": "2023-07-01",
+      "opt_out": false,
+      "lifetime_value": 4190.39
+    },
+    {
+      "id": "CRM-000129",
+      "email": "customer689@company.com",
+      "profile": { "first_name": "Kofi", "last_name": "Boateng" },
+      "phone": null,
+      "region": "US",
+      "registration_date": "2020-11-01",
+      "opt_out": false,
+      "lifetime_value": 2331.45
+    },
+    {
+      "id": "CRM-000130",
+      "email": "customer388@yahoo.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Williams" },
+      "phone": null,
+      "region": "USA",
+      "registration_date": "2023-03-01",
+      "opt_out": false,
+      "lifetime_value": 3371.51
+    },
+    {
+      "id": "CRM-000131",
+      "email": "customer252@gmail.com",
+      "profile": { "first_name": "Kofi", "last_name": "Mart\u00ednez" },
+      "phone": "020 7946 0958",
+      "region": "North America",
+      "registration_date": "2023-04-01",
+      "opt_out": false,
+      "lifetime_value": 2068.5
+    },
+    {
+      "id": "CRM-000132",
+      "email": "customer717@gmail.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Smith" },
+      "phone": "+81-3-1234-5678",
+      "region": "",
+      "registration_date": "2021-04-01",
+      "opt_out": false,
+      "lifetime_value": 3491.18
+    },
+    {
+      "id": "CRM-000133",
+      "email": "customer701@company.com",
+      "profile": { "first_name": "Akosua", "last_name": "Mensah" },
+      "phone": "+1 (555) 123-4567",
+      "region": "North America",
+      "registration_date": "2020-02-01",
+      "opt_out": false,
+      "lifetime_value": 1995.95
+    },
+    {
+      "id": "CRM-000134",
+      "email": "customer255@gmail.com",
+      "profile": { "first_name": "Chris", "last_name": "Smith" },
+      "phone": null,
+      "region": null,
+      "registration_date": "2020-02-01",
+      "opt_out": false,
+      "lifetime_value": 1818.1
+    },
+    {
+      "id": "CRM-000135",
+      "email": "customer348@gmail.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Mart\u00ednez" },
+      "phone": "555.123.4567",
+      "region": "europe",
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 2563.4
+    },
+    {
+      "id": "CRM-000136",
+      "email": "customer549@gmail.com",
+      "profile": { "first_name": "Ama", "last_name": "Johnson" },
+      "phone": "555.123.4567",
+      "region": "US",
+      "registration_date": "2022-06-01",
+      "opt_out": false,
+      "lifetime_value": 2283.77
+    },
+    {
+      "id": "CRM-000137",
+      "email": "customer600@gmail.com",
+      "profile": { "first_name": "Kwame", "last_name": "Gonz\u00e1lez" },
+      "phone": "+1 (555) 123-4567",
+      "region": null,
+      "registration_date": "2020-05-01",
+      "opt_out": false,
+      "lifetime_value": 4480.53
+    },
+    {
+      "id": "CRM-000138",
+      "email": "customer305@company.com",
+      "profile": { "first_name": "Ama", "last_name": "Gonz\u00e1lez" },
+      "phone": "5551234567",
+      "region": "us",
+      "registration_date": "2022-01-01",
+      "opt_out": false,
+      "lifetime_value": 278.01
+    },
+    {
+      "id": "CRM-000139",
+      "email": "customer131@company.com",
+      "profile": { "first_name": "Abena", "last_name": "Mart\u00ednez" },
+      "phone": "020 7946 0958",
+      "region": "North America",
+      "registration_date": "2021-01-01",
+      "opt_out": true,
+      "lifetime_value": 2204.55
+    },
+    {
+      "id": "CRM-000140",
+      "email": "customer659@company.com",
+      "profile": { "first_name": "John", "last_name": "L\u00f3pez" },
+      "phone": null,
+      "region": "US",
+      "registration_date": "2020-05-01",
+      "opt_out": false,
+      "lifetime_value": 2122.54
+    },
+    {
+      "id": "CRM-000141",
+      "email": "customer696@gmail.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Kim" },
+      "phone": null,
+      "region": "eu",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 880.68
+    },
+    {
+      "id": "CRM-000142",
+      "email": "customer421@yahoo.com",
+      "profile": { "first_name": "Sarah", "last_name": "D\u00edaz" },
+      "phone": "+1 (555) 123-4567",
+      "region": "Asia",
+      "registration_date": "2020-02-01",
+      "opt_out": false,
+      "lifetime_value": 1197.61
+    },
+    {
+      "id": "CRM-000143",
+      "email": "customer512@company.com",
+      "profile": { "first_name": "Evans", "last_name": "Jones" },
+      "phone": "+44 20 7946 0958",
+      "region": "apac",
+      "registration_date": "2021-11-01",
+      "opt_out": false,
+      "lifetime_value": 3125.59
+    },
+    {
+      "id": "CRM-000144",
+      "email": "customer283@yahoo.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Williams" },
+      "phone": "invalid-phone",
+      "region": "EU",
+      "registration_date": "2023-06-01",
+      "opt_out": false,
+      "lifetime_value": 1201.55
+    },
+    {
+      "id": "CRM-000145",
+      "email": "customer471@gmail.com",
+      "profile": { "first_name": "Yaw", "last_name": "Gonz\u00e1lez" },
+      "phone": "020 7946 0958",
+      "region": "Europe",
+      "registration_date": "2020-08-01",
+      "opt_out": false,
+      "lifetime_value": 1739.16
+    },
+    {
+      "id": "CRM-000146",
+      "email": "customer228@gmail.com",
+      "profile": { "first_name": "Sarah", "last_name": "Gonz\u00e1lez" },
+      "phone": "5551234567",
+      "region": "North America",
+      "registration_date": "2020-10-01",
+      "opt_out": true,
+      "lifetime_value": 3877.26
+    },
+    {
+      "id": "CRM-000147",
+      "email": "customer181@yahoo.com",
+      "profile": { "first_name": "Akosua", "last_name": "Kim" },
+      "phone": "+81-3-1234-5678",
+      "region": "united states",
+      "registration_date": "2021-10-01",
+      "opt_out": false,
+      "lifetime_value": 4049.94
+    },
+    {
+      "id": "CRM-000148",
+      "email": "customer145@yahoo.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Jones" },
+      "phone": "5551234567",
+      "region": "North America",
+      "registration_date": "2021-01-01",
+      "opt_out": true,
+      "lifetime_value": 2023.28
+    },
+    {
+      "id": "CRM-000149",
+      "email": "customer362@company.com",
+      "profile": { "first_name": "Abena", "last_name": "L\u00f3pez" },
+      "phone": "+81-3-1234-5678",
+      "region": "Europe",
+      "registration_date": "2021-09-01",
+      "opt_out": false,
+      "lifetime_value": 2047.23
+    },
+    {
+      "id": "CRM-000150",
+      "email": "customer434@company.com",
+      "profile": { "first_name": "Sarah", "last_name": "Mart\u00ednez" },
+      "phone": "020 7946 0958",
+      "region": "Asia Pacific",
+      "registration_date": "2023-11-01",
+      "opt_out": false,
+      "lifetime_value": 1573.7
+    },
+    {
+      "id": "CRM-000151",
+      "email": "customer240@gmail.com",
+      "profile": { "first_name": "Evans", "last_name": "D\u00edaz" },
+      "phone": "+1 (555) 123-4567",
+      "region": "us",
+      "registration_date": "2021-09-01",
+      "opt_out": false,
+      "lifetime_value": 2116.1
+    },
+    {
+      "id": "CRM-000152",
+      "email": "customer285@gmail.com",
+      "profile": { "first_name": "Jane", "last_name": "L\u00f3pez" },
+      "phone": "+1 (555) 123-4567",
+      "region": "eu",
+      "registration_date": "2023-03-01",
+      "opt_out": false,
+      "lifetime_value": 578.66
+    },
+    {
+      "id": "CRM-000153",
+      "email": "customer542@company.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Mart\u00ednez" },
+      "phone": "020 7946 0958",
+      "region": "united states",
+      "registration_date": "2021-07-01",
+      "opt_out": true,
+      "lifetime_value": 1607.41
+    },
+    {
+      "id": "CRM-000154",
+      "email": "customer470@company.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Asante" },
+      "phone": "invalid-phone",
+      "region": "US",
+      "registration_date": "2023-02-01",
+      "opt_out": true,
+      "lifetime_value": 991.14
+    },
+    {
+      "id": "CRM-000155",
+      "email": "customer476@company.com",
+      "profile": { "first_name": "Mike", "last_name": "Garcia" },
+      "phone": "+1 (555) 123-4567",
+      "region": "N/A",
+      "registration_date": "2022-01-01",
+      "opt_out": false,
+      "lifetime_value": 4305.24
+    },
+    {
+      "id": "CRM-000156",
+      "email": "customer491@company.com",
+      "profile": { "first_name": "Maria", "last_name": "Mensah" },
+      "phone": "+81-3-1234-5678",
+      "region": "North America",
+      "registration_date": "2023-12-01",
+      "opt_out": false,
+      "lifetime_value": 4677.24
+    },
+    {
+      "id": "CRM-000157",
+      "email": "customer170@company.com",
+      "profile": { "first_name": "Kofi", "last_name": "Williams" },
+      "phone": "+81-3-1234-5678",
+      "region": "europe",
+      "registration_date": "2022-12-01",
+      "opt_out": false,
+      "lifetime_value": 1916.42
+    },
+    {
+      "id": "CRM-000158",
+      "email": "customer451@yahoo.com",
+      "profile": { "first_name": "Mike", "last_name": "Jones" },
+      "phone": "5551234567",
+      "region": "AP",
+      "registration_date": "2022-03-01",
+      "opt_out": false,
+      "lifetime_value": 1011.65
+    },
+    {
+      "id": "CRM-000159",
+      "email": "customer80@company.com",
+      "profile": {
+        "first_name": "Fran\u00e7ois",
+        "last_name": "Mart\u00ednez"
+      },
+      "phone": "+1 (555) 123-4567",
+      "region": "united states",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 3245.4
+    },
+    {
+      "id": "CRM-000160",
+      "email": "customer437@company.com",
+      "profile": { "first_name": "Sarah", "last_name": "Garcia" },
+      "phone": "555.123.4567",
+      "region": null,
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 1141.52
+    },
+    {
+      "id": "CRM-000161",
+      "email": "customer96@gmail.com",
+      "profile": { "first_name": "Kofi", "last_name": "Wang" },
+      "phone": null,
+      "region": "USA",
+      "registration_date": "2022-12-01",
+      "opt_out": true,
+      "lifetime_value": 3686.81
+    },
+    {
+      "id": "CRM-000162",
+      "email": "customer547@yahoo.com",
+      "profile": { "first_name": "Maria", "last_name": "Kim" },
+      "phone": "+1 (555) 123-4567",
+      "region": "EMEA",
+      "registration_date": "2023-11-01",
+      "opt_out": true,
+      "lifetime_value": 748.94
+    },
+    {
+      "id": "CRM-000163",
+      "email": "customer566@company.com",
+      "profile": { "first_name": "John", "last_name": "Asante" },
+      "phone": null,
+      "region": "US",
+      "registration_date": "2021-07-01",
+      "opt_out": false,
+      "lifetime_value": 2416.89
+    },
+    {
+      "id": "CRM-000164",
+      "email": "customer546@gmail.com",
+      "profile": { "first_name": "Akosua", "last_name": "L\u00f3pez" },
+      "phone": "+1 (555) 123-4567",
+      "region": "USA",
+      "registration_date": "2022-02-01",
+      "opt_out": false,
+      "lifetime_value": 2678.99
+    },
+    {
+      "id": "CRM-000165",
+      "email": "customer582@gmail.com",
+      "profile": { "first_name": "Kofi", "last_name": "Johnson" },
+      "phone": null,
+      "region": "North America",
+      "registration_date": "2022-02-01",
+      "opt_out": true,
+      "lifetime_value": 4110.6
+    },
+    {
+      "id": "CRM-000166",
+      "email": "customer572@company.com",
+      "profile": { "first_name": "Mike", "last_name": "D\u00edaz" },
+      "phone": "5551234567",
+      "region": "US",
+      "registration_date": "2022-10-01",
+      "opt_out": false,
+      "lifetime_value": 3002.51
+    },
+    {
+      "id": "CRM-000167",
+      "email": "customer739@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Garcia" },
+      "phone": "invalid-phone",
+      "region": "Europe",
+      "registration_date": "2023-01-01",
+      "opt_out": false,
+      "lifetime_value": 4840.33
+    },
+    {
+      "id": "CRM-000168",
+      "email": "customer681@gmail.com",
+      "profile": { "first_name": "Evans", "last_name": "Boateng" },
+      "phone": "+81-3-1234-5678",
+      "region": "europe",
+      "registration_date": "2020-11-01",
+      "opt_out": false,
+      "lifetime_value": 1006.14
+    },
+    {
+      "id": "CRM-000169",
+      "email": "customer186@gmail.com",
+      "profile": { "first_name": "Kwame", "last_name": "Gonz\u00e1lez" },
+      "phone": "invalid-phone",
+      "region": null,
+      "registration_date": "2022-04-01",
+      "opt_out": false,
+      "lifetime_value": 2094.88
+    },
+    {
+      "id": "CRM-000170",
+      "email": "customer600@gmail.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Kim" },
+      "phone": "+1 (555) 123-4567",
+      "region": "",
+      "registration_date": "2021-01-01",
+      "opt_out": true,
+      "lifetime_value": 3640.17
+    },
+    {
+      "id": "CRM-000171",
+      "email": "customer175@yahoo.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Wang" },
+      "phone": "5551234567",
+      "region": "EMEA",
+      "registration_date": "2020-08-01",
+      "opt_out": false,
+      "lifetime_value": 1524.99
+    },
+    {
+      "id": "CRM-000172",
+      "email": "customer656@company.com",
+      "profile": { "first_name": "John", "last_name": "Brown" },
+      "phone": "+44 20 7946 0958",
+      "region": "united states",
+      "registration_date": "2020-02-01",
+      "opt_out": false,
+      "lifetime_value": 1265.48
+    },
+    {
+      "id": "CRM-000173",
+      "email": "customer648@gmail.com",
+      "profile": { "first_name": "Evans", "last_name": "Kim" },
+      "phone": "+81-3-1234-5678",
+      "region": "EU",
+      "registration_date": "2021-08-01",
+      "opt_out": false,
+      "lifetime_value": 1239.09
+    },
+    {
+      "id": "CRM-000174",
+      "email": "customer694@yahoo.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Johnson" },
+      "phone": "+1 (555) 123-4567",
+      "region": "europe",
+      "registration_date": "2021-01-01",
+      "opt_out": false,
+      "lifetime_value": 872.84
+    },
+    {
+      "id": "CRM-000175",
+      "email": "customer100@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Mensah" },
+      "phone": "+1 (555) 123-4567",
+      "region": "Asia",
+      "registration_date": "2021-01-01",
+      "opt_out": false,
+      "lifetime_value": 68.99
+    },
+    {
+      "id": "CRM-000176",
+      "email": "customer403@yahoo.com",
+      "profile": { "first_name": "Akosua", "last_name": "Johnson" },
+      "phone": "+1 (555) 123-4567",
+      "region": "US",
+      "registration_date": "2023-09-01",
+      "opt_out": false,
+      "lifetime_value": 2521.03
+    },
+    {
+      "id": "CRM-000177",
+      "email": "customer246@gmail.com",
+      "profile": { "first_name": "Sarah", "last_name": "Williams" },
+      "phone": "+44 20 7946 0958",
+      "region": "Europe",
+      "registration_date": "2023-10-01",
+      "opt_out": false,
+      "lifetime_value": 1743.56
+    },
+    {
+      "id": "CRM-000178",
+      "email": "customer91@yahoo.com",
+      "profile": { "first_name": "Kwame", "last_name": "Boateng" },
+      "phone": "020 7946 0958",
+      "region": "USA",
+      "registration_date": "2020-10-01",
+      "opt_out": false,
+      "lifetime_value": 1531.2
+    },
+    {
+      "id": "CRM-000179",
+      "email": "customer587@company.com",
+      "profile": { "first_name": "Abena", "last_name": "Garcia" },
+      "phone": "555.123.4567",
+      "region": "EMEA",
+      "registration_date": "2022-11-01",
+      "opt_out": false,
+      "lifetime_value": 4173.04
+    },
+    {
+      "id": "CRM-000180",
+      "email": "customer711@gmail.com",
+      "profile": { "first_name": "John", "last_name": "Johnson" },
+      "phone": "5551234567",
+      "region": "united states",
+      "registration_date": "2023-08-01",
+      "opt_out": false,
+      "lifetime_value": 2005.51
+    },
+    {
+      "id": "CRM-000181",
+      "email": "customer560@company.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Asante" },
+      "phone": "555.123.4567",
+      "region": null,
+      "registration_date": "2023-10-01",
+      "opt_out": false,
+      "lifetime_value": 2347.81
+    },
+    {
+      "id": "CRM-000182",
+      "email": "customer133@yahoo.com",
+      "profile": { "first_name": "John", "last_name": "Smith" },
+      "phone": "+1 (555) 123-4567",
+      "region": "Asia",
+      "registration_date": "2021-10-01",
+      "opt_out": false,
+      "lifetime_value": 2449.21
+    },
+    {
+      "id": "CRM-000183",
+      "email": "customer120@gmail.com",
+      "profile": { "first_name": "Maria", "last_name": "Brown" },
+      "phone": "555.123.4567",
+      "region": null,
+      "registration_date": "2022-03-01",
+      "opt_out": true,
+      "lifetime_value": 3589.87
+    },
+    {
+      "id": "CRM-000184",
+      "email": "customer458@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "Jones" },
+      "phone": "+81-3-1234-5678",
+      "region": "Asia Pacific",
+      "registration_date": "2021-01-01",
+      "opt_out": true,
+      "lifetime_value": 2648.99
+    },
+    {
+      "id": "CRM-000185",
+      "email": "customer780@gmail.com",
+      "profile": { "first_name": "Ama", "last_name": "Gonz\u00e1lez" },
+      "phone": null,
+      "region": "united states",
+      "registration_date": "2023-10-01",
+      "opt_out": false,
+      "lifetime_value": 2172.38
+    },
+    {
+      "id": "CRM-000186",
+      "email": "customer577@yahoo.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Kim" },
+      "phone": "+81-3-1234-5678",
+      "region": null,
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 734.92
+    },
+    {
+      "id": "CRM-000187",
+      "email": "customer129@gmail.com",
+      "profile": { "first_name": "Evans", "last_name": "Williams" },
+      "phone": "+44 20 7946 0958",
+      "region": "apac",
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 3860.25
+    },
+    {
+      "id": "CRM-000188",
+      "email": "customer611@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "Brown" },
+      "phone": "invalid-phone",
+      "region": "EMEA",
+      "registration_date": "2022-02-01",
+      "opt_out": true,
+      "lifetime_value": 2602.6
+    },
+    {
+      "id": "CRM-000189",
+      "email": "customer191@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "Mart\u00ednez" },
+      "phone": "555.123.4567",
+      "region": "APAC",
+      "registration_date": "2023-04-01",
+      "opt_out": false,
+      "lifetime_value": 3006.7
+    },
+    {
+      "id": "CRM-000190",
+      "email": "customer50@company.com",
+      "profile": { "first_name": "Kofi", "last_name": "Boateng" },
+      "phone": "invalid-phone",
+      "region": "USA",
+      "registration_date": "2023-03-01",
+      "opt_out": false,
+      "lifetime_value": 4354.77
+    },
+    {
+      "id": "CRM-000191",
+      "email": "customer618@gmail.com",
+      "profile": { "first_name": "Abena", "last_name": "Garcia" },
+      "phone": "555.123.4567",
+      "region": "USA",
+      "registration_date": "2022-11-01",
+      "opt_out": false,
+      "lifetime_value": 1406.9
+    },
+    {
+      "id": "CRM-000192",
+      "email": "customer386@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "Wang" },
+      "phone": "+44 20 7946 0958",
+      "region": "europe",
+      "registration_date": "2022-05-01",
+      "opt_out": false,
+      "lifetime_value": 3194.85
+    },
+    {
+      "id": "CRM-000193",
+      "email": "customer92@company.com",
+      "profile": { "first_name": "Jane", "last_name": "Boateng" },
+      "phone": "+81-3-1234-5678",
+      "region": null,
+      "registration_date": "2023-05-01",
+      "opt_out": false,
+      "lifetime_value": 3536.46
+    },
+    {
+      "id": "CRM-000194",
+      "email": "customer617@company.com",
+      "profile": { "first_name": "Alex", "last_name": "D\u00edaz" },
+      "phone": "invalid-phone",
+      "region": "",
+      "registration_date": "2022-07-01",
+      "opt_out": true,
+      "lifetime_value": 3610.26
+    },
+    {
+      "id": "CRM-000195",
+      "email": "customer651@gmail.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Asante" },
+      "phone": "555.123.4567",
+      "region": "Asia Pacific",
+      "registration_date": "2021-02-01",
+      "opt_out": false,
+      "lifetime_value": 3644.12
+    },
+    {
+      "id": "CRM-000196",
+      "email": "customer656@company.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Mensah" },
+      "phone": "+1 (555) 123-4567",
+      "region": "Asia Pacific",
+      "registration_date": "2022-03-01",
+      "opt_out": false,
+      "lifetime_value": 333.69
+    },
+    {
+      "id": "CRM-000197",
+      "email": "customer396@gmail.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Smith" },
+      "phone": "+1 (555) 123-4567",
+      "region": "North America",
+      "registration_date": "2020-06-01",
+      "opt_out": true,
+      "lifetime_value": 2934.3
+    },
+    {
+      "id": "CRM-000198",
+      "email": "customer18@gmail.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Smith" },
+      "phone": "+81-3-1234-5678",
+      "region": "AP",
+      "registration_date": "2020-10-01",
+      "opt_out": false,
+      "lifetime_value": 1000.52
+    },
+    {
+      "id": "CRM-000199",
+      "email": "customer306@gmail.com",
+      "profile": { "first_name": "Kofi", "last_name": "Mart\u00ednez" },
+      "phone": "5551234567",
+      "region": "Europe",
+      "registration_date": "2020-02-01",
+      "opt_out": false,
+      "lifetime_value": 1705.49
+    },
+    {
+      "id": "CRM-000200",
+      "email": "customer308@company.com",
+      "profile": { "first_name": "Yaw", "last_name": "Brown" },
+      "phone": "555.123.4567",
+      "region": "AP",
+      "registration_date": "2023-08-01",
+      "opt_out": false,
+      "lifetime_value": 1958.49
+    },
+    {
+      "id": "CRM-000201",
+      "email": "customer252@gmail.com",
+      "profile": { "first_name": "Alex", "last_name": "Garcia" },
+      "phone": null,
+      "region": "Europe",
+      "registration_date": "2021-05-01",
+      "opt_out": false,
+      "lifetime_value": 395.11
+    },
+    {
+      "id": "CRM-000202",
+      "email": "customer19@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "Boateng" },
+      "phone": "+81-3-1234-5678",
+      "region": "europe",
+      "registration_date": "2022-09-01",
+      "opt_out": false,
+      "lifetime_value": 3698.81
+    },
+    {
+      "id": "CRM-000203",
+      "email": "customer245@company.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Smith" },
+      "phone": "+1 (555) 123-4567",
+      "region": "us",
+      "registration_date": "2021-07-01",
+      "opt_out": false,
+      "lifetime_value": 295.82
+    },
+    {
+      "id": "CRM-000204",
+      "email": "customer50@company.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Jones" },
+      "phone": "020 7946 0958",
+      "region": "Europe",
+      "registration_date": "2022-10-01",
+      "opt_out": false,
+      "lifetime_value": 1719.47
+    },
+    {
+      "id": "CRM-000205",
+      "email": "customer69@gmail.com",
+      "profile": { "first_name": "Abena", "last_name": "L\u00f3pez" },
+      "phone": "020 7946 0958",
+      "region": "eu",
+      "registration_date": "2023-01-01",
+      "opt_out": false,
+      "lifetime_value": 420.73
+    },
+    {
+      "id": "CRM-000206",
+      "email": "customer755@company.com",
+      "profile": { "first_name": "Alex", "last_name": "Mensah" },
+      "phone": "020 7946 0958",
+      "region": "North America",
+      "registration_date": "2021-09-01",
+      "opt_out": false,
+      "lifetime_value": 356.64
+    },
+    {
+      "id": "CRM-000207",
+      "email": "customer793@yahoo.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Williams" },
+      "phone": null,
+      "region": "US",
+      "registration_date": "2022-02-01",
+      "opt_out": false,
+      "lifetime_value": 2153.52
+    },
+    {
+      "id": "CRM-000208",
+      "email": "customer342@gmail.com",
+      "profile": { "first_name": "Abena", "last_name": "Garcia" },
+      "phone": "+81-3-1234-5678",
+      "region": "US",
+      "registration_date": "2022-08-01",
+      "opt_out": true,
+      "lifetime_value": 1291.91
+    },
+    {
+      "id": "CRM-000209",
+      "email": "customer686@company.com",
+      "profile": { "first_name": "Jane", "last_name": "Brown" },
+      "phone": "5551234567",
+      "region": "united states",
+      "registration_date": "2021-04-01",
+      "opt_out": false,
+      "lifetime_value": 2909.18
+    },
+    {
+      "id": "CRM-000210",
+      "email": "customer757@yahoo.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Mart\u00ednez" },
+      "phone": "invalid-phone",
+      "region": "EMEA",
+      "registration_date": "2021-08-01",
+      "opt_out": false,
+      "lifetime_value": 4429.8
+    },
+    {
+      "id": "CRM-000211",
+      "email": "customer308@company.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Mensah" },
+      "phone": "555.123.4567",
+      "region": "Asia Pacific",
+      "registration_date": "2023-01-01",
+      "opt_out": true,
+      "lifetime_value": 4851.87
+    },
+    {
+      "id": "CRM-000212",
+      "email": "customer163@yahoo.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Mensah" },
+      "phone": "+44 20 7946 0958",
+      "region": "Europe",
+      "registration_date": "2020-08-01",
+      "opt_out": false,
+      "lifetime_value": 4248.5
+    },
+    {
+      "id": "CRM-000213",
+      "email": "customer209@company.com",
+      "profile": { "first_name": "Maria", "last_name": "Mart\u00ednez" },
+      "phone": null,
+      "region": "APAC",
+      "registration_date": "2022-10-01",
+      "opt_out": false,
+      "lifetime_value": 1445.5
+    },
+    {
+      "id": "CRM-000214",
+      "email": "customer139@yahoo.com",
+      "profile": { "first_name": "Alex", "last_name": "Garcia" },
+      "phone": "555.123.4567",
+      "region": "AP",
+      "registration_date": "2020-09-01",
+      "opt_out": false,
+      "lifetime_value": 4568.36
+    },
+    {
+      "id": "CRM-000215",
+      "email": "customer4@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Boateng" },
+      "phone": "+44 20 7946 0958",
+      "region": "apac",
+      "registration_date": "2023-11-01",
+      "opt_out": false,
+      "lifetime_value": 3771.27
+    },
+    {
+      "id": "CRM-000216",
+      "email": "customer107@company.com",
+      "profile": { "first_name": "John", "last_name": "L\u00f3pez" },
+      "phone": "5551234567",
+      "region": "US",
+      "registration_date": "2020-05-01",
+      "opt_out": false,
+      "lifetime_value": 444.59
+    },
+    {
+      "id": "CRM-000217",
+      "email": "customer281@company.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Smith" },
+      "phone": "+44 20 7946 0958",
+      "region": "USA",
+      "registration_date": "2022-08-01",
+      "opt_out": false,
+      "lifetime_value": 4020.09
+    },
+    {
+      "id": "CRM-000218",
+      "email": "customer782@company.com",
+      "profile": { "first_name": "Abena", "last_name": "Jones" },
+      "phone": "555.123.4567",
+      "region": "EU",
+      "registration_date": "2020-05-01",
+      "opt_out": false,
+      "lifetime_value": 4232.61
+    },
+    {
+      "id": "CRM-000219",
+      "email": "customer759@gmail.com",
+      "profile": { "first_name": "Akosua", "last_name": "L\u00f3pez" },
+      "phone": "+81-3-1234-5678",
+      "region": "EU",
+      "registration_date": "2023-03-01",
+      "opt_out": false,
+      "lifetime_value": 961.02
+    },
+    {
+      "id": "CRM-000220",
+      "email": "customer709@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Boateng" },
+      "phone": "invalid-phone",
+      "region": "EU",
+      "registration_date": "2022-12-01",
+      "opt_out": false,
+      "lifetime_value": 249.65
+    },
+    {
+      "id": "CRM-000221",
+      "email": "customer220@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "Kim" },
+      "phone": "+1 (555) 123-4567",
+      "region": "EMEA",
+      "registration_date": "2020-11-01",
+      "opt_out": false,
+      "lifetime_value": 1069.73
+    },
+    {
+      "id": "CRM-000222",
+      "email": "customer634@yahoo.com",
+      "profile": { "first_name": "John", "last_name": "Boateng" },
+      "phone": null,
+      "region": "united states",
+      "registration_date": "2020-04-01",
+      "opt_out": false,
+      "lifetime_value": 4052.42
+    },
+    {
+      "id": "CRM-000223",
+      "email": "customer408@gmail.com",
+      "profile": { "first_name": "Yaw", "last_name": "Kim" },
+      "phone": "invalid-phone",
+      "region": "Asia",
+      "registration_date": "2023-01-01",
+      "opt_out": false,
+      "lifetime_value": 2714.9
+    },
+    {
+      "id": "CRM-000224",
+      "email": "customer755@company.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "L\u00f3pez" },
+      "phone": null,
+      "region": "North America",
+      "registration_date": "2020-02-01",
+      "opt_out": true,
+      "lifetime_value": 3769.55
+    },
+    {
+      "id": "CRM-000225",
+      "email": "customer617@company.com",
+      "profile": { "first_name": "John", "last_name": "Boateng" },
+      "phone": "5551234567",
+      "region": "USA",
+      "registration_date": "2021-11-01",
+      "opt_out": true,
+      "lifetime_value": 1414.06
+    },
+    {
+      "id": "CRM-000226",
+      "email": "customer544@yahoo.com",
+      "profile": { "first_name": "Sarah", "last_name": "Williams" },
+      "phone": "020 7946 0958",
+      "region": "united states",
+      "registration_date": "2022-10-01",
+      "opt_out": false,
+      "lifetime_value": 1216.16
+    },
+    {
+      "id": "CRM-000227",
+      "email": "customer398@company.com",
+      "profile": { "first_name": "Maria", "last_name": "Johnson" },
+      "phone": "5551234567",
+      "region": "eu",
+      "registration_date": "2022-10-01",
+      "opt_out": false,
+      "lifetime_value": 4915.59
+    },
+    {
+      "id": "CRM-000228",
+      "email": "",
+      "profile": { "first_name": "Kofi", "last_name": "Kim" },
+      "phone": "555.123.4567",
+      "region": "us",
+      "registration_date": "2021-04-01",
+      "opt_out": false,
+      "lifetime_value": 3219.88
+    },
+    {
+      "id": "CRM-000229",
+      "email": "customer308@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "L\u00f3pez" },
+      "phone": "5551234567",
+      "region": "EU",
+      "registration_date": "2022-09-01",
+      "opt_out": false,
+      "lifetime_value": 3793.15
+    },
+    {
+      "id": "CRM-000230",
+      "email": "customer771@gmail.com",
+      "profile": { "first_name": "Jane", "last_name": "Asante" },
+      "phone": null,
+      "region": "Asia Pacific",
+      "registration_date": "2022-12-01",
+      "opt_out": false,
+      "lifetime_value": 339.37
+    },
+    {
+      "id": "CRM-000231",
+      "email": "customer68@company.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Wang" },
+      "phone": "+1 (555) 123-4567",
+      "region": null,
+      "registration_date": "2020-07-01",
+      "opt_out": false,
+      "lifetime_value": 635.28
+    },
+    {
+      "id": "CRM-000232",
+      "email": "customer250@yahoo.com",
+      "profile": { "first_name": "Akosua", "last_name": "Smith" },
+      "phone": "+81-3-1234-5678",
+      "region": "eu",
+      "registration_date": "2022-10-01",
+      "opt_out": false,
+      "lifetime_value": 132.47
+    },
+    {
+      "id": "CRM-000233",
+      "email": "customer445@yahoo.com",
+      "profile": { "first_name": "Ama", "last_name": "Brown" },
+      "phone": "5551234567",
+      "region": "us",
+      "registration_date": "2021-04-01",
+      "opt_out": false,
+      "lifetime_value": 2083.12
+    },
+    {
+      "id": "CRM-000234",
+      "email": "customer198@gmail.com",
+      "profile": { "first_name": "Kofi", "last_name": "Mensah" },
+      "phone": "020 7946 0958",
+      "region": "North America",
+      "registration_date": "2020-08-01",
+      "opt_out": false,
+      "lifetime_value": 3997.1
+    },
+    {
+      "id": "CRM-000235",
+      "email": "customer238@yahoo.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Jones" },
+      "phone": "+81-3-1234-5678",
+      "region": "N/A",
+      "registration_date": "2022-11-01",
+      "opt_out": false,
+      "lifetime_value": 4554.15
+    },
+    {
+      "id": "CRM-000236",
+      "email": "customer379@yahoo.com",
+      "profile": { "first_name": "Ama", "last_name": "Mart\u00ednez" },
+      "phone": "+44 20 7946 0958",
+      "region": "EU",
+      "registration_date": "2022-11-01",
+      "opt_out": false,
+      "lifetime_value": 2401.79
+    },
+    {
+      "id": "CRM-000237",
+      "email": "customer419@company.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Asante" },
+      "phone": "5551234567",
+      "region": "Asia Pacific",
+      "registration_date": "2021-09-01",
+      "opt_out": true,
+      "lifetime_value": 2162.95
+    },
+    {
+      "id": "CRM-000238",
+      "email": "customer587@company.com",
+      "profile": { "first_name": "John", "last_name": "Kim" },
+      "phone": "555.123.4567",
+      "region": "us",
+      "registration_date": "2022-12-01",
+      "opt_out": false,
+      "lifetime_value": 2038.4
+    },
+    {
+      "id": "CRM-000239",
+      "email": "customer144@gmail.com",
+      "profile": { "first_name": "Mike", "last_name": "Mart\u00ednez" },
+      "phone": "555.123.4567",
+      "region": "Europe",
+      "registration_date": "2020-03-01",
+      "opt_out": false,
+      "lifetime_value": 1003.75
+    },
+    {
+      "id": "CRM-000240",
+      "email": "customer61@yahoo.com",
+      "profile": { "first_name": "Yaw", "last_name": "Mensah" },
+      "phone": "555.123.4567",
+      "region": "europe",
+      "registration_date": "2023-04-01",
+      "opt_out": true,
+      "lifetime_value": 1046.96
+    },
+    {
+      "id": "CRM-000241",
+      "email": "customer760@yahoo.com",
+      "profile": { "first_name": "John", "last_name": "Gonz\u00e1lez" },
+      "phone": "invalid-phone",
+      "region": "EMEA",
+      "registration_date": "2022-02-01",
+      "opt_out": false,
+      "lifetime_value": 85.35
+    },
+    {
+      "id": "CRM-000242",
+      "email": "customer41@company.com",
+      "profile": { "first_name": "Sarah", "last_name": "Williams" },
+      "phone": "+1 (555) 123-4567",
+      "region": "europe",
+      "registration_date": "2021-10-01",
+      "opt_out": false,
+      "lifetime_value": 1791.83
+    },
+    {
+      "id": "CRM-000243",
+      "email": "customer127@yahoo.com",
+      "profile": { "first_name": "Sarah", "last_name": "Johnson" },
+      "phone": null,
+      "region": "united states",
+      "registration_date": "2020-12-01",
+      "opt_out": true,
+      "lifetime_value": 3197.76
+    },
+    {
+      "id": "CRM-000244",
+      "email": "customer29@company.com",
+      "profile": { "first_name": "Jane", "last_name": "L\u00f3pez" },
+      "phone": null,
+      "region": "Europe",
+      "registration_date": "2021-09-01",
+      "opt_out": false,
+      "lifetime_value": 2101.32
+    },
+    {
+      "id": "CRM-000245",
+      "email": "customer295@yahoo.com",
+      "profile": { "first_name": "Kofi", "last_name": "Kim" },
+      "phone": "020 7946 0958",
+      "region": "europe",
+      "registration_date": "2023-02-01",
+      "opt_out": false,
+      "lifetime_value": 3821.35
+    },
+    {
+      "id": "CRM-000246",
+      "email": "customer608@company.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Wang" },
+      "phone": "+81-3-1234-5678",
+      "region": "US",
+      "registration_date": "2022-01-01",
+      "opt_out": true,
+      "lifetime_value": 1291.82
+    },
+    {
+      "id": "CRM-000247",
+      "email": "customer94@yahoo.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Kim" },
+      "phone": null,
+      "region": "united states",
+      "registration_date": "2022-10-01",
+      "opt_out": false,
+      "lifetime_value": 4729.59
+    },
+    {
+      "id": "CRM-000248",
+      "email": "customer79@yahoo.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Smith" },
+      "phone": "invalid-phone",
+      "region": "North America",
+      "registration_date": "2021-06-01",
+      "opt_out": true,
+      "lifetime_value": 1350.47
+    },
+    {
+      "id": "CRM-000249",
+      "email": "customer788@company.com",
+      "profile": { "first_name": "Maria", "last_name": "Brown" },
+      "phone": "invalid-phone",
+      "region": "APAC",
+      "registration_date": "2023-01-01",
+      "opt_out": true,
+      "lifetime_value": 322.08
+    },
+    {
+      "id": "CRM-000250",
+      "email": "customer276@gmail.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Kim" },
+      "phone": "+1 (555) 123-4567",
+      "region": "apac",
+      "registration_date": "2022-09-01",
+      "opt_out": false,
+      "lifetime_value": 2576.78
+    },
+    {
+      "id": "CRM-000251",
+      "email": "customer54@gmail.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Brown" },
+      "phone": "invalid-phone",
+      "region": null,
+      "registration_date": "2021-05-01",
+      "opt_out": false,
+      "lifetime_value": 3578.77
+    },
+    {
+      "id": "CRM-000252",
+      "email": "customer197@company.com",
+      "profile": { "first_name": "Chris", "last_name": "Mensah" },
+      "phone": "+44 20 7946 0958",
+      "region": "",
+      "registration_date": "2020-07-01",
+      "opt_out": false,
+      "lifetime_value": 3144.82
+    },
+    {
+      "id": "CRM-000253",
+      "email": "customer274@yahoo.com",
+      "profile": { "first_name": "Sarah", "last_name": "L\u00f3pez" },
+      "phone": "020 7946 0958",
+      "region": "EU",
+      "registration_date": "2022-06-01",
+      "opt_out": false,
+      "lifetime_value": 4805.69
+    },
+    {
+      "id": "CRM-000254",
+      "email": "customer787@yahoo.com",
+      "profile": { "first_name": "Jane", "last_name": "Garcia" },
+      "phone": null,
+      "region": "EU",
+      "registration_date": "2022-02-01",
+      "opt_out": false,
+      "lifetime_value": 3479.9
+    },
+    {
+      "id": "CRM-000255",
+      "email": "customer528@gmail.com",
+      "profile": { "first_name": "Abena", "last_name": "Williams" },
+      "phone": "+1 (555) 123-4567",
+      "region": "apac",
+      "registration_date": "2021-05-01",
+      "opt_out": true,
+      "lifetime_value": 1221.74
+    },
+    {
+      "id": "CRM-000256",
+      "email": "customer550@yahoo.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "L\u00f3pez" },
+      "phone": null,
+      "region": "Asia",
+      "registration_date": "2023-06-01",
+      "opt_out": false,
+      "lifetime_value": 335.82
+    },
+    {
+      "id": "CRM-000257",
+      "email": "customer195@gmail.com",
+      "profile": { "first_name": "John", "last_name": "Boateng" },
+      "phone": "5551234567",
+      "region": "Asia",
+      "registration_date": "2020-04-01",
+      "opt_out": false,
+      "lifetime_value": 3490.1
+    },
+    {
+      "id": "CRM-000258",
+      "email": "customer145@yahoo.com",
+      "profile": { "first_name": "Maria", "last_name": "Williams" },
+      "phone": "555.123.4567",
+      "region": "USA",
+      "registration_date": "2023-02-01",
+      "opt_out": false,
+      "lifetime_value": 3872.15
+    },
+    {
+      "id": "CRM-000259",
+      "email": "customer610@yahoo.com",
+      "profile": { "first_name": "Jane", "last_name": "Wang" },
+      "phone": "+1 (555) 123-4567",
+      "region": "apac",
+      "registration_date": "2022-12-01",
+      "opt_out": false,
+      "lifetime_value": 210.33
+    },
+    {
+      "id": "CRM-000260",
+      "email": "customer699@gmail.com",
+      "profile": { "first_name": "Akosua", "last_name": "Boateng" },
+      "phone": "+1 (555) 123-4567",
+      "region": "APAC",
+      "registration_date": "2022-12-01",
+      "opt_out": false,
+      "lifetime_value": 978.15
+    },
+    {
+      "id": "CRM-000261",
+      "email": "customer108@gmail.com",
+      "profile": { "first_name": "Maria", "last_name": "Brown" },
+      "phone": null,
+      "region": "Asia Pacific",
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 2255.31
+    },
+    {
+      "id": "CRM-000262",
+      "email": "customer26@company.com",
+      "profile": { "first_name": "Mike", "last_name": "Brown" },
+      "phone": "invalid-phone",
+      "region": "US",
+      "registration_date": "2020-02-01",
+      "opt_out": true,
+      "lifetime_value": 2936.37
+    },
+    {
+      "id": "CRM-000263",
+      "email": "customer765@gmail.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Johnson" },
+      "phone": null,
+      "region": "AP",
+      "registration_date": "2021-12-01",
+      "opt_out": false,
+      "lifetime_value": 2002.67
+    },
+    {
+      "id": "CRM-000264",
+      "email": "customer712@yahoo.com",
+      "profile": { "first_name": "Ama", "last_name": "Mart\u00ednez" },
+      "phone": "020 7946 0958",
+      "region": "EU",
+      "registration_date": "2021-05-01",
+      "opt_out": false,
+      "lifetime_value": 3466.11
+    },
+    {
+      "id": "CRM-000265",
+      "email": "customer166@yahoo.com",
+      "profile": { "first_name": "Yaw", "last_name": "Brown" },
+      "phone": "020 7946 0958",
+      "region": "eu",
+      "registration_date": "2023-12-01",
+      "opt_out": false,
+      "lifetime_value": 906.47
+    },
+    {
+      "id": "CRM-000266",
+      "email": "customer158@company.com",
+      "profile": { "first_name": "Evans", "last_name": "Asante" },
+      "phone": "020 7946 0958",
+      "region": "united states",
+      "registration_date": "2020-06-01",
+      "opt_out": false,
+      "lifetime_value": 4117.67
+    },
+    {
+      "id": "CRM-000267",
+      "email": "customer216@gmail.com",
+      "profile": { "first_name": "Maria", "last_name": "Jones" },
+      "phone": "+81-3-1234-5678",
+      "region": "united states",
+      "registration_date": "2021-05-01",
+      "opt_out": false,
+      "lifetime_value": 83.64
+    },
+    {
+      "id": "CRM-000268",
+      "email": "customer379@yahoo.com",
+      "profile": { "first_name": "John", "last_name": "Mensah" },
+      "phone": "+44 20 7946 0958",
+      "region": "APAC",
+      "registration_date": "2021-10-01",
+      "opt_out": false,
+      "lifetime_value": 3223.07
+    },
+    {
+      "id": "CRM-000269",
+      "email": "customer16@yahoo.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Williams" },
+      "phone": "5551234567",
+      "region": "USA",
+      "registration_date": "2020-03-01",
+      "opt_out": false,
+      "lifetime_value": 488.46
+    },
+    {
+      "id": "CRM-000270",
+      "email": "customer118@yahoo.com",
+      "profile": { "first_name": "Mike", "last_name": "Boateng" },
+      "phone": "020 7946 0958",
+      "region": "Europe",
+      "registration_date": "2021-03-01",
+      "opt_out": false,
+      "lifetime_value": 4216.03
+    },
+    {
+      "id": "CRM-000271",
+      "email": "customer77@company.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Jones" },
+      "phone": "5551234567",
+      "region": "EU",
+      "registration_date": "2021-06-01",
+      "opt_out": true,
+      "lifetime_value": 409.69
+    },
+    {
+      "id": "CRM-000272",
+      "email": "customer331@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Mensah" },
+      "phone": "+1 (555) 123-4567",
+      "region": "europe",
+      "registration_date": "2020-07-01",
+      "opt_out": false,
+      "lifetime_value": 4394.58
+    },
+    {
+      "id": "CRM-000273",
+      "email": "customer137@company.com",
+      "profile": { "first_name": "Yaw", "last_name": "Gonz\u00e1lez" },
+      "phone": "+81-3-1234-5678",
+      "region": "eu",
+      "registration_date": "2023-10-01",
+      "opt_out": false,
+      "lifetime_value": 2570.22
+    },
+    {
+      "id": "CRM-000274",
+      "email": "customer276@gmail.com",
+      "profile": { "first_name": "Evans", "last_name": "Johnson" },
+      "phone": "invalid-phone",
+      "region": "Asia Pacific",
+      "registration_date": "2022-03-01",
+      "opt_out": false,
+      "lifetime_value": 1246.21
+    },
+    {
+      "id": "CRM-000275",
+      "email": "customer167@company.com",
+      "profile": { "first_name": "John", "last_name": "Gonz\u00e1lez" },
+      "phone": null,
+      "region": "Asia",
+      "registration_date": "2022-08-01",
+      "opt_out": false,
+      "lifetime_value": 3899.75
+    },
+    {
+      "id": "CRM-000276",
+      "email": "customer323@company.com",
+      "profile": { "first_name": "Ama", "last_name": "Garcia" },
+      "phone": "5551234567",
+      "region": "APAC",
+      "registration_date": "2020-11-01",
+      "opt_out": false,
+      "lifetime_value": 955.18
+    },
+    {
+      "id": "CRM-000277",
+      "email": "customer240@gmail.com",
+      "profile": { "first_name": "Kofi", "last_name": "Jones" },
+      "phone": "5551234567",
+      "region": null,
+      "registration_date": "2020-04-01",
+      "opt_out": false,
+      "lifetime_value": 921.32
+    },
+    {
+      "id": "CRM-000278",
+      "email": "customer473@company.com",
+      "profile": { "first_name": "Ama", "last_name": "Brown" },
+      "phone": "+81-3-1234-5678",
+      "region": "APAC",
+      "registration_date": "2022-03-01",
+      "opt_out": false,
+      "lifetime_value": 4920.34
+    },
+    {
+      "id": "CRM-000279",
+      "email": "customer580@yahoo.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Johnson" },
+      "phone": "invalid-phone",
+      "region": "North America",
+      "registration_date": "2020-09-01",
+      "opt_out": false,
+      "lifetime_value": 3067.93
+    },
+    {
+      "id": "CRM-000280",
+      "email": "customer119@company.com",
+      "profile": { "first_name": "Mike", "last_name": "D\u00edaz" },
+      "phone": "020 7946 0958",
+      "region": "us",
+      "registration_date": "2020-08-01",
+      "opt_out": false,
+      "lifetime_value": 2868.02
+    },
+    {
+      "id": "CRM-000281",
+      "email": "customer546@gmail.com",
+      "profile": { "first_name": "Akosua", "last_name": "Mart\u00ednez" },
+      "phone": "+44 20 7946 0958",
+      "region": "US",
+      "registration_date": "2021-11-01",
+      "opt_out": false,
+      "lifetime_value": 912.08
+    },
+    {
+      "id": "CRM-000282",
+      "email": "customer115@yahoo.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Williams" },
+      "phone": "555.123.4567",
+      "region": "North America",
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 4651.77
+    },
+    {
+      "id": "CRM-000283",
+      "email": "customer446@company.com",
+      "profile": { "first_name": "Evans", "last_name": "Mart\u00ednez" },
+      "phone": "invalid-phone",
+      "region": "apac",
+      "registration_date": "2020-02-01",
+      "opt_out": false,
+      "lifetime_value": 2346.73
+    },
+    {
+      "id": "CRM-000284",
+      "email": "customer710@company.com",
+      "profile": { "first_name": "Kofi", "last_name": "Wang" },
+      "phone": "invalid-phone",
+      "region": "EU",
+      "registration_date": "2020-07-01",
+      "opt_out": false,
+      "lifetime_value": 3890.59
+    },
+    {
+      "id": "CRM-000285",
+      "email": "customer641@company.com",
+      "profile": { "first_name": "Ama", "last_name": "L\u00f3pez" },
+      "phone": null,
+      "region": "us",
+      "registration_date": "2020-08-01",
+      "opt_out": false,
+      "lifetime_value": 3249.72
+    },
+    {
+      "id": "CRM-000286",
+      "email": "customer789@gmail.com",
+      "profile": { "first_name": "Chris", "last_name": "L\u00f3pez" },
+      "phone": "5551234567",
+      "region": "US",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 4337.61
+    },
+    {
+      "id": "CRM-000287",
+      "email": "customer754@yahoo.com",
+      "profile": { "first_name": "Akosua", "last_name": "Mart\u00ednez" },
+      "phone": "+1 (555) 123-4567",
+      "region": "AP",
+      "registration_date": "2021-10-01",
+      "opt_out": false,
+      "lifetime_value": 4995.3
+    },
+    {
+      "id": "CRM-000288",
+      "email": "customer86@company.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Smith" },
+      "phone": "+44 20 7946 0958",
+      "region": "europe",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 4391.78
+    },
+    {
+      "id": "CRM-000289",
+      "email": "customer349@yahoo.com",
+      "profile": { "first_name": "Maria", "last_name": "Smith" },
+      "phone": null,
+      "region": "Asia Pacific",
+      "registration_date": "2022-04-01",
+      "opt_out": false,
+      "lifetime_value": 422.63
+    },
+    {
+      "id": "CRM-000290",
+      "email": "customer313@yahoo.com",
+      "profile": { "first_name": "Chris", "last_name": "D\u00edaz" },
+      "phone": "020 7946 0958",
+      "region": "US",
+      "registration_date": "2021-07-01",
+      "opt_out": false,
+      "lifetime_value": 1337.24
+    },
+    {
+      "id": "CRM-000291",
+      "email": "customer549@gmail.com",
+      "profile": { "first_name": "Chris", "last_name": "Garcia" },
+      "phone": "020 7946 0958",
+      "region": "US",
+      "registration_date": "2023-02-01",
+      "opt_out": true,
+      "lifetime_value": 2296.93
+    },
+    {
+      "id": "CRM-000292",
+      "email": "customer559@yahoo.com",
+      "profile": { "first_name": "Sarah", "last_name": "Brown" },
+      "phone": "invalid-phone",
+      "region": "US",
+      "registration_date": "2021-10-01",
+      "opt_out": false,
+      "lifetime_value": 4988.48
+    },
+    {
+      "id": "CRM-000293",
+      "email": "customer2@company.com",
+      "profile": { "first_name": "Evans", "last_name": "Brown" },
+      "phone": "+44 20 7946 0958",
+      "region": "",
+      "registration_date": "2020-04-01",
+      "opt_out": false,
+      "lifetime_value": 4991.09
+    },
+    {
+      "id": "CRM-000294",
+      "email": "customer202@yahoo.com",
+      "profile": { "first_name": "Chris", "last_name": "Garcia" },
+      "phone": "+81-3-1234-5678",
+      "region": null,
+      "registration_date": "2022-06-01",
+      "opt_out": true,
+      "lifetime_value": 373.12
+    },
+    {
+      "id": "CRM-000295",
+      "email": "customer110@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "Williams" },
+      "phone": "+44 20 7946 0958",
+      "region": "europe",
+      "registration_date": "2020-03-01",
+      "opt_out": false,
+      "lifetime_value": 1312.71
+    },
+    {
+      "id": "CRM-000296",
+      "email": "customer280@yahoo.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Wang" },
+      "phone": "invalid-phone",
+      "region": null,
+      "registration_date": "2022-03-01",
+      "opt_out": false,
+      "lifetime_value": 367.98
+    },
+    {
+      "id": "CRM-000297",
+      "email": "customer508@yahoo.com",
+      "profile": { "first_name": "Yaw", "last_name": "Gonz\u00e1lez" },
+      "phone": "5551234567",
+      "region": "united states",
+      "registration_date": "2020-09-01",
+      "opt_out": false,
+      "lifetime_value": 2371.67
+    },
+    {
+      "id": "CRM-000298",
+      "email": "customer188@company.com",
+      "profile": { "first_name": "Mike", "last_name": "Smith" },
+      "phone": "+1 (555) 123-4567",
+      "region": "Asia",
+      "registration_date": "2021-05-01",
+      "opt_out": false,
+      "lifetime_value": 4864.21
+    },
+    {
+      "id": "CRM-000299",
+      "email": "customer688@yahoo.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Gonz\u00e1lez" },
+      "phone": null,
+      "region": "eu",
+      "registration_date": "2020-10-01",
+      "opt_out": false,
+      "lifetime_value": 3328.05
+    },
+    {
+      "id": "CRM-000300",
+      "email": "customer229@yahoo.com",
+      "profile": { "first_name": "Kofi", "last_name": "Wang" },
+      "phone": "+1 (555) 123-4567",
+      "region": "Asia Pacific",
+      "registration_date": "2021-08-01",
+      "opt_out": false,
+      "lifetime_value": 3351.33
+    },
+    {
+      "id": "CRM-000301",
+      "email": "customer655@yahoo.com",
+      "profile": { "first_name": "Akosua", "last_name": "Williams" },
+      "phone": "5551234567",
+      "region": "europe",
+      "registration_date": "2022-08-01",
+      "opt_out": true,
+      "lifetime_value": 2495.2
+    },
+    {
+      "id": "CRM-000302",
+      "email": "customer437@company.com",
+      "profile": { "first_name": "Kofi", "last_name": "Mensah" },
+      "phone": "invalid-phone",
+      "region": "APAC",
+      "registration_date": "2021-09-01",
+      "opt_out": true,
+      "lifetime_value": 1253.74
+    },
+    {
+      "id": "CRM-000303",
+      "email": "customer628@yahoo.com",
+      "profile": { "first_name": "Alex", "last_name": "Garcia" },
+      "phone": "+1 (555) 123-4567",
+      "region": "eu",
+      "registration_date": "2020-08-01",
+      "opt_out": true,
+      "lifetime_value": 4111.51
+    },
+    {
+      "id": "CRM-000304",
+      "email": "customer447@gmail.com",
+      "profile": { "first_name": "John", "last_name": "D\u00edaz" },
+      "phone": "020 7946 0958",
+      "region": "USA",
+      "registration_date": "2023-10-01",
+      "opt_out": false,
+      "lifetime_value": 3177.81
+    },
+    {
+      "id": "CRM-000305",
+      "email": "customer604@yahoo.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Smith" },
+      "phone": "5551234567",
+      "region": "eu",
+      "registration_date": "2020-06-01",
+      "opt_out": true,
+      "lifetime_value": 2013.12
+    },
+    {
+      "id": "CRM-000306",
+      "email": "customer92@company.com",
+      "profile": { "first_name": "John", "last_name": "Asante" },
+      "phone": "+81-3-1234-5678",
+      "region": "eu",
+      "registration_date": "2023-06-01",
+      "opt_out": false,
+      "lifetime_value": 4991.68
+    },
+    {
+      "id": "CRM-000307",
+      "email": "customer504@gmail.com",
+      "profile": { "first_name": "Abena", "last_name": "Smith" },
+      "phone": "invalid-phone",
+      "region": "US",
+      "registration_date": "2022-08-01",
+      "opt_out": true,
+      "lifetime_value": 2231.66
+    },
+    {
+      "id": "CRM-000308",
+      "email": "customer219@gmail.com",
+      "profile": { "first_name": "Yaw", "last_name": "Mart\u00ednez" },
+      "phone": "invalid-phone",
+      "region": "us",
+      "registration_date": "2020-05-01",
+      "opt_out": true,
+      "lifetime_value": 3462.61
+    },
+    {
+      "id": "CRM-000309",
+      "email": "customer282@gmail.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "L\u00f3pez" },
+      "phone": "invalid-phone",
+      "region": "Asia",
+      "registration_date": "2020-09-01",
+      "opt_out": true,
+      "lifetime_value": 4815.53
+    },
+    {
+      "id": "CRM-000310",
+      "email": "customer425@company.com",
+      "profile": { "first_name": "John", "last_name": "Jones" },
+      "phone": "020 7946 0958",
+      "region": "North America",
+      "registration_date": "2021-03-01",
+      "opt_out": false,
+      "lifetime_value": 1645.51
+    },
+    {
+      "id": "CRM-000311",
+      "email": "customer564@gmail.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Wang" },
+      "phone": null,
+      "region": "EMEA",
+      "registration_date": "2021-07-01",
+      "opt_out": false,
+      "lifetime_value": 3380.52
+    },
+    {
+      "id": "CRM-000312",
+      "email": "customer403@yahoo.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Wang" },
+      "phone": "+44 20 7946 0958",
+      "region": "North America",
+      "registration_date": "2023-04-01",
+      "opt_out": false,
+      "lifetime_value": 1605.1
+    },
+    {
+      "id": "CRM-000313",
+      "email": "customer116@company.com",
+      "profile": { "first_name": "John", "last_name": "Asante" },
+      "phone": "5551234567",
+      "region": "united states",
+      "registration_date": "2021-09-01",
+      "opt_out": false,
+      "lifetime_value": 3575.49
+    },
+    {
+      "id": "CRM-000314",
+      "email": "customer330@gmail.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Boateng" },
+      "phone": "555.123.4567",
+      "region": "USA",
+      "registration_date": "2023-10-01",
+      "opt_out": false,
+      "lifetime_value": 122.5
+    },
+    {
+      "id": "CRM-000315",
+      "email": "customer457@yahoo.com",
+      "profile": { "first_name": "Yaw", "last_name": "Smith" },
+      "phone": "5551234567",
+      "region": "North America",
+      "registration_date": "2022-01-01",
+      "opt_out": false,
+      "lifetime_value": 4480.63
+    },
+    {
+      "id": "CRM-000316",
+      "email": "customer270@gmail.com",
+      "profile": { "first_name": "Maria", "last_name": "Boateng" },
+      "phone": "+81-3-1234-5678",
+      "region": "North America",
+      "registration_date": "2022-10-01",
+      "opt_out": false,
+      "lifetime_value": 2267.46
+    },
+    {
+      "id": "CRM-000317",
+      "email": "customer482@company.com",
+      "profile": { "first_name": "Abena", "last_name": "Brown" },
+      "phone": "555.123.4567",
+      "region": "North America",
+      "registration_date": "2022-02-01",
+      "opt_out": true,
+      "lifetime_value": 4535.38
+    },
+    {
+      "id": "CRM-000318",
+      "email": "customer177@gmail.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Boateng" },
+      "phone": "020 7946 0958",
+      "region": "Asia",
+      "registration_date": "2022-03-01",
+      "opt_out": false,
+      "lifetime_value": 4399.8
+    },
+    {
+      "id": "CRM-000319",
+      "email": "customer160@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "Garcia" },
+      "phone": "invalid-phone",
+      "region": "us",
+      "registration_date": "2020-07-01",
+      "opt_out": false,
+      "lifetime_value": 2751.06
+    },
+    {
+      "id": "CRM-000320",
+      "email": "customer628@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "Jones" },
+      "phone": "5551234567",
+      "region": "united states",
+      "registration_date": "2023-08-01",
+      "opt_out": false,
+      "lifetime_value": 4100.62
+    },
+    {
+      "id": "CRM-000321",
+      "email": "customer35@company.com",
+      "profile": { "first_name": "Akosua", "last_name": "Gonz\u00e1lez" },
+      "phone": null,
+      "region": "united states",
+      "registration_date": "2020-05-01",
+      "opt_out": false,
+      "lifetime_value": 695.09
+    },
+    {
+      "id": "CRM-000322",
+      "email": "customer618@gmail.com",
+      "profile": { "first_name": "Chris", "last_name": "Kim" },
+      "phone": "555.123.4567",
+      "region": "Asia Pacific",
+      "registration_date": "2020-04-01",
+      "opt_out": false,
+      "lifetime_value": 4622.47
+    },
+    {
+      "id": "CRM-000323",
+      "email": "customer180@gmail.com",
+      "profile": { "first_name": "Ama", "last_name": "Asante" },
+      "phone": "5551234567",
+      "region": "EU",
+      "registration_date": "2021-02-01",
+      "opt_out": false,
+      "lifetime_value": 3429.22
+    },
+    {
+      "id": "CRM-000324",
+      "email": "customer614@company.com",
+      "profile": { "first_name": "Akosua", "last_name": "Kim" },
+      "phone": "+1 (555) 123-4567",
+      "region": "europe",
+      "registration_date": "2021-05-01",
+      "opt_out": false,
+      "lifetime_value": 2577.08
+    },
+    {
+      "id": "CRM-000325",
+      "email": "customer242@company.com",
+      "profile": { "first_name": "Abena", "last_name": "Asante" },
+      "phone": "invalid-phone",
+      "region": "EMEA",
+      "registration_date": "2021-01-01",
+      "opt_out": false,
+      "lifetime_value": 3474.3
+    },
+    {
+      "id": "CRM-000326",
+      "email": "customer237@gmail.com",
+      "profile": { "first_name": "Mike", "last_name": "Smith" },
+      "phone": "+1 (555) 123-4567",
+      "region": "Europe",
+      "registration_date": "2021-03-01",
+      "opt_out": false,
+      "lifetime_value": 579.79
+    },
+    {
+      "id": "CRM-000327",
+      "email": "customer210@gmail.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Jones" },
+      "phone": "+1 (555) 123-4567",
+      "region": "North America",
+      "registration_date": "2020-07-01",
+      "opt_out": false,
+      "lifetime_value": 437.59
+    },
+    {
+      "id": "CRM-000328",
+      "email": "customer388@yahoo.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Johnson" },
+      "phone": "+44 20 7946 0958",
+      "region": "AP",
+      "registration_date": "2021-11-01",
+      "opt_out": false,
+      "lifetime_value": 4379.98
+    },
+    {
+      "id": "CRM-000329",
+      "email": "customer648@gmail.com",
+      "profile": { "first_name": "Jane", "last_name": "Gonz\u00e1lez" },
+      "phone": "5551234567",
+      "region": "US",
+      "registration_date": "2021-09-01",
+      "opt_out": false,
+      "lifetime_value": 68.33
+    },
+    {
+      "id": "CRM-000330",
+      "email": "customer113@company.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Garcia" },
+      "phone": "+81-3-1234-5678",
+      "region": "North America",
+      "registration_date": "2022-06-01",
+      "opt_out": false,
+      "lifetime_value": 189.2
+    },
+    {
+      "id": "CRM-000331",
+      "email": "customer259@yahoo.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Brown" },
+      "phone": "invalid-phone",
+      "region": "us",
+      "registration_date": "2020-01-01",
+      "opt_out": false,
+      "lifetime_value": 1213.4
+    },
+    {
+      "id": "CRM-000332",
+      "email": "customer269@company.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Johnson" },
+      "phone": "+1 (555) 123-4567",
+      "region": "US",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 4552.34
+    },
+    {
+      "id": "CRM-000333",
+      "email": "customer254@company.com",
+      "profile": { "first_name": "Mike", "last_name": "Mart\u00ednez" },
+      "phone": "+44 20 7946 0958",
+      "region": "US",
+      "registration_date": "2020-09-01",
+      "opt_out": false,
+      "lifetime_value": 1362.6
+    },
+    {
+      "id": "CRM-000334",
+      "email": "customer461@company.com",
+      "profile": { "first_name": "Evans", "last_name": "Gonz\u00e1lez" },
+      "phone": "+81-3-1234-5678",
+      "region": "eu",
+      "registration_date": "2023-02-01",
+      "opt_out": false,
+      "lifetime_value": 721.94
+    },
+    {
+      "id": "CRM-000335",
+      "email": "customer556@yahoo.com",
+      "profile": { "first_name": "Jane", "last_name": "L\u00f3pez" },
+      "phone": "invalid-phone",
+      "region": "EU",
+      "registration_date": "2023-01-01",
+      "opt_out": false,
+      "lifetime_value": 545.77
+    },
+    {
+      "id": "CRM-000336",
+      "email": "customer203@company.com",
+      "profile": { "first_name": "Chris", "last_name": "Mensah" },
+      "phone": "5551234567",
+      "region": "APAC",
+      "registration_date": "2021-09-01",
+      "opt_out": false,
+      "lifetime_value": 508.02
+    },
+    {
+      "id": "CRM-000337",
+      "email": "customer385@yahoo.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Jones" },
+      "phone": "invalid-phone",
+      "region": "AP",
+      "registration_date": "2021-04-01",
+      "opt_out": false,
+      "lifetime_value": 874.37
+    },
+    {
+      "id": "CRM-000338",
+      "email": "customer299@company.com",
+      "profile": { "first_name": "Kofi", "last_name": "Wang" },
+      "phone": "invalid-phone",
+      "region": "Europe",
+      "registration_date": "2022-09-01",
+      "opt_out": false,
+      "lifetime_value": 760.93
+    },
+    {
+      "id": "CRM-000339",
+      "email": "customer171@gmail.com",
+      "profile": { "first_name": "Evans", "last_name": "Smith" },
+      "phone": "+81-3-1234-5678",
+      "region": "Asia Pacific",
+      "registration_date": "2023-02-01",
+      "opt_out": false,
+      "lifetime_value": 1564.18
+    },
+    {
+      "id": "CRM-000340",
+      "email": "customer580@yahoo.com",
+      "profile": { "first_name": "Kwame", "last_name": "Johnson" },
+      "phone": "+1 (555) 123-4567",
+      "region": "North America",
+      "registration_date": "2021-08-01",
+      "opt_out": false,
+      "lifetime_value": 1838.02
+    },
+    {
+      "id": "CRM-000341",
+      "email": "customer285@gmail.com",
+      "profile": { "first_name": "Kofi", "last_name": "Smith" },
+      "phone": "555.123.4567",
+      "region": "EMEA",
+      "registration_date": "2022-03-01",
+      "opt_out": true,
+      "lifetime_value": 2398.94
+    },
+    {
+      "id": "CRM-000342",
+      "email": "customer125@company.com",
+      "profile": { "first_name": "Sarah", "last_name": "D\u00edaz" },
+      "phone": "555.123.4567",
+      "region": "EMEA",
+      "registration_date": "2021-01-01",
+      "opt_out": true,
+      "lifetime_value": 2084.17
+    },
+    {
+      "id": "CRM-000343",
+      "email": "customer449@company.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Wang" },
+      "phone": "5551234567",
+      "region": "North America",
+      "registration_date": "2021-05-01",
+      "opt_out": false,
+      "lifetime_value": 192.57
+    },
+    {
+      "id": "CRM-000344",
+      "email": "customer555@gmail.com",
+      "profile": { "first_name": "Kwame", "last_name": "Wang" },
+      "phone": "+81-3-1234-5678",
+      "region": "eu",
+      "registration_date": "2022-12-01",
+      "opt_out": false,
+      "lifetime_value": 4415.78
+    },
+    {
+      "id": "CRM-000345",
+      "email": "customer328@yahoo.com",
+      "profile": { "first_name": "Akosua", "last_name": "Wang" },
+      "phone": "invalid-phone",
+      "region": "US",
+      "registration_date": "2022-05-01",
+      "opt_out": false,
+      "lifetime_value": 144.54
+    },
+    {
+      "id": "CRM-000346",
+      "email": "customer210@gmail.com",
+      "profile": { "first_name": "O'Brien", "last_name": "D\u00edaz" },
+      "phone": "020 7946 0958",
+      "region": "N/A",
+      "registration_date": "2023-10-01",
+      "opt_out": false,
+      "lifetime_value": 2649.51
+    },
+    {
+      "id": "CRM-000347",
+      "email": "customer681@gmail.com",
+      "profile": { "first_name": "Chris", "last_name": "Johnson" },
+      "phone": null,
+      "region": "eu",
+      "registration_date": "2023-09-01",
+      "opt_out": false,
+      "lifetime_value": 4395.99
+    },
+    {
+      "id": "CRM-000348",
+      "email": "customer608@company.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Williams" },
+      "phone": "020 7946 0958",
+      "region": "USA",
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 1093.28
+    },
+    {
+      "id": "CRM-000349",
+      "email": "customer644@company.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Kim" },
+      "phone": null,
+      "region": "EU",
+      "registration_date": "2020-05-01",
+      "opt_out": false,
+      "lifetime_value": 3008.28
+    },
+    {
+      "id": "CRM-000350",
+      "email": "customer268@yahoo.com",
+      "profile": { "first_name": "Chris", "last_name": "Wang" },
+      "phone": "+81-3-1234-5678",
+      "region": "europe",
+      "registration_date": "2020-11-01",
+      "opt_out": false,
+      "lifetime_value": 325.85
+    },
+    {
+      "id": "CRM-000351",
+      "email": "customer793@yahoo.com",
+      "profile": { "first_name": "John", "last_name": "Wang" },
+      "phone": "020 7946 0958",
+      "region": "",
+      "registration_date": "2020-10-01",
+      "opt_out": false,
+      "lifetime_value": 696.83
+    },
+    {
+      "id": "CRM-000352",
+      "email": "customer368@company.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Williams" },
+      "phone": "invalid-phone",
+      "region": "Europe",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 2990.98
+    },
+    {
+      "id": "CRM-000353",
+      "email": "customer424@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "Mensah" },
+      "phone": "+44 20 7946 0958",
+      "region": "AP",
+      "registration_date": "2021-01-01",
+      "opt_out": false,
+      "lifetime_value": 1266.8
+    },
+    {
+      "id": "CRM-000354",
+      "email": "customer69@gmail.com",
+      "profile": { "first_name": "Mike", "last_name": "L\u00f3pez" },
+      "phone": "+44 20 7946 0958",
+      "region": "Asia Pacific",
+      "registration_date": "2021-07-01",
+      "opt_out": true,
+      "lifetime_value": 3203.58
+    },
+    {
+      "id": "CRM-000355",
+      "email": "customer562@yahoo.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Jones" },
+      "phone": "+44 20 7946 0958",
+      "region": "Asia",
+      "registration_date": "2023-02-01",
+      "opt_out": true,
+      "lifetime_value": 2320.59
+    },
+    {
+      "id": "CRM-000356",
+      "email": "customer393@gmail.com",
+      "profile": { "first_name": "Sarah", "last_name": "Brown" },
+      "phone": "+81-3-1234-5678",
+      "region": "EMEA",
+      "registration_date": "2023-02-01",
+      "opt_out": true,
+      "lifetime_value": 4671.22
+    },
+    {
+      "id": "CRM-000357",
+      "email": "customer185@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "D\u00edaz" },
+      "phone": "invalid-phone",
+      "region": "N/A",
+      "registration_date": "2021-03-01",
+      "opt_out": false,
+      "lifetime_value": 4923.65
+    },
+    {
+      "id": "CRM-000358",
+      "email": "customer758@company.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Johnson" },
+      "phone": "invalid-phone",
+      "region": "europe",
+      "registration_date": "2022-03-01",
+      "opt_out": false,
+      "lifetime_value": 1566.89
+    },
+    {
+      "id": "CRM-000359",
+      "email": "customer459@gmail.com",
+      "profile": { "first_name": "Chris", "last_name": "Gonz\u00e1lez" },
+      "phone": "invalid-phone",
+      "region": "us",
+      "registration_date": "2022-09-01",
+      "opt_out": false,
+      "lifetime_value": 3895.27
+    },
+    {
+      "id": "CRM-000360",
+      "email": "customer90@gmail.com",
+      "profile": { "first_name": "Jane", "last_name": "Johnson" },
+      "phone": "invalid-phone",
+      "region": "Europe",
+      "registration_date": "2023-09-01",
+      "opt_out": false,
+      "lifetime_value": 1279.02
+    },
+    {
+      "id": "CRM-000361",
+      "email": "customer23@company.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Wang" },
+      "phone": "555.123.4567",
+      "region": "apac",
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 4235.93
+    },
+    {
+      "id": "CRM-000362",
+      "email": "customer495@gmail.com",
+      "profile": { "first_name": "Ama", "last_name": "Gonz\u00e1lez" },
+      "phone": "555.123.4567",
+      "region": "US",
+      "registration_date": "2023-10-01",
+      "opt_out": true,
+      "lifetime_value": 1862.26
+    },
+    {
+      "id": "CRM-000363",
+      "email": "customer191@company.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Jones" },
+      "phone": "555.123.4567",
+      "region": "",
+      "registration_date": "2021-08-01",
+      "opt_out": false,
+      "lifetime_value": 3417.24
+    },
+    {
+      "id": "CRM-000364",
+      "email": "customer231@gmail.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Mensah" },
+      "phone": "5551234567",
+      "region": "North America",
+      "registration_date": "2023-01-01",
+      "opt_out": false,
+      "lifetime_value": 3183.77
+    },
+    {
+      "id": "CRM-000365",
+      "email": "customer392@company.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Wang" },
+      "phone": "555.123.4567",
+      "region": "us",
+      "registration_date": "2020-05-01",
+      "opt_out": false,
+      "lifetime_value": 739.55
+    },
+    {
+      "id": "CRM-000366",
+      "email": "customer555@gmail.com",
+      "profile": { "first_name": "Evans", "last_name": "Garcia" },
+      "phone": null,
+      "region": "eu",
+      "registration_date": "2022-11-01",
+      "opt_out": false,
+      "lifetime_value": 4685.64
+    },
+    {
+      "id": "CRM-000367",
+      "email": "customer75@gmail.com",
+      "profile": { "first_name": "Sarah", "last_name": "Johnson" },
+      "phone": "invalid-phone",
+      "region": "europe",
+      "registration_date": "2023-06-01",
+      "opt_out": true,
+      "lifetime_value": 781.87
+    },
+    {
+      "id": "CRM-000368",
+      "email": "customer84@gmail.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Wang" },
+      "phone": "555.123.4567",
+      "region": "North America",
+      "registration_date": "2022-01-01",
+      "opt_out": false,
+      "lifetime_value": 4826.4
+    },
+    {
+      "id": "CRM-000369",
+      "email": "customer422@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "Gonz\u00e1lez" },
+      "phone": null,
+      "region": "europe",
+      "registration_date": "2023-12-01",
+      "opt_out": false,
+      "lifetime_value": 758.16
+    },
+    {
+      "id": "CRM-000370",
+      "email": "customer129@gmail.com",
+      "profile": { "first_name": "Abena", "last_name": "Asante" },
+      "phone": null,
+      "region": "US",
+      "registration_date": "2022-02-01",
+      "opt_out": false,
+      "lifetime_value": 4122.15
+    },
+    {
+      "id": "CRM-000371",
+      "email": "customer388@yahoo.com",
+      "profile": { "first_name": "Alex", "last_name": "Wang" },
+      "phone": "5551234567",
+      "region": "Europe",
+      "registration_date": "2020-04-01",
+      "opt_out": false,
+      "lifetime_value": 407.46
+    },
+    {
+      "id": "CRM-000372",
+      "email": "customer536@company.com",
+      "profile": { "first_name": "John", "last_name": "Boateng" },
+      "phone": "+44 20 7946 0958",
+      "region": "us",
+      "registration_date": "2021-09-01",
+      "opt_out": false,
+      "lifetime_value": 3258.87
+    },
+    {
+      "id": "CRM-000373",
+      "email": "customer772@yahoo.com",
+      "profile": { "first_name": "Chris", "last_name": "Boateng" },
+      "phone": null,
+      "region": "USA",
+      "registration_date": "2023-09-01",
+      "opt_out": false,
+      "lifetime_value": 3233.15
+    },
+    {
+      "id": "CRM-000374",
+      "email": "customer605@company.com",
+      "profile": { "first_name": "Maria", "last_name": "Mart\u00ednez" },
+      "phone": "5551234567",
+      "region": "europe",
+      "registration_date": "2022-06-01",
+      "opt_out": false,
+      "lifetime_value": 4895.79
+    },
+    {
+      "id": "CRM-000375",
+      "email": "customer414@gmail.com",
+      "profile": { "first_name": "Jane", "last_name": "Jones" },
+      "phone": "020 7946 0958",
+      "region": "us",
+      "registration_date": "2023-02-01",
+      "opt_out": false,
+      "lifetime_value": 4084.33
+    },
+    {
+      "id": "CRM-000376",
+      "email": "customer331@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Wang" },
+      "phone": "020 7946 0958",
+      "region": "EMEA",
+      "registration_date": "2020-08-01",
+      "opt_out": false,
+      "lifetime_value": 2265.14
+    },
+    {
+      "id": "CRM-000377",
+      "email": "customer497@company.com",
+      "profile": { "first_name": "Sarah", "last_name": "Boateng" },
+      "phone": "5551234567",
+      "region": "apac",
+      "registration_date": "2020-12-01",
+      "opt_out": false,
+      "lifetime_value": 3955.12
+    },
+    {
+      "id": "CRM-000378",
+      "email": "",
+      "profile": { "first_name": "Sarah", "last_name": "Brown" },
+      "phone": "+1 (555) 123-4567",
+      "region": "apac",
+      "registration_date": "2023-09-01",
+      "opt_out": false,
+      "lifetime_value": 4021.13
+    },
+    {
+      "id": "CRM-000379",
+      "email": "customer145@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "Williams" },
+      "phone": "555.123.4567",
+      "region": "eu",
+      "registration_date": "2023-07-01",
+      "opt_out": false,
+      "lifetime_value": 846.26
+    },
+    {
+      "id": "CRM-000380",
+      "email": "customer540@gmail.com",
+      "profile": { "first_name": "Abena", "last_name": "Johnson" },
+      "phone": "5551234567",
+      "region": "N/A",
+      "registration_date": "2022-01-01",
+      "opt_out": false,
+      "lifetime_value": 998.77
+    },
+    {
+      "id": "CRM-000381",
+      "email": "customer278@company.com",
+      "profile": { "first_name": "Abena", "last_name": "Mensah" },
+      "phone": "+81-3-1234-5678",
+      "region": "APAC",
+      "registration_date": "2020-10-01",
+      "opt_out": false,
+      "lifetime_value": 2001.24
+    },
+    {
+      "id": "CRM-000382",
+      "email": "customer786@gmail.com",
+      "profile": { "first_name": "Jane", "last_name": "Smith" },
+      "phone": "+81-3-1234-5678",
+      "region": "europe",
+      "registration_date": "2022-01-01",
+      "opt_out": false,
+      "lifetime_value": 2047.42
+    },
+    {
+      "id": "CRM-000383",
+      "email": "customer700@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Wang" },
+      "phone": "5551234567",
+      "region": "united states",
+      "registration_date": "2021-03-01",
+      "opt_out": false,
+      "lifetime_value": 2662.42
+    },
+    {
+      "id": "CRM-000384",
+      "email": "customer707@company.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Asante" },
+      "phone": null,
+      "region": "us",
+      "registration_date": "2020-11-01",
+      "opt_out": false,
+      "lifetime_value": 885.85
+    },
+    {
+      "id": "CRM-000385",
+      "email": "customer764@company.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Mart\u00ednez" },
+      "phone": "5551234567",
+      "region": "Asia Pacific",
+      "registration_date": "2022-03-01",
+      "opt_out": false,
+      "lifetime_value": 2780.98
+    },
+    {
+      "id": "CRM-000386",
+      "email": "customer523@yahoo.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Garcia" },
+      "phone": "555.123.4567",
+      "region": "us",
+      "registration_date": "2021-11-01",
+      "opt_out": false,
+      "lifetime_value": 1328.22
+    },
+    {
+      "id": "CRM-000387",
+      "email": "customer133@yahoo.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Johnson" },
+      "phone": "+44 20 7946 0958",
+      "region": "EMEA",
+      "registration_date": "2020-06-01",
+      "opt_out": false,
+      "lifetime_value": 3890.53
+    },
+    {
+      "id": "CRM-000388",
+      "email": "customer566@company.com",
+      "profile": { "first_name": "Jane", "last_name": "Williams" },
+      "phone": null,
+      "region": "eu",
+      "registration_date": "2021-10-01",
+      "opt_out": false,
+      "lifetime_value": 3432.47
+    },
+    {
+      "id": "CRM-000389",
+      "email": "customer710@company.com",
+      "profile": { "first_name": "Ama", "last_name": "Johnson" },
+      "phone": "020 7946 0958",
+      "region": "Asia Pacific",
+      "registration_date": "2021-08-01",
+      "opt_out": false,
+      "lifetime_value": 1444.9
+    },
+    {
+      "id": "CRM-000390",
+      "email": "customer735@gmail.com",
+      "profile": { "first_name": "Chris", "last_name": "Mart\u00ednez" },
+      "phone": "+44 20 7946 0958",
+      "region": "USA",
+      "registration_date": "2023-10-01",
+      "opt_out": false,
+      "lifetime_value": 4721.64
+    },
+    {
+      "id": "CRM-000391",
+      "email": "customer501@gmail.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Williams" },
+      "phone": "invalid-phone",
+      "region": "APAC",
+      "registration_date": "2023-02-01",
+      "opt_out": false,
+      "lifetime_value": 4577.74
+    },
+    {
+      "id": "CRM-000392",
+      "email": "customer136@yahoo.com",
+      "profile": { "first_name": "John", "last_name": "Johnson" },
+      "phone": "invalid-phone",
+      "region": null,
+      "registration_date": "2023-08-01",
+      "opt_out": false,
+      "lifetime_value": 3376.69
+    },
+    {
+      "id": "CRM-000393",
+      "email": "customer466@yahoo.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "D\u00edaz" },
+      "phone": "+44 20 7946 0958",
+      "region": "USA",
+      "registration_date": "2023-03-01",
+      "opt_out": false,
+      "lifetime_value": 4193.95
+    },
+    {
+      "id": "CRM-000394",
+      "email": "customer432@gmail.com",
+      "profile": { "first_name": "Akosua", "last_name": "Gonz\u00e1lez" },
+      "phone": "+44 20 7946 0958",
+      "region": "Europe",
+      "registration_date": "2021-07-01",
+      "opt_out": false,
+      "lifetime_value": 2961.22
+    },
+    {
+      "id": "CRM-000395",
+      "email": "customer612@gmail.com",
+      "profile": { "first_name": "Abena", "last_name": "Mensah" },
+      "phone": "020 7946 0958",
+      "region": "Europe",
+      "registration_date": "2020-02-01",
+      "opt_out": false,
+      "lifetime_value": 1601.71
+    },
+    {
+      "id": "CRM-000396",
+      "email": "customer83@company.com",
+      "profile": { "first_name": "Sarah", "last_name": "Brown" },
+      "phone": "555.123.4567",
+      "region": "AP",
+      "registration_date": "2023-06-01",
+      "opt_out": true,
+      "lifetime_value": 3205.14
+    },
+    {
+      "id": "CRM-000397",
+      "email": "customer601@yahoo.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Williams" },
+      "phone": "+81-3-1234-5678",
+      "region": "USA",
+      "registration_date": "2023-08-01",
+      "opt_out": true,
+      "lifetime_value": 3714.87
+    },
+    {
+      "id": "CRM-000398",
+      "email": "customer138@gmail.com",
+      "profile": { "first_name": "Akosua", "last_name": "Johnson" },
+      "phone": "+81-3-1234-5678",
+      "region": "USA",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 4968.21
+    },
+    {
+      "id": "CRM-000399",
+      "email": "customer394@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "Jones" },
+      "phone": "+1 (555) 123-4567",
+      "region": "EMEA",
+      "registration_date": "2021-08-01",
+      "opt_out": false,
+      "lifetime_value": 210.73
+    },
+    {
+      "id": "CRM-000400",
+      "email": "customer20@company.com",
+      "profile": { "first_name": "Kofi", "last_name": "Brown" },
+      "phone": "+81-3-1234-5678",
+      "region": "USA",
+      "registration_date": "2022-06-01",
+      "opt_out": false,
+      "lifetime_value": 4619.71
+    },
+    {
+      "id": "CRM-000401",
+      "email": "customer479@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "Garcia" },
+      "phone": "+44 20 7946 0958",
+      "region": null,
+      "registration_date": "2023-09-01",
+      "opt_out": false,
+      "lifetime_value": 2854.26
+    },
+    {
+      "id": "CRM-000402",
+      "email": "customer660@gmail.com",
+      "profile": { "first_name": "John", "last_name": "Williams" },
+      "phone": "+1 (555) 123-4567",
+      "region": "Asia",
+      "registration_date": "2020-01-01",
+      "opt_out": false,
+      "lifetime_value": 2584.1
+    },
+    {
+      "id": "CRM-000403",
+      "email": "customer213@gmail.com",
+      "profile": { "first_name": "Kwame", "last_name": "Mart\u00ednez" },
+      "phone": null,
+      "region": "apac",
+      "registration_date": "2023-04-01",
+      "opt_out": false,
+      "lifetime_value": 1691.71
+    },
+    {
+      "id": "CRM-000404",
+      "email": "customer398@company.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Gonz\u00e1lez" },
+      "phone": "020 7946 0958",
+      "region": "USA",
+      "registration_date": "2020-07-01",
+      "opt_out": false,
+      "lifetime_value": 1978.1
+    },
+    {
+      "id": "CRM-000405",
+      "email": "customer157@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Smith" },
+      "phone": "invalid-phone",
+      "region": "united states",
+      "registration_date": "2021-03-01",
+      "opt_out": false,
+      "lifetime_value": 1321.31
+    },
+    {
+      "id": "CRM-000406",
+      "email": "customer228@gmail.com",
+      "profile": { "first_name": "Yaw", "last_name": "Boateng" },
+      "phone": "+1 (555) 123-4567",
+      "region": "Asia Pacific",
+      "registration_date": "2022-06-01",
+      "opt_out": false,
+      "lifetime_value": 1255.04
+    },
+    {
+      "id": "CRM-000407",
+      "email": "customer555@gmail.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "D\u00edaz" },
+      "phone": "+81-3-1234-5678",
+      "region": "united states",
+      "registration_date": "2023-12-01",
+      "opt_out": false,
+      "lifetime_value": 4475.34
+    },
+    {
+      "id": "CRM-000408",
+      "email": "customer469@yahoo.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Boateng" },
+      "phone": "5551234567",
+      "region": "APAC",
+      "registration_date": "2023-10-01",
+      "opt_out": false,
+      "lifetime_value": 1719.2
+    },
+    {
+      "id": "CRM-000409",
+      "email": "customer465@gmail.com",
+      "profile": { "first_name": "Yaw", "last_name": "Williams" },
+      "phone": "+1 (555) 123-4567",
+      "region": "APAC",
+      "registration_date": "2021-05-01",
+      "opt_out": false,
+      "lifetime_value": 1786.01
+    },
+    {
+      "id": "CRM-000410",
+      "email": "customer260@company.com",
+      "profile": { "first_name": "Chris", "last_name": "Smith" },
+      "phone": "invalid-phone",
+      "region": "eu",
+      "registration_date": "2023-07-01",
+      "opt_out": false,
+      "lifetime_value": 125.79
+    },
+    {
+      "id": "CRM-000411",
+      "email": "customer292@yahoo.com",
+      "profile": { "first_name": "Kwame", "last_name": "Wang" },
+      "phone": "+1 (555) 123-4567",
+      "region": "us",
+      "registration_date": "2022-08-01",
+      "opt_out": false,
+      "lifetime_value": 1865.27
+    },
+    {
+      "id": "CRM-000412",
+      "email": "customer475@yahoo.com",
+      "profile": { "first_name": "Chris", "last_name": "Brown" },
+      "phone": "+44 20 7946 0958",
+      "region": "Europe",
+      "registration_date": "2021-04-01",
+      "opt_out": false,
+      "lifetime_value": 1806.91
+    },
+    {
+      "id": "CRM-000413",
+      "email": "customer408@gmail.com",
+      "profile": { "first_name": "Sarah", "last_name": "D\u00edaz" },
+      "phone": "+44 20 7946 0958",
+      "region": "europe",
+      "registration_date": "2020-03-01",
+      "opt_out": false,
+      "lifetime_value": 1949.67
+    },
+    {
+      "id": "CRM-000414",
+      "email": "customer249@gmail.com",
+      "profile": { "first_name": "Yaw", "last_name": "Johnson" },
+      "phone": "555.123.4567",
+      "region": "europe",
+      "registration_date": "2022-07-01",
+      "opt_out": true,
+      "lifetime_value": 4602.97
+    },
+    {
+      "id": "CRM-000415",
+      "email": "customer365@company.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Mensah" },
+      "phone": "+81-3-1234-5678",
+      "region": "",
+      "registration_date": "2020-03-01",
+      "opt_out": false,
+      "lifetime_value": 875.6
+    },
+    {
+      "id": "CRM-000416",
+      "email": "customer233@company.com",
+      "profile": { "first_name": "Chris", "last_name": "Mensah" },
+      "phone": "+1 (555) 123-4567",
+      "region": "N/A",
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 1720.51
+    },
+    {
+      "id": "CRM-000417",
+      "email": "customer615@gmail.com",
+      "profile": { "first_name": "Kwame", "last_name": "L\u00f3pez" },
+      "phone": "+1 (555) 123-4567",
+      "region": "us",
+      "registration_date": "2022-03-01",
+      "opt_out": false,
+      "lifetime_value": 3334.28
+    },
+    {
+      "id": "CRM-000418",
+      "email": "customer717@gmail.com",
+      "profile": { "first_name": "Jane", "last_name": "Johnson" },
+      "phone": "020 7946 0958",
+      "region": "US",
+      "registration_date": "2021-03-01",
+      "opt_out": true,
+      "lifetime_value": 825.23
+    },
+    {
+      "id": "CRM-000419",
+      "email": "customer104@company.com",
+      "profile": { "first_name": "Mike", "last_name": "Wang" },
+      "phone": "020 7946 0958",
+      "region": "AP",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 1550.18
+    },
+    {
+      "id": "CRM-000420",
+      "email": "customer220@yahoo.com",
+      "profile": { "first_name": "Akosua", "last_name": "D\u00edaz" },
+      "phone": "555.123.4567",
+      "region": "North America",
+      "registration_date": "2022-02-01",
+      "opt_out": false,
+      "lifetime_value": 4185.92
+    },
+    {
+      "id": "CRM-000421",
+      "email": "customer235@yahoo.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Mart\u00ednez" },
+      "phone": "555.123.4567",
+      "region": "US",
+      "registration_date": "2020-06-01",
+      "opt_out": false,
+      "lifetime_value": 4226.22
+    },
+    {
+      "id": "CRM-000422",
+      "email": "customer235@yahoo.com",
+      "profile": { "first_name": "Sarah", "last_name": "Asante" },
+      "phone": "5551234567",
+      "region": "EMEA",
+      "registration_date": "2022-11-01",
+      "opt_out": false,
+      "lifetime_value": 1950.54
+    },
+    {
+      "id": "CRM-000423",
+      "email": "customer509@company.com",
+      "profile": { "first_name": "Jane", "last_name": "Jones" },
+      "phone": "invalid-phone",
+      "region": "us",
+      "registration_date": "2021-08-01",
+      "opt_out": true,
+      "lifetime_value": 2288.46
+    },
+    {
+      "id": "CRM-000424",
+      "email": "customer375@gmail.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Johnson" },
+      "phone": "020 7946 0958",
+      "region": "united states",
+      "registration_date": "2021-04-01",
+      "opt_out": false,
+      "lifetime_value": 1504.28
+    },
+    {
+      "id": "CRM-000425",
+      "email": "customer701@company.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "Johnson" },
+      "phone": "5551234567",
+      "region": "eu",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 2241.14
+    },
+    {
+      "id": "CRM-000426",
+      "email": "customer234@gmail.com",
+      "profile": { "first_name": "Kofi", "last_name": "Garcia" },
+      "phone": "020 7946 0958",
+      "region": "USA",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 2544.37
+    },
+    {
+      "id": "CRM-000427",
+      "email": "customer347@company.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Mensah" },
+      "phone": "invalid-phone",
+      "region": "Asia Pacific",
+      "registration_date": "2022-01-01",
+      "opt_out": true,
+      "lifetime_value": 2445.06
+    },
+    {
+      "id": "CRM-000428",
+      "email": "customer373@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "Mensah" },
+      "phone": null,
+      "region": "N/A",
+      "registration_date": "2020-01-01",
+      "opt_out": true,
+      "lifetime_value": 3631.5
+    },
+    {
+      "id": "CRM-000429",
+      "email": "customer404@company.com",
+      "profile": { "first_name": "Chris", "last_name": "Mensah" },
+      "phone": "555.123.4567",
+      "region": "europe",
+      "registration_date": "2021-08-01",
+      "opt_out": false,
+      "lifetime_value": 1831.96
+    },
+    {
+      "id": "CRM-000430",
+      "email": "customer275@company.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Asante" },
+      "phone": "+44 20 7946 0958",
+      "region": null,
+      "registration_date": "2021-08-01",
+      "opt_out": false,
+      "lifetime_value": 4756.19
+    },
+    {
+      "id": "CRM-000431",
+      "email": "customer194@company.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Smith" },
+      "phone": "+1 (555) 123-4567",
+      "region": null,
+      "registration_date": "2021-09-01",
+      "opt_out": false,
+      "lifetime_value": 4895.65
+    },
+    {
+      "id": "CRM-000432",
+      "email": "customer445@yahoo.com",
+      "profile": { "first_name": "Mike", "last_name": "Asante" },
+      "phone": null,
+      "region": "US",
+      "registration_date": "2022-05-01",
+      "opt_out": false,
+      "lifetime_value": 3736.52
+    },
+    {
+      "id": "CRM-000433",
+      "email": "customer359@company.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Wang" },
+      "phone": "5551234567",
+      "region": "us",
+      "registration_date": "2021-04-01",
+      "opt_out": true,
+      "lifetime_value": 3340.85
+    },
+    {
+      "id": "CRM-000434",
+      "email": "@nodomain.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Boateng" },
+      "phone": "+81-3-1234-5678",
+      "region": "us",
+      "registration_date": "2023-04-01",
+      "opt_out": false,
+      "lifetime_value": 1404.65
+    },
+    {
+      "id": "CRM-000435",
+      "email": "customer439@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Kim" },
+      "phone": "555.123.4567",
+      "region": "AP",
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 235.77
+    },
+    {
+      "id": "CRM-000436",
+      "email": "customer566@company.com",
+      "profile": { "first_name": "Sarah", "last_name": "Brown" },
+      "phone": "+44 20 7946 0958",
+      "region": "apac",
+      "registration_date": "2021-10-01",
+      "opt_out": false,
+      "lifetime_value": 2318.11
+    },
+    {
+      "id": "CRM-000437",
+      "email": "customer332@company.com",
+      "profile": { "first_name": "Akosua", "last_name": "Boateng" },
+      "phone": "020 7946 0958",
+      "region": "North America",
+      "registration_date": "2023-12-01",
+      "opt_out": false,
+      "lifetime_value": 2375.53
+    },
+    {
+      "id": "CRM-000438",
+      "email": "customer92@company.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Asante" },
+      "phone": "020 7946 0958",
+      "region": "Europe",
+      "registration_date": "2023-11-01",
+      "opt_out": false,
+      "lifetime_value": 2542.39
+    },
+    {
+      "id": "CRM-000439",
+      "email": "customer544@yahoo.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Kim" },
+      "phone": "+1 (555) 123-4567",
+      "region": "N/A",
+      "registration_date": "2020-07-01",
+      "opt_out": true,
+      "lifetime_value": 4565.43
+    },
+    {
+      "id": "CRM-000440",
+      "email": "customer664@yahoo.com",
+      "profile": { "first_name": "Kofi", "last_name": "Gonz\u00e1lez" },
+      "phone": "555.123.4567",
+      "region": "USA",
+      "registration_date": "2020-05-01",
+      "opt_out": true,
+      "lifetime_value": 4454.69
+    },
+    {
+      "id": "CRM-000441",
+      "email": "customer388@yahoo.com",
+      "profile": { "first_name": "John", "last_name": "L\u00f3pez" },
+      "phone": "+1 (555) 123-4567",
+      "region": "",
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 2566.36
+    },
+    {
+      "id": "CRM-000442",
+      "email": "customer61@yahoo.com",
+      "profile": { "first_name": "Chris", "last_name": "Jones" },
+      "phone": "+1 (555) 123-4567",
+      "region": "us",
+      "registration_date": "2021-08-01",
+      "opt_out": false,
+      "lifetime_value": 3763.3
+    },
+    {
+      "id": "CRM-000443",
+      "email": "customer336@gmail.com",
+      "profile": { "first_name": "Mike", "last_name": "Johnson" },
+      "phone": "5551234567",
+      "region": "united states",
+      "registration_date": "2023-07-01",
+      "opt_out": true,
+      "lifetime_value": 2229.85
+    },
+    {
+      "id": "CRM-000444",
+      "email": "customer575@company.com",
+      "profile": { "first_name": "Kofi", "last_name": "Asante" },
+      "phone": "555.123.4567",
+      "region": "EU",
+      "registration_date": "2020-02-01",
+      "opt_out": true,
+      "lifetime_value": 345.82
+    },
+    {
+      "id": "CRM-000445",
+      "email": "customer530@company.com",
+      "profile": { "first_name": "Evans", "last_name": "Smith" },
+      "phone": "+81-3-1234-5678",
+      "region": "EU",
+      "registration_date": "2021-05-01",
+      "opt_out": false,
+      "lifetime_value": 3753.12
+    },
+    {
+      "id": "CRM-000446",
+      "email": "customer443@company.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Mensah" },
+      "phone": "555.123.4567",
+      "region": null,
+      "registration_date": "2022-09-01",
+      "opt_out": false,
+      "lifetime_value": 4435.31
+    },
+    {
+      "id": "CRM-000447",
+      "email": "customer607@yahoo.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Kim" },
+      "phone": "+81-3-1234-5678",
+      "region": "united states",
+      "registration_date": "2022-06-01",
+      "opt_out": true,
+      "lifetime_value": 2353.12
+    },
+    {
+      "id": "CRM-000448",
+      "email": "customer162@gmail.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Jones" },
+      "phone": "020 7946 0958",
+      "region": "Europe",
+      "registration_date": "2023-06-01",
+      "opt_out": false,
+      "lifetime_value": 3664.14
+    },
+    {
+      "id": "CRM-000449",
+      "email": "customer655@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "L\u00f3pez" },
+      "phone": "invalid-phone",
+      "region": "eu",
+      "registration_date": "2021-04-01",
+      "opt_out": false,
+      "lifetime_value": 4709.33
+    },
+    {
+      "id": "CRM-000450",
+      "email": "customer695@company.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Brown" },
+      "phone": null,
+      "region": "Asia",
+      "registration_date": "2021-11-01",
+      "opt_out": false,
+      "lifetime_value": 1924.44
+    },
+    {
+      "id": "CRM-000451",
+      "email": "customer313@yahoo.com",
+      "profile": { "first_name": "Maria", "last_name": "Smith" },
+      "phone": "5551234567",
+      "region": "united states",
+      "registration_date": "2021-06-01",
+      "opt_out": false,
+      "lifetime_value": 3628.05
+    },
+    {
+      "id": "CRM-000452",
+      "email": "customer690@gmail.com",
+      "profile": { "first_name": "Akosua", "last_name": "Boateng" },
+      "phone": "+81-3-1234-5678",
+      "region": "APAC",
+      "registration_date": "2021-11-01",
+      "opt_out": false,
+      "lifetime_value": 2183.39
+    },
+    {
+      "id": "CRM-000453",
+      "email": "customer634@yahoo.com",
+      "profile": { "first_name": "Kwame", "last_name": "Johnson" },
+      "phone": "+81-3-1234-5678",
+      "region": "North America",
+      "registration_date": "2022-10-01",
+      "opt_out": false,
+      "lifetime_value": 1635.48
+    },
+    {
+      "id": "CRM-000454",
+      "email": "customer557@company.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Wang" },
+      "phone": "+1 (555) 123-4567",
+      "region": "apac",
+      "registration_date": "2022-11-01",
+      "opt_out": false,
+      "lifetime_value": 1769.08
+    },
+    {
+      "id": "CRM-000455",
+      "email": "customer43@yahoo.com",
+      "profile": { "first_name": "John", "last_name": "Garcia" },
+      "phone": "5551234567",
+      "region": null,
+      "registration_date": "2021-01-01",
+      "opt_out": true,
+      "lifetime_value": 2459.42
+    },
+    {
+      "id": "CRM-000456",
+      "email": "customer511@yahoo.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "L\u00f3pez" },
+      "phone": "020 7946 0958",
+      "region": "eu",
+      "registration_date": "2022-11-01",
+      "opt_out": true,
+      "lifetime_value": 3645.2
+    },
+    {
+      "id": "CRM-000457",
+      "email": "customer671@company.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Boateng" },
+      "phone": "+81-3-1234-5678",
+      "region": "EMEA",
+      "registration_date": "2021-11-01",
+      "opt_out": false,
+      "lifetime_value": 3267.26
+    },
+    {
+      "id": "CRM-000458",
+      "email": "customer356@company.com",
+      "profile": { "first_name": "Alex", "last_name": "L\u00f3pez" },
+      "phone": "+1 (555) 123-4567",
+      "region": "united states",
+      "registration_date": "2020-08-01",
+      "opt_out": false,
+      "lifetime_value": 2438.34
+    },
+    {
+      "id": "CRM-000459",
+      "email": "customer498@gmail.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Williams" },
+      "phone": "5551234567",
+      "region": "US",
+      "registration_date": "2021-08-01",
+      "opt_out": false,
+      "lifetime_value": 2487.39
+    },
+    {
+      "id": "CRM-000460",
+      "email": "customer682@yahoo.com",
+      "profile": { "first_name": "Jane", "last_name": "Garcia" },
+      "phone": "invalid-phone",
+      "region": "Asia",
+      "registration_date": "2020-10-01",
+      "opt_out": false,
+      "lifetime_value": 1229.14
+    },
+    {
+      "id": "CRM-000461",
+      "email": "customer48@gmail.com",
+      "profile": { "first_name": "Jane", "last_name": "D\u00edaz" },
+      "phone": "5551234567",
+      "region": "N/A",
+      "registration_date": "2023-08-01",
+      "opt_out": false,
+      "lifetime_value": 768.86
+    },
+    {
+      "id": "CRM-000462",
+      "email": "customer233@company.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Brown" },
+      "phone": "5551234567",
+      "region": "EMEA",
+      "registration_date": "2022-01-01",
+      "opt_out": true,
+      "lifetime_value": 4213.48
+    },
+    {
+      "id": "CRM-000463",
+      "email": "customer328@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "Jones" },
+      "phone": "+1 (555) 123-4567",
+      "region": "eu",
+      "registration_date": "2022-04-01",
+      "opt_out": false,
+      "lifetime_value": 4579.94
+    },
+    {
+      "id": "CRM-000464",
+      "email": "customer534@gmail.com",
+      "profile": { "first_name": "Kofi", "last_name": "Brown" },
+      "phone": "+1 (555) 123-4567",
+      "region": "EMEA",
+      "registration_date": "2022-08-01",
+      "opt_out": false,
+      "lifetime_value": 4235.28
+    },
+    {
+      "id": "CRM-000465",
+      "email": "customer454@yahoo.com",
+      "profile": { "first_name": "Jane", "last_name": "L\u00f3pez" },
+      "phone": "5551234567",
+      "region": "EU",
+      "registration_date": "2022-02-01",
+      "opt_out": false,
+      "lifetime_value": 2708.56
+    },
+    {
+      "id": "CRM-000466",
+      "email": "customer545@company.com",
+      "profile": { "first_name": "Evans", "last_name": "Asante" },
+      "phone": "555.123.4567",
+      "region": "EU",
+      "registration_date": "2021-07-01",
+      "opt_out": false,
+      "lifetime_value": 4992.88
+    },
+    {
+      "id": "CRM-000467",
+      "email": "customer635@company.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Brown" },
+      "phone": "+81-3-1234-5678",
+      "region": "US",
+      "registration_date": "2021-09-01",
+      "opt_out": true,
+      "lifetime_value": 4634.66
+    },
+    {
+      "id": "CRM-000468",
+      "email": "customer572@company.com",
+      "profile": { "first_name": "Kofi", "last_name": "Wang" },
+      "phone": "020 7946 0958",
+      "region": "Asia Pacific",
+      "registration_date": "2022-11-01",
+      "opt_out": false,
+      "lifetime_value": 3054.52
+    },
+    {
+      "id": "CRM-000469",
+      "email": "customer697@yahoo.com",
+      "profile": { "first_name": "Fran\u00e7ois", "last_name": "Williams" },
+      "phone": "+44 20 7946 0958",
+      "region": "North America",
+      "registration_date": "2022-09-01",
+      "opt_out": false,
+      "lifetime_value": 2817.73
+    },
+    {
+      "id": "CRM-000470",
+      "email": "customer626@company.com",
+      "profile": { "first_name": "Mike", "last_name": "Asante" },
+      "phone": "555.123.4567",
+      "region": "APAC",
+      "registration_date": "2023-11-01",
+      "opt_out": false,
+      "lifetime_value": 2633.06
+    },
+    {
+      "id": "CRM-000471",
+      "email": "customer339@gmail.com",
+      "profile": { "first_name": "Evans", "last_name": "Smith" },
+      "phone": "+44 20 7946 0958",
+      "region": "EMEA",
+      "registration_date": "2020-11-01",
+      "opt_out": false,
+      "lifetime_value": 57.93
+    },
+    {
+      "id": "CRM-000472",
+      "email": "customer656@company.com",
+      "profile": { "first_name": "Kwame", "last_name": "Brown" },
+      "phone": "+44 20 7946 0958",
+      "region": null,
+      "registration_date": "2022-06-01",
+      "opt_out": false,
+      "lifetime_value": 1813.16
+    },
+    {
+      "id": "CRM-000473",
+      "email": "customer499@yahoo.com",
+      "profile": { "first_name": "Abena", "last_name": "Smith" },
+      "phone": null,
+      "region": "EMEA",
+      "registration_date": "2021-07-01",
+      "opt_out": false,
+      "lifetime_value": 2289.15
+    },
+    {
+      "id": "CRM-000474",
+      "email": "customer55@yahoo.com",
+      "profile": { "first_name": "John", "last_name": "L\u00f3pez" },
+      "phone": "555.123.4567",
+      "region": "USA",
+      "registration_date": "2020-08-01",
+      "opt_out": false,
+      "lifetime_value": 1883.93
+    },
+    {
+      "id": "CRM-000475",
+      "email": "customer343@yahoo.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Jones" },
+      "phone": "020 7946 0958",
+      "region": null,
+      "registration_date": "2020-02-01",
+      "opt_out": false,
+      "lifetime_value": 478.77
+    },
+    {
+      "id": "CRM-000476",
+      "email": "customer661@yahoo.com",
+      "profile": { "first_name": "Kwame", "last_name": "D\u00edaz" },
+      "phone": "+44 20 7946 0958",
+      "region": "us",
+      "registration_date": "2022-01-01",
+      "opt_out": false,
+      "lifetime_value": 1286.94
+    },
+    {
+      "id": "CRM-000477",
+      "email": "customer376@yahoo.com",
+      "profile": { "first_name": "Evans", "last_name": "Smith" },
+      "phone": "invalid-phone",
+      "region": "AP",
+      "registration_date": "2022-01-01",
+      "opt_out": false,
+      "lifetime_value": 1397.96
+    },
+    {
+      "id": "CRM-000478",
+      "email": "customer461@company.com",
+      "profile": { "first_name": "Alex", "last_name": "Kim" },
+      "phone": null,
+      "region": "Asia",
+      "registration_date": "2022-01-01",
+      "opt_out": false,
+      "lifetime_value": 2775.92
+    },
+    {
+      "id": "CRM-000479",
+      "email": "customer447@gmail.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Williams" },
+      "phone": "555.123.4567",
+      "region": "united states",
+      "registration_date": "2021-10-01",
+      "opt_out": false,
+      "lifetime_value": 2707.45
+    },
+    {
+      "id": "CRM-000480",
+      "email": "customer215@company.com",
+      "profile": { "first_name": "Alex", "last_name": "Boateng" },
+      "phone": "invalid-phone",
+      "region": "USA",
+      "registration_date": "2022-07-01",
+      "opt_out": false,
+      "lifetime_value": 3046.95
+    },
+    {
+      "id": "CRM-000481",
+      "email": "double@@sign.com",
+      "profile": { "first_name": "Ama", "last_name": "Garcia" },
+      "phone": "+44 20 7946 0958",
+      "region": "us",
+      "registration_date": "2021-02-01",
+      "opt_out": false,
+      "lifetime_value": 1038.37
+    },
+    {
+      "id": "CRM-000482",
+      "email": "customer124@yahoo.com",
+      "profile": { "first_name": "Andr\u00e9", "last_name": "Williams" },
+      "phone": "020 7946 0958",
+      "region": "EU",
+      "registration_date": "2023-03-01",
+      "opt_out": false,
+      "lifetime_value": 2646.28
+    },
+    {
+      "id": "CRM-000483",
+      "email": "customer245@company.com",
+      "profile": { "first_name": "Akosua", "last_name": "Johnson" },
+      "phone": null,
+      "region": "EU",
+      "registration_date": "2023-10-01",
+      "opt_out": false,
+      "lifetime_value": 3479.75
+    },
+    {
+      "id": "CRM-000484",
+      "email": "customer169@yahoo.com",
+      "profile": { "first_name": "Mike", "last_name": "Wang" },
+      "phone": "020 7946 0958",
+      "region": "europe",
+      "registration_date": "2022-11-01",
+      "opt_out": false,
+      "lifetime_value": 2769.17
+    },
+    {
+      "id": "CRM-000485",
+      "email": "customer140@company.com",
+      "profile": { "first_name": "Mike", "last_name": "Asante" },
+      "phone": "+1 (555) 123-4567",
+      "region": "EU",
+      "registration_date": "2023-08-01",
+      "opt_out": false,
+      "lifetime_value": 3067.96
+    },
+    {
+      "id": "CRM-000486",
+      "email": "customer252@gmail.com",
+      "profile": { "first_name": "Yaw", "last_name": "Wang" },
+      "phone": "5551234567",
+      "region": "Asia",
+      "registration_date": "2021-03-01",
+      "opt_out": false,
+      "lifetime_value": 3502.37
+    },
+    {
+      "id": "CRM-000487",
+      "email": "customer55@yahoo.com",
+      "profile": { "first_name": "Sarah", "last_name": "Mensah" },
+      "phone": "invalid-phone",
+      "region": "APAC",
+      "registration_date": "2023-10-01",
+      "opt_out": false,
+      "lifetime_value": 4466.58
+    },
+    {
+      "id": "CRM-000488",
+      "email": "customer70@yahoo.com",
+      "profile": { "first_name": "Sarah", "last_name": "L\u00f3pez" },
+      "phone": "+1 (555) 123-4567",
+      "region": "EMEA",
+      "registration_date": "2023-09-01",
+      "opt_out": false,
+      "lifetime_value": 1234.88
+    },
+    {
+      "id": "CRM-000489",
+      "email": "customer42@gmail.com",
+      "profile": { "first_name": "Akosua", "last_name": "Garcia" },
+      "phone": "+44 20 7946 0958",
+      "region": "eu",
+      "registration_date": "2021-05-01",
+      "opt_out": false,
+      "lifetime_value": 2882.8
+    },
+    {
+      "id": "CRM-000490",
+      "email": "customer768@gmail.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Garcia" },
+      "phone": "555.123.4567",
+      "region": null,
+      "registration_date": "2020-08-01",
+      "opt_out": false,
+      "lifetime_value": 4666.57
+    },
+    {
+      "id": "CRM-000491",
+      "email": "customer403@yahoo.com",
+      "profile": { "first_name": "M\u00fcller", "last_name": "Gonz\u00e1lez" },
+      "phone": "555.123.4567",
+      "region": "",
+      "registration_date": "2023-04-01",
+      "opt_out": false,
+      "lifetime_value": 363.1
+    },
+    {
+      "id": "CRM-000492",
+      "email": "customer310@yahoo.com",
+      "profile": { "first_name": "L\u00e9a", "last_name": "Williams" },
+      "phone": "invalid-phone",
+      "region": "Europe",
+      "registration_date": "2021-02-01",
+      "opt_out": false,
+      "lifetime_value": 3294.41
+    },
+    {
+      "id": "CRM-000493",
+      "email": "customer496@yahoo.com",
+      "profile": { "first_name": "O'Brien", "last_name": "Johnson" },
+      "phone": "5551234567",
+      "region": "apac",
+      "registration_date": "2022-11-01",
+      "opt_out": false,
+      "lifetime_value": 2671.38
+    },
+    {
+      "id": "CRM-000494",
+      "email": "customer565@yahoo.com",
+      "profile": { "first_name": "Jos\u00e9", "last_name": "L\u00f3pez" },
+      "phone": "555.123.4567",
+      "region": "US",
+      "registration_date": "2022-04-01",
+      "opt_out": false,
+      "lifetime_value": 4025.03
+    },
+    {
+      "id": "CRM-000495",
+      "email": "customer715@yahoo.com",
+      "profile": { "first_name": "Sarah", "last_name": "Asante" },
+      "phone": "+81-3-1234-5678",
+      "region": "APAC",
+      "registration_date": "2021-10-01",
+      "opt_out": false,
+      "lifetime_value": 3326.21
+    },
+    {
+      "id": "CRM-000496",
+      "email": "customer55@yahoo.com",
+      "profile": { "first_name": "Ama", "last_name": "Smith" },
+      "phone": "555.123.4567",
+      "region": "Asia Pacific",
+      "registration_date": "2021-01-01",
+      "opt_out": false,
+      "lifetime_value": 3739.72
+    },
+    {
+      "id": "CRM-000497",
+      "email": "customer307@yahoo.com",
+      "profile": { "first_name": "Sarah", "last_name": "Mart\u00ednez" },
+      "phone": null,
+      "region": "US",
+      "registration_date": "2021-01-01",
+      "opt_out": false,
+      "lifetime_value": 1372.47
+    },
+    {
+      "id": "CRM-000498",
+      "email": "customer355@yahoo.com",
+      "profile": { "first_name": "John", "last_name": "Johnson" },
+      "phone": null,
+      "region": "Europe",
+      "registration_date": "2023-09-01",
+      "opt_out": false,
+      "lifetime_value": 3559.06
+    },
+    {
+      "id": "CRM-000499",
+      "email": "customer715@yahoo.com",
+      "profile": { "first_name": "Ama", "last_name": "Asante" },
+      "phone": null,
+      "region": "Asia Pacific",
+      "registration_date": "2022-09-01",
+      "opt_out": false,
+      "lifetime_value": 3541.51
+    }
+  ]
+}
